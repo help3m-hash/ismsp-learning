@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-*.txt
-!requirements.txt
-.venv/
-venv/
-*.egg-info/
-.DS_Store
