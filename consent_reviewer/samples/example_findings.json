@@ -1,0 +1,39 @@
+{
+  "_note": "예시 판단 결과입니다. `python -m consent_reviewer report samples/example_findings.json` 로 엑셀 생성을 테스트할 수 있습니다.",
+  "results": [
+    {
+      "source_path": "samples/sample_good.txt",
+      "overall_summary": "수집·이용 목적·항목·보유기간·거부권 고지가 법령 요건을 충족하며, 보유기간은 전자상거래법상 법정 보존기간을 근거와 함께 명시해 적정함. 제3자 제공·민감정보·고유식별정보·주민등록번호·위탁·아동 처리는 해당 사항이 없어 적용 대상이 아님. 전반적으로 적합한 동의서 양식.",
+      "findings": [
+        {"item_id": "purpose", "verdict": "적합", "found_content": "회원 가입 및 본인 확인 / 서비스 제공 및 계약의 이행 / 고객 상담 및 불만(민원) 처리", "issue": "", "recommendation": "", "confidence": "높음"},
+        {"item_id": "items", "verdict": "적합", "found_content": "성명, 생년월일, 휴대전화번호, 이메일 주소", "issue": "", "recommendation": "", "confidence": "높음"},
+        {"item_id": "retention", "verdict": "적합", "found_content": "목적 달성 시 지체 없이 파기. 단 계약·청약철회 5년, 대금결제·재화공급 5년, 소비자 불만·분쟁처리 3년(전자상거래법)", "issue": "", "recommendation": "", "confidence": "높음", "legal_basis": "개인정보 보호법 제21조, 전자상거래법 시행령 제6조"},
+        {"item_id": "right_to_refuse", "verdict": "적합", "found_content": "동의를 거부할 권리가 있으며, 거부 시 회원 가입 및 서비스 이용이 제한될 수 있음", "issue": "", "recommendation": "", "confidence": "높음"},
+        {"item_id": "third_party", "verdict": "해당없음", "found_content": "", "issue": "제3자 제공 정황이 없음", "recommendation": "", "confidence": "높음"},
+        {"item_id": "sensitive", "verdict": "해당없음", "found_content": "", "issue": "민감정보 수집 정황이 없음", "recommendation": "", "confidence": "높음"},
+        {"item_id": "unique_id", "verdict": "해당없음", "found_content": "", "issue": "고유식별정보 처리 정황이 없음", "recommendation": "", "confidence": "높음"},
+        {"item_id": "rrn", "verdict": "해당없음", "found_content": "", "issue": "주민등록번호 처리 정황이 없음", "recommendation": "", "confidence": "높음"},
+        {"item_id": "consignment", "verdict": "해당없음", "found_content": "", "issue": "처리 위탁 정황이 없음", "recommendation": "", "confidence": "중간"},
+        {"item_id": "child", "verdict": "해당없음", "found_content": "", "issue": "만 14세 미만 아동 대상 서비스로 보기 어려움", "recommendation": "", "confidence": "중간"},
+        {"item_id": "consent_method", "verdict": "적합", "found_content": "■[필수] 표시, 동의함/동의하지 않음 선택, 서명란 제공", "issue": "", "recommendation": "선택 동의 항목을 추가할 경우 필수와 구분하여 별도 동의를 받을 것", "confidence": "중간"}
+      ]
+    },
+    {
+      "source_path": "samples/sample_bad.txt",
+      "overall_summary": "목적이 포괄·추상적이고(‘기타 활용’), 마케팅 목적 대비 주민등록번호·계좌번호 등 과도한 항목을 수집하며, 보유기간이 ‘영구 보관’으로 파기 원칙에 반함. 동의 거부권·불이익 고지가 없고, 주민등록번호를 동의만으로 수집하려 해 법 위반 소지가 큼. 동의 방식도 일괄 동의로 명확성·선택권이 결여됨. 다수 항목 보완 필요.",
+      "findings": [
+        {"item_id": "purpose", "verdict": "보완필요", "found_content": "마케팅 및 기타 회사가 필요로 하는 업무에의 활용", "issue": "‘기타 …업무에의 활용’은 지나치게 포괄·추상적이어서 정보주체가 처리 내용을 예측할 수 없음. 목적의 구체적 특정 의무 위반.", "recommendation": "어떤 마케팅·업무에 사용하는지 구체적으로 특정하고, 처리별로 목적을 구분 고지", "confidence": "높음"},
+        {"item_id": "items", "verdict": "보완필요", "found_content": "성명, 주민등록번호, 주소, 휴대전화번호, 이메일, 계좌번호", "issue": "마케팅 목적에 비추어 주민등록번호·계좌번호·주소는 불필요한 과잉 수집으로 최소수집 원칙 위반. 필수/선택 구분도 없음.", "recommendation": "목적 달성에 필요한 최소 항목만 수집하고 주민등록번호·계좌번호는 제외(필요 시 별도 근거). 필수/선택 항목 구분", "confidence": "높음"},
+        {"item_id": "retention", "verdict": "보완필요", "found_content": "보유 기간: 영구 보관", "issue": "목적 달성 시 지체 없이 파기해야 하는 원칙(제21조)에 반함. ‘영구 보관’은 최소기간 원칙 위반이며 법정 보존의무 근거도 없음.", "recommendation": "목적 달성 시 파기로 변경하고, 법정 보존이 필요한 정보는 해당 근거 법령과 기간(예: 전자상거래법상 5년)을 명시", "confidence": "높음", "legal_basis": "개인정보 보호법 제21조"},
+        {"item_id": "right_to_refuse", "verdict": "누락", "found_content": "", "issue": "동의를 거부할 권리 및 거부에 따른 불이익에 관한 고지가 전혀 없음.", "recommendation": "동의 거부권과 거부 시 불이익(또는 불이익 없음)을 명확히 고지", "confidence": "높음"},
+        {"item_id": "third_party", "verdict": "해당없음", "found_content": "", "issue": "제3자 제공이 명시되어 있지 않음(다만 ‘기타 활용’ 표현이 제공을 포함한다면 별도 동의·고지 필요)", "recommendation": "", "confidence": "중간"},
+        {"item_id": "sensitive", "verdict": "해당없음", "found_content": "", "issue": "민감정보 수집 정황이 없음", "recommendation": "", "confidence": "높음"},
+        {"item_id": "unique_id", "verdict": "해당없음", "found_content": "", "issue": "여권·운전면허 등 고유식별정보 처리 정황이 없음(주민등록번호는 별도 항목에서 판단)", "recommendation": "", "confidence": "높음"},
+        {"item_id": "rrn", "verdict": "보완필요", "found_content": "수집 항목: … 주민등록번호 …", "issue": "주민등록번호는 정보주체의 동의가 있어도 원칙적으로 처리 금지(제24조의2). 처리를 요구·허용하는 법령 근거가 제시되지 않아 동의만으로 수집 시 법 위반 소지.", "recommendation": "주민등록번호 수집을 제거하거나, 처리 근거 법령 조항을 명시. 불가피하면 CI/DI 등 대체수단 사용 및 암호화 등 안전조치 적용", "confidence": "높음", "legal_basis": "개인정보 보호법 제24조의2"},
+        {"item_id": "consignment", "verdict": "해당없음", "found_content": "", "issue": "처리 위탁 정황이 없음", "recommendation": "", "confidence": "중간"},
+        {"item_id": "child", "verdict": "해당없음", "found_content": "", "issue": "만 14세 미만 아동 대상 서비스로 보기 어려움", "recommendation": "", "confidence": "중간"},
+        {"item_id": "consent_method", "verdict": "보완필요", "found_content": "위 내용에 동의합니다. (동의)", "issue": "중요 내용 명확 표시가 없고, 필수/선택 구분 및 항목별 동의 선택권이 없는 일괄 동의 방식이어서 자유로운 의사에 따른 동의로 보기 어려움.", "recommendation": "중요 내용을 알아보기 쉽게 표시하고, 필수/선택을 구분하여 항목별로 개별 동의를 받도록 양식 개선", "confidence": "높음"}
+      ]
+    }
+  ]
+}
