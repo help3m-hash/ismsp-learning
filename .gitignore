@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 점검 생성물(재생성 가능 — 커밋 제외)
+consent_reviewer/review_packet.json
+consent_reviewer/findings.json
+consent_reviewer/*.xlsx
+
+# Office 임시 잠금 파일
+~$*
