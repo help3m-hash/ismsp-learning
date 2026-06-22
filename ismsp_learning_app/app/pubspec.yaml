@@ -16,6 +16,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
 
 flutter:
   uses-material-design: true
@@ -23,3 +24,12 @@ flutter:
     - assets/content/index.json
     - assets/content/glossary.json
     - assets/content/items/
+
+# 런처 아이콘 생성 설정: dart run flutter_launcher_icons
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/ic_launcher.png"
+  adaptive_icon_background: "#1E5BCB"
+  adaptive_icon_foreground: "assets/icon/ic_foreground.png"
+  min_sdk_android: 21

@@ -7,8 +7,16 @@ build/
 *.iml
 .idea/
 
-# 생성되는 플랫폼 폴더 (flutter create 로 재생성)
-android/
+# 플랫폼 폴더: android는 커밋(아이콘/라벨 커스텀 보존), 빌드 산출물만 제외
+android/.gradle/
+android/.kotlin/
+android/app/build/
+android/build/
+android/local.properties
+android/key.properties
+*.keystore
+*.jks
+# 그 외 플랫폼은 미사용(android 전용 빌드)
 ios/
 linux/
 macos/
