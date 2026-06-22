@@ -1,0 +1,16 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+*.iml
+.idea/
+
+# 생성되는 플랫폼 폴더 (flutter create 로 재생성)
+android/
+ios/
+linux/
+macos/
+windows/
+web/
