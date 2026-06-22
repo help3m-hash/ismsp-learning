@@ -96,6 +96,14 @@ def make_quiz(code, name, cases, pool, rng):
     return quiz
 
 
+def load_manual_quiz(code):
+    """content/manual_quiz/<code>.json(추가 문항 리스트)가 있으면 반환. 재생성에도 보존됨."""
+    p = os.path.join(ROOT, 'content', 'manual_quiz', code + '.json')
+    if not os.path.exists(p):
+        return []
+    return json.load(open(p, encoding='utf-8'))
+
+
 def build():
     lines = open(ex.RAW, encoding='utf-8').read().splitlines()
     data, by = ex.load_cases()
@@ -104,8 +112,14 @@ def build():
     ordered = sorted(starts.items(), key=lambda kv: kv[1])
     idxmap = {c: n for n, (c, _) in enumerate(ordered)}
 
+    # 항목명은 첨부(잘림/사이드바 잔재 있음) 대신 원문 헤더에서 추출
+    rawname = {}
+    for c in codes:
+        m = re.match(r'^\s*\d+\.\d+\.\d+\s+(\S.*)$', lines[starts[c]])
+        rawname[c] = m.group(1).strip() if m else ex.sanitize_name(by[c]['name'])
+
     # 결함사례 전체 풀(거짓 OX·오답용)
-    pool = [(c['code'], ex.sanitize_name(c['name']), cs['text'].strip())
+    pool = [(c['code'], rawname[c['code']], clean_text(cs['text']))
             for c in data for cs in c['cases']]
 
     targets = [c for c in codes if c.split('.')[0] in ('2', '3')]
@@ -116,7 +130,7 @@ def build():
         e = ordered[n + 1][1] if n + 1 < len(ordered) else len(lines)
         f = ex.parse_block(lines, s, e)
         info = by[code]
-        name = ex.sanitize_name(info['name'])
+        name = rawname[code]
         cat_key = code.rsplit('.', 1)[0]
         rng = random.Random('seed-' + code)  # 재현 가능
         cases = info['cases']
@@ -133,7 +147,7 @@ def build():
             'evidence_examples': [clean_text(x) for x in f['evidence']],
             'deficiency_cases': [clean_text(c['text']) for c in cases],
             'related_laws': [clean_text(x) for x in f['related_laws']],
-            'quiz': make_quiz(code, name, cases, pool, rng),
+            'quiz': make_quiz(code, name, cases, pool, rng) + load_manual_quiz(code),
         }
         path = os.path.join(OUT, code + '.json')
         json.dump(item, open(path, 'w', encoding='utf-8'),
