@@ -25,8 +25,14 @@ CATEGORY = {
 DOMAIN = {'2': '2. 보호대책 요구사항', '3': '3. 개인정보 처리 단계별 요구사항'}
 
 
+def clean_text(text):
+    """원문추출 잔재 제거: 사설영역(PUA) 불릿 글자 + 공백 정규화."""
+    text = re.sub('[-]', '', text)  # PUA 불릿( 등) 제거
+    return re.sub(r'\s+', ' ', text).strip()
+
+
 def short(text, limit=95):
-    t = re.sub(r'\s+', ' ', text).strip().rstrip('수 ').strip()
+    t = clean_text(text).rstrip('수 ').strip()
     if len(t) <= limit:
         return t
     cut = t[:limit]
@@ -36,7 +42,7 @@ def short(text, limit=95):
 
 def make_quiz(code, name, cases, pool, rng):
     """결함사례 기반 4문항 생성. pool: [(code,name,text), ...] 전체."""
-    own = [c['text'].strip() for c in cases]
+    own = [clean_text(c['text']) for c in cases]
     others = [p for p in pool if p[0] != code]
     rng.shuffle(others)
 
@@ -122,11 +128,11 @@ def build():
             'title': name,
             'estimated_minutes': max(15, min(30, 14 + 2 * min(ncase, 5) + (1 if f['related_laws'] else 0))),
             'standard': f['standard'],
-            'checkpoints': f['checkpoints'],
-            'explanation': f['explanation'],
-            'evidence_examples': f['evidence'],
-            'deficiency_cases': [c['text'].strip() for c in cases],
-            'related_laws': f['related_laws'],
+            'checkpoints': [clean_text(x) for x in f['checkpoints']],
+            'explanation': [clean_text(x) for x in f['explanation']],
+            'evidence_examples': [clean_text(x) for x in f['evidence']],
+            'deficiency_cases': [clean_text(c['text']) for c in cases],
+            'related_laws': [clean_text(x) for x in f['related_laws']],
             'quiz': make_quiz(code, name, cases, pool, rng),
         }
         path = os.path.join(OUT, code + '.json')
