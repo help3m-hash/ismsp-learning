@@ -53,8 +53,8 @@ class _HomeScreenState extends State<HomeScreen> {
               onStart: () => _startSession(),
             );
             final list = _ItemList(items: items, onTap: (it) => _startSession(item: it));
-            // 폴드 6 메인 화면(펼친 상태) 등 넓은 화면 → 2단 구성
-            if (c.maxWidth >= 720) {
+            // 폴드 6 메인 화면(펼친 상태, 약 707dp) 등 넓은 화면 → 2단 구성
+            if (c.maxWidth >= 600) {
               return Padding(
                 padding: const EdgeInsets.all(20),
                 child: Row(

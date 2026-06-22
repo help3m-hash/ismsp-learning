@@ -64,7 +64,7 @@ class StudyCardScreen extends StatelessWidget {
       body: SafeArea(
         child: LayoutBuilder(builder: (context, c) {
           final header = _Header(item: item, color: color);
-          if (c.maxWidth >= 720) {
+          if (c.maxWidth >= 600) {
             return Column(
               children: [
                 Padding(padding: const EdgeInsets.fromLTRB(20, 16, 20, 0), child: header),
