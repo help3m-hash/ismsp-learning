@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-06-23T09:13:36+09:00",
-  "count": 30,
+  "updated_at": "2026-06-23T09:45:16+09:00",
+  "count": 40,
   "issues": [
+    {
+      "title": "델 테크놀로지스, HPC 및 AI를 위한 차세대 슈퍼컴 서버 신제품 공개",
+      "summary": "델 테크놀로지스, HPC 및 AI를 위한 차세대 슈퍼컴 서버 신제품 공개",
+      "source": "보안뉴스",
+      "url": "http://www.boannews.com/media/view.asp?idx=144278&kind=&sub_kind=",
+      "published": "2026-06-23",
+      "keywords": [
+        "AI보안"
+      ],
+      "severity": "정보",
+      "id": "20260623-001"
+    },
+    {
+      "title": "‘세금 위반 통지’ 위장한 APT 공격 ‘실버폭스’ 주의",
+      "summary": "‘세금 위반 통지’ 위장한 APT 공격 ‘실버폭스’ 주의",
+      "source": "보안뉴스",
+      "url": "http://www.boannews.com/media/view.asp?idx=144279&kind=&sub_kind=",
+      "published": "2026-06-23",
+      "keywords": [
+        "랜섬웨어·침해사고"
+      ],
+      "severity": "중간",
+      "id": "20260623-002"
+    },
     {
       "title": "[PIS FAIR 2026] ‘개인정보 처리방침’ 평가해보니... “생성형 AI 기업 가장 미흡”",
       "summary": "[PIS FAIR 2026] ‘개인정보 처리방침’ 평가해보니... “생성형 AI 기업 가장 미흡”",
@@ -13,7 +37,7 @@
         "AI보안"
       ],
       "severity": "정보",
-      "id": "20260623-001"
+      "id": "20260623-003"
     },
     {
       "title": "신라대-한국경비협회, 경비·보안 분야 전문인력 양성 및 산학협력 강화 위한 업무협약 체결",
@@ -23,7 +47,7 @@
       "published": "2026-06-23",
       "keywords": [],
       "severity": "정보",
-      "id": "20260623-002"
+      "id": "20260623-004"
     },
     {
       "title": "[PIS FAIR 2026] 사전 예방 불가능한 AI 시대... “사후 입증 중심 방어 거버넌스 확립해야”",
@@ -37,7 +61,7 @@
         "AI보안"
       ],
       "severity": "정보",
-      "id": "20260623-003"
+      "id": "20260623-005"
     },
     {
       "title": "[PIS FAIR 2026] “강력한 브레이크가 F1 질주 이끈다” 김홍선 고문이 말하는 AI 시대 개인정보보호",
@@ -49,7 +73,7 @@
         "AI보안"
       ],
       "severity": "정보",
-      "id": "20260623-004"
+      "id": "20260623-006"
     },
     {
       "title": "스텔스모어, 제 21회 공개 위협정보(OSINT) 전문가 교육 과정 개최",
@@ -61,7 +85,7 @@
         "취약점·CVE"
       ],
       "severity": "높음",
-      "id": "20260623-005"
+      "id": "20260623-007"
     },
     {
       "title": "파이오링크, 잠수함용 국산 스위치로 해군 함정 신기술 전시회 참가",
@@ -71,7 +95,7 @@
       "published": "2026-06-23",
       "keywords": [],
       "severity": "정보",
-      "id": "20260623-006"
+      "id": "20260623-008"
     },
     {
       "title": "생성형 AI 시대 개인정보 어떻게 지킬까... 서울시 개인정보보호 포럼 개최",
@@ -83,7 +107,7 @@
         "AI보안"
       ],
       "severity": "중간",
-      "id": "20260623-007"
+      "id": "20260623-009"
     },
     {
       "title": "[PIS FAIR 2026] 개인정보 보호, 사후 제재 중심에서 사전예방 중심으로 전환",
@@ -95,32 +119,6 @@
         "AI보안"
       ],
       "severity": "정보",
-      "id": "20260623-008"
-    },
-    {
-      "title": "[PIS FAIR 2026] “로그는 ‘회복’ 출발점, 상세히 남겨달라... AI 통제권 필수”",
-      "summary": "[PIS FAIR 2026] “로그는 ‘회복’ 출발점, 상세히 남겨달라... AI 통제권 필수”",
-      "source": "보안뉴스",
-      "url": "http://www.boannews.com/media/view.asp?idx=144268&kind=&sub_kind=",
-      "published": "2026-06-23",
-      "keywords": [
-        "AI보안"
-      ],
-      "severity": "정보",
-      "id": "20260623-009"
-    },
-    {
-      "title": "국내 최대 개인정보보호 축제 ‘제15회 개인정보보호페어’ 22일 성황리 개막",
-      "summary": "국내 최대 개인정보보호 축제 ‘제15회 개인정보보호페어’ 22일 성황리 개막",
-      "source": "보안뉴스",
-      "url": "http://www.boannews.com/media/view.asp?idx=144265&kind=&sub_kind=",
-      "published": "2026-06-23",
-      "keywords": [
-        "개인정보보호법",
-        "랜섬웨어·침해사고",
-        "AI보안"
-      ],
-      "severity": "중간",
       "id": "20260623-010"
     },
     {
@@ -363,6 +361,128 @@
       ],
       "severity": "정보",
       "id": "20260623-030"
+    },
+    {
+      "title": "[이혁중 CISO의 현장 보안 인사이트-4] 숫자 뒤에 숨겨진 보안의 본질: 정보보호 공시제도",
+      "summary": "[이혁중 CISO의 현장 보안 인사이트-4] 숫자 뒤에 숨겨진 보안의 본질: 정보보호 공시제도",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207249",
+      "published": "2026-06-22",
+      "keywords": [],
+      "severity": "정보",
+      "id": "20260623-031"
+    },
+    {
+      "title": "잇핀, DLT 데이터 저장구조 ITU-T 국제표준화 착수",
+      "summary": "잇핀, DLT 데이터 저장구조 ITU-T 국제표준화 착수",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207248",
+      "published": "2026-06-22",
+      "keywords": [],
+      "severity": "정보",
+      "id": "20260623-032"
+    },
+    {
+      "title": "유출된 비밀번호가 부른 사고…포티넷 VPN·방화벽 8만 6천여 대 침해",
+      "summary": "유출된 비밀번호가 부른 사고…포티넷 VPN·방화벽 8만 6천여 대 침해",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207247",
+      "published": "2026-06-21",
+      "keywords": [
+        "랜섬웨어·침해사고"
+      ],
+      "severity": "높음",
+      "id": "20260623-033"
+    },
+    {
+      "title": "이메일 계정 탈취부터 서버 장악까지…워드프레스 취약점 비상",
+      "summary": "이메일 계정 탈취부터 서버 장악까지…워드프레스 취약점 비상",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207246",
+      "published": "2026-06-21",
+      "keywords": [
+        "취약점·CVE"
+      ],
+      "severity": "중간",
+      "id": "20260623-034"
+    },
+    {
+      "title": "북한 해킹조직 블루노로프의 새로운 침투 경로…AI 개발자 노린 공급망 공격 발생",
+      "summary": "북한 해킹조직 블루노로프의 새로운 침투 경로…AI 개발자 노린 공급망 공격 발생",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207245",
+      "published": "2026-06-21",
+      "keywords": [
+        "랜섬웨어·침해사고",
+        "AI보안"
+      ],
+      "severity": "정보",
+      "id": "20260623-035"
+    },
+    {
+      "title": "CVE-2026-12770 취약점 (CVSS 5.4)",
+      "summary": "CVE-2026-12770: 신규 등록된 취약점. CVSS 기준 중간 등급.",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-12770",
+      "published": "2026-06-21",
+      "keywords": [
+        "취약점·CVE",
+        "AI보안"
+      ],
+      "severity": "중간",
+      "id": "20260623-036"
+    },
+    {
+      "title": "CVE-2026-12771 취약점 (CVSS 5.0)",
+      "summary": "CVE-2026-12771: 신규 등록된 취약점. CVSS 기준 중간 등급.",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-12771",
+      "published": "2026-06-21",
+      "keywords": [
+        "취약점·CVE",
+        "AI보안"
+      ],
+      "severity": "중간",
+      "id": "20260623-037"
+    },
+    {
+      "title": "CVE-2026-12772 취약점 (CVSS 6.3)",
+      "summary": "CVE-2026-12772: 신규 등록된 취약점. CVSS 기준 중간 등급.",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-12772",
+      "published": "2026-06-21",
+      "keywords": [
+        "취약점·CVE",
+        "AI보안"
+      ],
+      "severity": "중간",
+      "id": "20260623-038"
+    },
+    {
+      "title": "CVE-2026-12773 취약점 (CVSS 7.3)",
+      "summary": "CVE-2026-12773: 신규 등록된 취약점. CVSS 기준 높음 등급.",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-12773",
+      "published": "2026-06-21",
+      "keywords": [
+        "취약점·CVE",
+        "AI보안"
+      ],
+      "severity": "높음",
+      "id": "20260623-039"
+    },
+    {
+      "title": "CVE-2026-12774 취약점 (CVSS 6.3)",
+      "summary": "CVE-2026-12774: 신규 등록된 취약점. CVSS 기준 중간 등급.",
+      "source": "NVD",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-12774",
+      "published": "2026-06-21",
+      "keywords": [
+        "취약점·CVE",
+        "AI보안"
+      ],
+      "severity": "중간",
+      "id": "20260623-040"
     }
   ]
 }
