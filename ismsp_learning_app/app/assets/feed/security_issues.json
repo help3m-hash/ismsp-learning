@@ -1,0 +1,368 @@
+{
+  "updated_at": "2026-06-23T09:13:36+09:00",
+  "count": 30,
+  "issues": [
+    {
+      "title": "[PIS FAIR 2026] ‘개인정보 처리방침’ 평가해보니... “생성형 AI 기업 가장 미흡”",
+      "summary": "[PIS FAIR 2026] ‘개인정보 처리방침’ 평가해보니... “생성형 AI 기업 가장 미흡”",
+      "source": "보안뉴스",
+      "url": "http://www.boannews.com/media/view.asp?idx=144277&kind=&sub_kind=",
+      "published": "2026-06-23",
+      "keywords": [
+        "개인정보보호법",
+        "AI보안"
+      ],
+      "severity": "정보",
+      "id": "20260623-001"
+    },
+    {
+      "title": "신라대-한국경비협회, 경비·보안 분야 전문인력 양성 및 산학협력 강화 위한 업무협약 체결",
+      "summary": "신라대-한국경비협회, 경비·보안 분야 전문인력 양성 및 산학협력 강화 위한 업무협약 체결",
+      "source": "보안뉴스",
+      "url": "http://www.boannews.com/media/view.asp?idx=144276&kind=&sub_kind=",
+      "published": "2026-06-23",
+      "keywords": [],
+      "severity": "정보",
+      "id": "20260623-002"
+    },
+    {
+      "title": "[PIS FAIR 2026] 사전 예방 불가능한 AI 시대... “사후 입증 중심 방어 거버넌스 확립해야”",
+      "summary": "[PIS FAIR 2026] 사전 예방 불가능한 AI 시대... “사후 입증 중심 방어 거버넌스 확립해야”",
+      "source": "보안뉴스",
+      "url": "http://www.boannews.com/media/view.asp?idx=144275&kind=&sub_kind=",
+      "published": "2026-06-23",
+      "keywords": [
+        "개인정보보호법",
+        "규제·고시 개정",
+        "AI보안"
+      ],
+      "severity": "정보",
+      "id": "20260623-003"
+    },
+    {
+      "title": "[PIS FAIR 2026] “강력한 브레이크가 F1 질주 이끈다” 김홍선 고문이 말하는 AI 시대 개인정보보호",
+      "summary": "[PIS FAIR 2026] “강력한 브레이크가 F1 질주 이끈다” 김홍선 고문이 말하는 AI 시대 개인정보보호",
+      "source": "보안뉴스",
+      "url": "http://www.boannews.com/media/view.asp?idx=144272&kind=&sub_kind=",
+      "published": "2026-06-23",
+      "keywords": [
+        "AI보안"
+      ],
+      "severity": "정보",
+      "id": "20260623-004"
+    },
+    {
+      "title": "스텔스모어, 제 21회 공개 위협정보(OSINT) 전문가 교육 과정 개최",
+      "summary": "스텔스모어, 제 21회 공개 위협정보(OSINT) 전문가 교육 과정 개최",
+      "source": "보안뉴스",
+      "url": "http://www.boannews.com/media/view.asp?idx=144273&kind=&sub_kind=",
+      "published": "2026-06-23",
+      "keywords": [
+        "취약점·CVE"
+      ],
+      "severity": "높음",
+      "id": "20260623-005"
+    },
+    {
+      "title": "파이오링크, 잠수함용 국산 스위치로 해군 함정 신기술 전시회 참가",
+      "summary": "파이오링크, 잠수함용 국산 스위치로 해군 함정 신기술 전시회 참가",
+      "source": "보안뉴스",
+      "url": "http://www.boannews.com/media/view.asp?idx=144271&kind=&sub_kind=",
+      "published": "2026-06-23",
+      "keywords": [],
+      "severity": "정보",
+      "id": "20260623-006"
+    },
+    {
+      "title": "생성형 AI 시대 개인정보 어떻게 지킬까... 서울시 개인정보보호 포럼 개최",
+      "summary": "생성형 AI 시대 개인정보 어떻게 지킬까... 서울시 개인정보보호 포럼 개최",
+      "source": "보안뉴스",
+      "url": "http://www.boannews.com/media/view.asp?idx=144270&kind=&sub_kind=",
+      "published": "2026-06-23",
+      "keywords": [
+        "AI보안"
+      ],
+      "severity": "중간",
+      "id": "20260623-007"
+    },
+    {
+      "title": "[PIS FAIR 2026] 개인정보 보호, 사후 제재 중심에서 사전예방 중심으로 전환",
+      "summary": "[PIS FAIR 2026] 개인정보 보호, 사후 제재 중심에서 사전예방 중심으로 전환",
+      "source": "보안뉴스",
+      "url": "http://www.boannews.com/media/view.asp?idx=144267&kind=&sub_kind=",
+      "published": "2026-06-23",
+      "keywords": [
+        "AI보안"
+      ],
+      "severity": "정보",
+      "id": "20260623-008"
+    },
+    {
+      "title": "[PIS FAIR 2026] “로그는 ‘회복’ 출발점, 상세히 남겨달라... AI 통제권 필수”",
+      "summary": "[PIS FAIR 2026] “로그는 ‘회복’ 출발점, 상세히 남겨달라... AI 통제권 필수”",
+      "source": "보안뉴스",
+      "url": "http://www.boannews.com/media/view.asp?idx=144268&kind=&sub_kind=",
+      "published": "2026-06-23",
+      "keywords": [
+        "AI보안"
+      ],
+      "severity": "정보",
+      "id": "20260623-009"
+    },
+    {
+      "title": "국내 최대 개인정보보호 축제 ‘제15회 개인정보보호페어’ 22일 성황리 개막",
+      "summary": "국내 최대 개인정보보호 축제 ‘제15회 개인정보보호페어’ 22일 성황리 개막",
+      "source": "보안뉴스",
+      "url": "http://www.boannews.com/media/view.asp?idx=144265&kind=&sub_kind=",
+      "published": "2026-06-23",
+      "keywords": [
+        "개인정보보호법",
+        "랜섬웨어·침해사고",
+        "AI보안"
+      ],
+      "severity": "중간",
+      "id": "20260623-010"
+    },
+    {
+      "title": "하이크비전, AIoT 제품 개발 전 과정에 보안 적용…2026년 사이버보안 백서 발간",
+      "summary": "하이크비전, AIoT 제품 개발 전 과정에 보안 적용…2026년 사이버보안 백서 발간",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207271",
+      "published": "2026-06-23",
+      "keywords": [
+        "취약점·CVE",
+        "AI보안"
+      ],
+      "severity": "중간",
+      "id": "20260623-011"
+    },
+    {
+      "title": "세무조사 통지서 열었더니 원격제어 악성코드…실버폭스, 기업 대상 APT 공격 확대",
+      "summary": "세무조사 통지서 열었더니 원격제어 악성코드…실버폭스, 기업 대상 APT 공격 확대",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207270",
+      "published": "2026-06-23",
+      "keywords": [
+        "랜섬웨어·침해사고"
+      ],
+      "severity": "정보",
+      "id": "20260623-012"
+    },
+    {
+      "title": "오픈AI, 사이버 방어 ‘데이브레이크’ 확대…취약점 탐지부터 패치까지 자동화",
+      "summary": "오픈AI, 사이버 방어 ‘데이브레이크’ 확대…취약점 탐지부터 패치까지 자동화",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207269",
+      "published": "2026-06-23",
+      "keywords": [
+        "취약점·CVE",
+        "AI보안"
+      ],
+      "severity": "중간",
+      "id": "20260623-013"
+    },
+    {
+      "title": "240억 건 계정 정보 인터넷에 노출…인포스틸러가 만든 ‘계정 탈취 저장소’",
+      "summary": "240억 건 계정 정보 인터넷에 노출…인포스틸러가 만든 ‘계정 탈취 저장소’",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207268",
+      "published": "2026-06-22",
+      "keywords": [
+        "랜섬웨어·침해사고"
+      ],
+      "severity": "정보",
+      "id": "20260623-014"
+    },
+    {
+      "title": "인터폴 “아태지역 랜섬웨어 공격 13만5000건”…딥페이크 사기도 산업화",
+      "summary": "인터폴 “아태지역 랜섬웨어 공격 13만5000건”…딥페이크 사기도 산업화",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207267",
+      "published": "2026-06-22",
+      "keywords": [
+        "랜섬웨어·침해사고",
+        "클라우드보안",
+        "AI보안"
+      ],
+      "severity": "중간",
+      "id": "20260623-015"
+    },
+    {
+      "title": "한국 노린 공유기 봇넷 ‘아리스팅어’ 확산…해킹 공격 중계지로 악용",
+      "summary": "한국 노린 공유기 봇넷 ‘아리스팅어’ 확산…해킹 공격 중계지로 악용",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207266",
+      "published": "2026-06-22",
+      "keywords": [
+        "랜섬웨어·침해사고"
+      ],
+      "severity": "정보",
+      "id": "20260623-016"
+    },
+    {
+      "title": "텍사스주 면허 시스템 해킹…308만명 개인정보 노출",
+      "summary": "텍사스주 면허 시스템 해킹…308만명 개인정보 노출",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207265",
+      "published": "2026-06-22",
+      "keywords": [
+        "개인정보보호법",
+        "랜섬웨어·침해사고"
+      ],
+      "severity": "중간",
+      "id": "20260623-017"
+    },
+    {
+      "title": "싸이터, 국제 해양 안전대전서 선박 전 생애주기 사이버보안 솔루션 공개",
+      "summary": "싸이터, 국제 해양 안전대전서 선박 전 생애주기 사이버보안 솔루션 공개",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207264",
+      "published": "2026-06-22",
+      "keywords": [],
+      "severity": "정보",
+      "id": "20260623-018"
+    },
+    {
+      "title": "스텔스모어, 6월 30일부터 ‘제21회 OSINT 전문가 교육’ 개최",
+      "summary": "스텔스모어, 6월 30일부터 ‘제21회 OSINT 전문가 교육’ 개최",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207263",
+      "published": "2026-06-22",
+      "keywords": [
+        "랜섬웨어·침해사고"
+      ],
+      "severity": "중간",
+      "id": "20260623-019"
+    },
+    {
+      "title": "AWS, AI 에이전트용 데이터 컨텍스트 통합 서비스 'AWS 컨텍스트' 공개",
+      "summary": "AWS, AI 에이전트용 데이터 컨텍스트 통합 서비스 'AWS 컨텍스트' 공개",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207262",
+      "published": "2026-06-22",
+      "keywords": [
+        "클라우드보안",
+        "AI보안"
+      ],
+      "severity": "정보",
+      "id": "20260623-020"
+    },
+    {
+      "title": "투라인클라우드, 'K-글로벌 해외진출 지원사업' 참여기업으로 선정",
+      "summary": "투라인클라우드, 'K-글로벌 해외진출 지원사업' 참여기업으로 선정",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207261",
+      "published": "2026-06-22",
+      "keywords": [
+        "클라우드보안",
+        "AI보안"
+      ],
+      "severity": "정보",
+      "id": "20260623-021"
+    },
+    {
+      "title": "삼성-카카오 공동 AI 해커톤 성료...한국전파진흥협회장상에 '카벤져스'",
+      "summary": "삼성-카카오 공동 AI 해커톤 성료...한국전파진흥협회장상에 '카벤져스'",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207260",
+      "published": "2026-06-22",
+      "keywords": [
+        "AI보안"
+      ],
+      "severity": "정보",
+      "id": "20260623-022"
+    },
+    {
+      "title": "케이시큐어, 범부처 첨단 의료기기 사업 선정…원격 모니터링 보안 기술 개발",
+      "summary": "케이시큐어, 범부처 첨단 의료기기 사업 선정…원격 모니터링 보안 기술 개발",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207259",
+      "published": "2026-06-22",
+      "keywords": [],
+      "severity": "정보",
+      "id": "20260623-023"
+    },
+    {
+      "title": "라온시큐어, 아름다운학교운동본부-퓨쳐앤모어와 디지털 인증 사업 위한 업무협약 체결",
+      "summary": "라온시큐어, 아름다운학교운동본부-퓨쳐앤모어와 디지털 인증 사업 위한 업무협약 체결",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207257",
+      "published": "2026-06-22",
+      "keywords": [],
+      "severity": "정보",
+      "id": "20260623-024"
+    },
+    {
+      "title": "[보안칼럼-협력형 사이버레인지] AI 시대, 왜 우리의 사이버보안은 여전히 위기에 취약한가",
+      "summary": "[보안칼럼-협력형 사이버레인지] AI 시대, 왜 우리의 사이버보안은 여전히 위기에 취약한가",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207258",
+      "published": "2026-06-22",
+      "keywords": [
+        "AI보안"
+      ],
+      "severity": "정보",
+      "id": "20260623-025"
+    },
+    {
+      "title": "인젠트, 한국도로공사 국가 망 보안체계 구축 사업 참여",
+      "summary": "인젠트, 한국도로공사 국가 망 보안체계 구축 사업 참여",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207255",
+      "published": "2026-06-22",
+      "keywords": [
+        "클라우드보안",
+        "규제·고시 개정"
+      ],
+      "severity": "정보",
+      "id": "20260623-026"
+    },
+    {
+      "title": "[박나룡 보안칼럼] 좋은 심사원이 되기 위한 노력(Ⅱ)- 부적합보다 중요한 심사의 본질",
+      "summary": "[박나룡 보안칼럼] 좋은 심사원이 되기 위한 노력(Ⅱ)- 부적합보다 중요한 심사의 본질",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207256",
+      "published": "2026-06-22",
+      "keywords": [
+        "ISMS-P",
+        "규제·고시 개정"
+      ],
+      "severity": "정보",
+      "id": "20260623-027"
+    },
+    {
+      "title": "피앤피시큐어, 하이브리드 환경 내 미관리 자산 통제 플랫폼 ‘DBSAFER Shadow Control’ 출시",
+      "summary": "피앤피시큐어, 하이브리드 환경 내 미관리 자산 통제 플랫폼 ‘DBSAFER Shadow Control’ 출시",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207253",
+      "published": "2026-06-22",
+      "keywords": [
+        "클라우드보안"
+      ],
+      "severity": "중간",
+      "id": "20260623-028"
+    },
+    {
+      "title": "파이오링크, 해군 함정 신기술 전시회 참가...잠수함용 국산 스위치 공개",
+      "summary": "파이오링크, 해군 함정 신기술 전시회 참가...잠수함용 국산 스위치 공개",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207251",
+      "published": "2026-06-22",
+      "keywords": [],
+      "severity": "정보",
+      "id": "20260623-029"
+    },
+    {
+      "title": "[보안칼럼] AI 에이전트 시대, 우리는 이미 같은 실패를 겪었다",
+      "summary": "[보안칼럼] AI 에이전트 시대, 우리는 이미 같은 실패를 겪었다",
+      "source": "데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207250",
+      "published": "2026-06-22",
+      "keywords": [
+        "AI보안"
+      ],
+      "severity": "정보",
+      "id": "20260623-030"
+    }
+  ]
+}

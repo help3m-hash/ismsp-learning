@@ -11,6 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences: ^2.2.2
+  http: ^1.2.0
+  url_launcher: ^6.2.5
 
 dev_dependencies:
   flutter_test:
@@ -24,6 +26,7 @@ flutter:
     - assets/content/index.json
     - assets/content/glossary.json
     - assets/content/items/
+    - assets/feed/security_issues.json
 
 # 런처 아이콘 생성 설정: dart run flutter_launcher_icons
 flutter_launcher_icons:

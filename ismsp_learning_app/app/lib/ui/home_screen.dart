@@ -4,6 +4,7 @@ import '../models/control_item.dart';
 import '../theme/app_theme.dart';
 import 'study_card_screen.dart';
 import 'progress_screen.dart';
+import 'security_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -34,6 +35,13 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(
         title: const Text('ISMS-P 학습', style: TextStyle(fontWeight: FontWeight.w800)),
         actions: [
+          IconButton(
+            tooltip: '보안 이슈',
+            icon: const Icon(Icons.security),
+            onPressed: () => Navigator.of(context).push(
+              MaterialPageRoute(builder: (_) => const SecurityScreen()),
+            ),
+          ),
           IconButton(
             tooltip: '진도',
             icon: const Icon(Icons.bar_chart),
