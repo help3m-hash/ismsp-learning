@@ -36,8 +36,8 @@ class _HomeScreenState extends State<HomeScreen> {
         title: const Text('ISMS-P 학습', style: TextStyle(fontWeight: FontWeight.w800)),
         actions: [
           IconButton(
-            tooltip: '보안 이슈',
-            icon: const Icon(Icons.security),
+            tooltip: '오늘의 이슈',
+            icon: const Icon(Icons.feed),
             onPressed: () => Navigator.of(context).push(
               MaterialPageRoute(builder: (_) => const SecurityScreen()),
             ),

@@ -3,6 +3,7 @@ import 'package:url_launcher/url_launcher.dart';
 import '../data/security_repository.dart';
 import '../models/security_issue.dart';
 
+/// "오늘의 이슈" — 전 분야 뉴스 피드 화면.
 class SecurityScreen extends StatefulWidget {
   const SecurityScreen({super.key});
 
@@ -15,7 +16,7 @@ class _SecurityScreenState extends State<SecurityScreen> {
   SecurityFeed? _feed;
   String _sourceLabel = '';
   bool _loading = true;
-  String? _selectedCategory; // null = 전체
+  String? _selectedDomain; // null = 전체
   String? _selectedRegion; // null = 전체
 
   @override
@@ -49,9 +50,9 @@ class _SecurityScreenState extends State<SecurityScreen> {
 
   List<SecurityIssue> _filtered(SecurityFeed feed) {
     return feed.issues.where((i) {
-      final okCat = _selectedCategory == null || i.keywords.contains(_selectedCategory);
+      final okDom = _selectedDomain == null || i.domain == _selectedDomain;
       final okReg = _selectedRegion == null || i.region == _selectedRegion;
-      return okCat && okReg;
+      return okDom && okReg;
     }).toList();
   }
 
@@ -62,7 +63,7 @@ class _SecurityScreenState extends State<SecurityScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('보안 이슈'),
+        title: const Text('오늘의 이슈'),
         actions: [
           IconButton(
             tooltip: '새로고침',
@@ -78,8 +79,8 @@ class _SecurityScreenState extends State<SecurityScreen> {
               : Column(
                   children: [
                     _header(feed),
+                    _domainChips(feed),
                     if (feed.regions.length > 1) _regionChips(feed),
-                    _categoryChips(feed),
                     Expanded(
                       child: RefreshIndicator(
                         onRefresh: () => _load(refresh: true),
@@ -109,7 +110,7 @@ class _SecurityScreenState extends State<SecurityScreen> {
     return Container(
       width: double.infinity,
       color: isSample ? Colors.amber.withValues(alpha: 0.18) : Colors.transparent,
-      padding: const EdgeInsets.fromLTRB(16, 10, 16, 8),
+      padding: const EdgeInsets.fromLTRB(16, 10, 16, 6),
       child: Row(
         children: [
           Icon(isSample ? Icons.info_outline : Icons.cloud_done_outlined,
@@ -128,6 +129,22 @@ class _SecurityScreenState extends State<SecurityScreen> {
     );
   }
 
+  Widget _domainChips(SecurityFeed feed) {
+    final doms = feed.filterDomains;
+    return SizedBox(
+      height: 46,
+      child: ListView(
+        scrollDirection: Axis.horizontal,
+        padding: const EdgeInsets.symmetric(horizontal: 12),
+        children: [
+          _chip('전체', _selectedDomain == null, () => setState(() => _selectedDomain = null)),
+          for (final d in doms)
+            _chip(d, _selectedDomain == d, () => setState(() => _selectedDomain = d)),
+        ],
+      ),
+    );
+  }
+
   Widget _regionChips(SecurityFeed feed) {
     return SizedBox(
       height: 42,
@@ -138,22 +155,6 @@ class _SecurityScreenState extends State<SecurityScreen> {
           _chip('전체 지역', _selectedRegion == null, () => setState(() => _selectedRegion = null)),
           for (final r in feed.regions)
             _chip(r, _selectedRegion == r, () => setState(() => _selectedRegion = r)),
-        ],
-      ),
-    );
-  }
-
-  Widget _categoryChips(SecurityFeed feed) {
-    final cats = feed.filterCategories;
-    return SizedBox(
-      height: 46,
-      child: ListView(
-        scrollDirection: Axis.horizontal,
-        padding: const EdgeInsets.symmetric(horizontal: 12),
-        children: [
-          _chip('전체', _selectedCategory == null, () => setState(() => _selectedCategory = null)),
-          for (final k in cats)
-            _chip(k, _selectedCategory == k, () => setState(() => _selectedCategory = k)),
         ],
       ),
     );
@@ -176,18 +177,16 @@ class _IssueCard extends StatelessWidget {
   final VoidCallback onTap;
   const _IssueCard({required this.issue, required this.onTap});
 
-  static const _sevColor = {
-    '긴급': Color(0xFFD32F2F),
-    '높음': Color(0xFFE53935),
-    '보통': Color(0xFFF57C00),
-    '중간': Color(0xFFF57C00),
-    '낮음': Color(0xFF1E5BCB),
-    '정보': Color(0xFF9E9E9E),
+  static const _domainColor = {
+    '정치·국제': Color(0xFF9A4DCE),
+    '사회·경제': Color(0xFF1E5BCB),
+    '스포츠·문화': Color(0xFF13A07A),
+    'IT·과학·보안': Color(0xFFF57C00),
   };
 
   @override
   Widget build(BuildContext context) {
-    final c = _sevColor[issue.severity] ?? const Color(0xFF9E9E9E);
+    final c = _domainColor[issue.domain] ?? const Color(0xFF9E9E9E);
     return Card(
       margin: const EdgeInsets.only(bottom: 10),
       child: InkWell(
@@ -204,19 +203,19 @@ class _IssueCard extends StatelessWidget {
                     padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
                     decoration: BoxDecoration(
                         color: c.withValues(alpha: 0.13), borderRadius: BorderRadius.circular(6)),
-                    child: Text(issue.severity,
-                        style: TextStyle(color: c, fontWeight: FontWeight.w800, fontSize: 12)),
+                    child: Text(issue.domain,
+                        style: TextStyle(color: c, fontWeight: FontWeight.w800, fontSize: 11.5)),
                   ),
                   const SizedBox(width: 6),
-                  if (issue.region.isNotEmpty)
+                  if (issue.region == '해외')
                     Container(
                       padding: const EdgeInsets.symmetric(horizontal: 7, vertical: 3),
                       decoration: BoxDecoration(
                           color: Colors.grey.withValues(alpha: 0.16),
                           borderRadius: BorderRadius.circular(6)),
-                      child: Text(issue.region,
+                      child: Text('해외',
                           style: TextStyle(
-                              color: Colors.grey.shade800, fontWeight: FontWeight.w700, fontSize: 11.5)),
+                              color: Colors.grey.shade800, fontWeight: FontWeight.w700, fontSize: 11)),
                     ),
                   const SizedBox(width: 6),
                   Expanded(
@@ -233,23 +232,9 @@ class _IssueCard extends StatelessWidget {
               if (issue.summary.isNotEmpty && issue.summary != issue.title) ...[
                 const SizedBox(height: 4),
                 Text(issue.summary,
+                    maxLines: 3,
+                    overflow: TextOverflow.ellipsis,
                     style: TextStyle(color: Colors.grey.shade800, fontSize: 13.5, height: 1.4)),
-              ],
-              if (issue.keywords.isNotEmpty) ...[
-                const SizedBox(height: 8),
-                Wrap(
-                  spacing: 6,
-                  runSpacing: -4,
-                  children: [
-                    for (final k in issue.keywords)
-                      Chip(
-                        label: Text(k, style: const TextStyle(fontSize: 11)),
-                        materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                        visualDensity: VisualDensity.compact,
-                        padding: EdgeInsets.zero,
-                      ),
-                  ],
-                ),
               ],
             ],
           ),

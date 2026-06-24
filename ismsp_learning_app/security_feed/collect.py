@@ -1,23 +1,21 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-보안/개인정보 이슈 수집·분류 스크립트  (ISMS-P Learning 앱 연동용 루틴 엔진)
+뉴스·이슈 수집·분류 스크립트  (ISMS-P Learning 앱 "오늘의 이슈" 연동 루틴 엔진)
 
-동작: RSS 소스 수집 → 키워드 분류 → 중복 제거 → JSON 생성
-국내/해외(region) 구분 + 카테고리 목록(categories) 포함.
+전 분야(정치·국제 / 사회·경제 / 스포츠·문화 / IT·과학·보안) 뉴스를 RSS로 수집,
+분야 분류 + 제목장사(클릭베이트) 필터 + 중복 제거 후 JSON 생성.
+
+출처 계층(tier): 1차(정부 보도자료) · 통신(통신사) · 종합(종합지) · 보안전문
+※ 관점(perspective)은 출처별 라벨 칸만 제공하며 임의로 단정하지 않음(사용자 큐레이션).
 
 사용법:
-    python collect.py
-    python collect.py --out security_issues.json --days 3
-    python collect.py --all            # 키워드 미매칭 항목도 포함
-
-필요 패키지: feedparser  (pip install feedparser)
-
-[저작권] 기사 본문 전문을 저장/표시하지 않습니다. 제목 + 자체요약(앞부분 일부) +
-원문 링크 + 출처만 다룹니다. 앱 표시 시에도 반드시 원문 링크를 함께 노출합니다.
+    pip install feedparser
+    python collect.py --days 2 --max 80
 """
 import argparse
 import hashlib
+import html
 import json
 import os
 import re
@@ -32,102 +30,111 @@ except ImportError:
     sys.exit(1)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DEFAULT_OUT = os.path.join(HERE, "security_issues.json")
+DEFAULT_OUT = os.path.join(HERE, "security_issues.json")  # 파일명은 호환 위해 유지
 
-# ============================================================
-# 1) 설정 — 여기만 수정하면 됩니다
-# ============================================================
+DOMAINS = ["정치·국제", "사회·경제", "스포츠·문화", "IT·과학·보안"]
 
-RSS_SOURCES = [
-    # ── 국내 ──
-    {"name": "보안뉴스",          "url": "https://www.boannews.com/media/news_rss.xml?mkind=1", "region": "국내"},
-    {"name": "데일리시큐",        "url": "https://www.dailysecu.com/rss/allArticle.xml",         "region": "국내"},
-    {"name": "KISA 보호나라",     "url": "https://www.boho.or.kr/kr/rss.do",                      "region": "국내"},
-    # ── 해외 ──
-    {"name": "The Hacker News",   "url": "https://feeds.feedburner.com/TheHackersNews",           "region": "해외"},
-    {"name": "BleepingComputer",  "url": "https://www.bleepingcomputer.com/feed/",                "region": "해외"},
-    {"name": "Krebs on Security", "url": "https://krebsonsecurity.com/feed/",                     "region": "해외"},
-    {"name": "CISA Advisories",   "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml", "region": "해외"},
+# ── 출처 (domain=None 이면 기사별 키워드로 분야 자동분류) ───────────────
+# perspective: 사용자가 직접 표시(기본 ""). 임의 라벨링하지 않음.
+SOURCES = [
+    # 1차 — 정부 보도자료
+    {"name": "정책브리핑", "url": "https://www.korea.kr/rss/policy.xml", "region": "국내", "tier": "1차", "domain": None, "perspective": ""},
+    # 통신사 — 연합뉴스 분야별
+    {"name": "연합뉴스",   "url": "https://www.yna.co.kr/rss/news.xml",        "region": "국내", "tier": "통신", "domain": None,        "perspective": ""},
+    {"name": "연합뉴스",   "url": "https://www.yna.co.kr/rss/politics.xml",    "region": "국내", "tier": "통신", "domain": "정치·국제",  "perspective": ""},
+    {"name": "연합뉴스",   "url": "https://www.yna.co.kr/rss/international.xml","region": "국내", "tier": "통신", "domain": "정치·국제",  "perspective": ""},
+    {"name": "연합뉴스",   "url": "https://www.yna.co.kr/rss/economy.xml",     "region": "국내", "tier": "통신", "domain": "사회·경제",  "perspective": ""},
+    {"name": "연합뉴스",   "url": "https://www.yna.co.kr/rss/industry.xml",    "region": "국내", "tier": "통신", "domain": "사회·경제",  "perspective": ""},
+    {"name": "연합뉴스",   "url": "https://www.yna.co.kr/rss/society.xml",     "region": "국내", "tier": "통신", "domain": "사회·경제",  "perspective": ""},
+    {"name": "연합뉴스",   "url": "https://www.yna.co.kr/rss/sports.xml",      "region": "국내", "tier": "통신", "domain": "스포츠·문화", "perspective": ""},
+    {"name": "연합뉴스",   "url": "https://www.yna.co.kr/rss/culture.xml",     "region": "국내", "tier": "통신", "domain": "스포츠·문화", "perspective": ""},
+    # 종합지 — 분야 자동분류
+    {"name": "한겨레",     "url": "https://www.hani.co.kr/rss/",                       "region": "국내", "tier": "종합", "domain": None, "perspective": ""},
+    {"name": "경향신문",   "url": "https://www.khan.co.kr/rss/rssdata/total_news.xml", "region": "국내", "tier": "종합", "domain": None, "perspective": ""},
+    {"name": "오마이뉴스", "url": "http://rss.ohmynews.com/rss/ohmynews.xml",          "region": "국내", "tier": "종합", "domain": None, "perspective": ""},
+    {"name": "프레시안",   "url": "https://www.pressian.com/api/v3/site/rss/news",     "region": "국내", "tier": "종합", "domain": None, "perspective": ""},
+    {"name": "서울신문",   "url": "https://www.seoul.co.kr/xml/rss/rss_politics.xml",  "region": "국내", "tier": "종합", "domain": None, "perspective": ""},
+    # 보안 전문
+    {"name": "보안뉴스",      "url": "https://www.boannews.com/media/news_rss.xml?mkind=1", "region": "국내", "tier": "보안", "domain": "IT·과학·보안", "perspective": ""},
+    {"name": "데일리시큐",    "url": "https://www.dailysecu.com/rss/allArticle.xml",        "region": "국내", "tier": "보안", "domain": "IT·과학·보안", "perspective": ""},
+    {"name": "The Hacker News","url": "https://feeds.feedburner.com/TheHackersNews",        "region": "해외", "tier": "보안", "domain": "IT·과학·보안", "perspective": ""},
+    {"name": "BleepingComputer","url": "https://www.bleepingcomputer.com/feed/",            "region": "해외", "tier": "보안", "domain": "IT·과학·보안", "perspective": ""},
 ]
 
-KEYWORD_CATEGORIES = {
-    "ISMS-P·인증": [
-        "ISMS", "ISMS-P", "인증", "정보보호 관리체계", "인증심사", "ISO 27001", "ISO 27701",
-    ],
-    "개인정보보호법·규제": [
-        "개인정보", "프라이버시", "privacy", "개인정보보호법", "GDPR", "처리방침",
-        "개인정보위", "정보주체", "동의", "가명정보", "CI", "DI", "유출",
-    ],
-    "취약점·CVE·패치": [
-        "취약점", "vulnerability", "CVE", "패치", "patch", "zero-day", "제로데이",
-        "exploit", "익스플로잇", "RCE", "권고", "advisory",
-    ],
-    "랜섬웨어·침해사고": [
-        "랜섬웨어", "ransomware", "침해", "해킹", "hack", "breach", "유출사고",
-        "malware", "악성코드", "피싱", "phishing", "APT", "DDoS",
-    ],
-    "금융보안": [
-        "금융보안", "전자금융", "FDS", "이상거래", "금융권", "은행", "핀테크",
-        "fintech", "financial",
-    ],
-    "클라우드·AI보안": [
-        "클라우드", "cloud", "AWS", "Azure", "AI 보안", "LLM", "쿠버네티스",
-        "kubernetes", "컨테이너", "공급망", "supply chain",
-    ],
-}
+# ── 분야 자동분류 키워드 (broad 피드용) — 위에서부터 우선 매칭 ──────────
+DOMAIN_KEYWORDS = [
+    ("IT·과학·보안", ["AI", "인공지능", "반도체", "IT", "과학", "우주", "위성", "네이버", "카카오",
+                    "삼성전자", "애플", "구글", "해킹", "보안", "취약점", "랜섬", "스타트업", "앱",
+                    "데이터센터", "양자", "로봇", "배터리", "전기차"]),
+    ("스포츠·문화", ["야구", "축구", "손흥민", "올림픽", "월드컵", "골프", "배구", "농구", "프로",
+                    "영화", "드라마", "K팝", "케이팝", "공연", "전시", "문화", "연예", "배우",
+                    "가수", "아이돌", "콘서트", "미술", "음악", "스포츠"]),
+    ("정치·국제", ["대통령", "국회", "여당", "야당", "정당", "민주당", "국민의힘", "외교", "정상회담",
+                  "북한", "미국", "중국", "일본", "유엔", "국제", "전쟁", "선거", "장관", "대통령실",
+                  "총리", "정부", "정책", "외교부", "안보"]),
+    ("사회·경제", ["경제", "금융", "증시", "코스피", "부동산", "물가", "기업", "산업", "고용", "노동",
+                  "복지", "법원", "검찰", "경찰", "교육", "환경", "날씨", "사고", "재판", "수출", "은행"]),
+]
 
-SEVERITY_HIGH = ["긴급", "critical", "심각", "제로데이", "zero-day", "RCE", "대규모", "유출"]
-SEVERITY_MID = ["주의", "경고", "warning", "high", "취약점", "패치"]
+# ── 제목장사(클릭베이트) 필터 ───────────────────────────────────────────
+CLICKBAIT_WORDS = [
+    "충격", "경악", "발칵", "헉", "소름", "깜짝", "대박", "이럴수가", "이럴 수가",
+    "알고보니", "알고 보니", "결국", "충격적", "화들짝", "난리", "터졌다", "발칵 뒤집",
+    "눈물", "오열", "폭로", "막장", "참담", "분노 폭발",
+]
 
 
-# ============================================================
-# 2) 수집·분류 로직 (보통 수정 불필요)
-# ============================================================
+_ENTITY_FIX = {"quot;": '"', "middot;": "·", "hellip;": "…", "amp;": "&",
+               "nbsp;": " ", "lt;": "<", "gt;": ">", "ldquo;": '"', "rdquo;": '"',
+               "lsquo;": "'", "rsquo;": "'", "apos;": "'"}
+
 
 def clean_text(s):
     if not s:
         return ""
     s = re.sub(r"<[^>]+>", "", s)
+    s = html.unescape(s)                       # &middot; 등 정상 엔티티 해제
+    for k, v in _ENTITY_FIX.items():           # & 누락된 깨진 엔티티 보정
+        s = s.replace(k, v)
     s = re.sub(r"\s+", " ", s).strip()
     return s
 
 
+def is_clickbait(title):
+    if any(w in title for w in CLICKBAIT_WORDS):
+        return True
+    if title.count("?") + title.count("!") >= 3:  # 물음표·느낌표 남발
+        return True
+    return False
+
+
 def make_summary(entry, limit=120):
-    raw = ""
-    if getattr(entry, "summary", None):
-        raw = clean_text(entry.summary)
-    elif getattr(entry, "description", None):
-        raw = clean_text(entry.description)
-    if len(raw) > limit:
-        raw = raw[:limit].rstrip() + "…"
-    return raw
+    raw = clean_text(getattr(entry, "summary", "") or getattr(entry, "description", ""))
+    return raw[:limit].rstrip() + "…" if len(raw) > limit else raw
 
 
-def classify(text):
-    hits = []
-    low = text.lower()
-    for cat, kws in KEYWORD_CATEGORIES.items():
-        for kw in kws:
-            if kw.lower() in low:
-                hits.append(cat)
+def classify_domain(text):
+    for dom, kws in DOMAIN_KEYWORDS:
+        if any(k.lower() in text.lower() for k in kws):
+            return dom
+    return "사회·경제"  # 미매칭 기본값
+
+
+def topic_tags(text):
+    """카드용 보조 토픽 태그(있으면)."""
+    tags = []
+    for dom, kws in DOMAIN_KEYWORDS:
+        for k in kws:
+            if k.lower() in text.lower():
+                tags.append(k)
                 break
-    return hits
-
-
-def estimate_severity(text):
-    low = text.lower()
-    if any(k.lower() in low for k in SEVERITY_HIGH):
-        return "높음"
-    if any(k.lower() in low for k in SEVERITY_MID):
-        return "보통"
-    return "낮음"
+    return tags[:2]
 
 
 def parse_published(entry):
     t = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
     if t:
-        dt = datetime(*t[:6], tzinfo=timezone.utc).astimezone(timezone(timedelta(hours=9)))
-        return dt.isoformat()
+        return datetime(*t[:6], tzinfo=timezone.utc).astimezone(timezone(timedelta(hours=9))).isoformat()
     return None
 
 
@@ -135,19 +142,18 @@ def entry_id(link, title):
     return hashlib.md5((link or title).encode("utf-8")).hexdigest()[:12]
 
 
-def collect(days=2, only_classified=True):
+def collect(days=2):
     cutoff = datetime.now(timezone.utc) - timedelta(days=days)
-    seen = set()
-    issues = []
+    seen, issues, dropped = set(), [], 0
 
-    for src in RSS_SOURCES:
+    for src in SOURCES:
         try:
             feed = feedparser.parse(src["url"])
         except Exception as e:
             print(f"[경고] {src['name']} 수집 실패: {e}", file=sys.stderr)
             continue
         if getattr(feed, "bozo", 0) and not feed.entries:
-            print(f"[경고] {src['name']} 피드 비어있음/오류", file=sys.stderr)
+            print(f"[경고] {src['name']} ({src['url']}) 비어있음", file=sys.stderr)
             continue
 
         for e in feed.entries:
@@ -155,12 +161,13 @@ def collect(days=2, only_classified=True):
             link = getattr(e, "link", "")
             if not title or not link:
                 continue
+            if is_clickbait(title):       # 제목장사 거르기
+                dropped += 1
+                continue
 
             pub_parsed = getattr(e, "published_parsed", None) or getattr(e, "updated_parsed", None)
-            if pub_parsed:
-                pub_dt = datetime(*pub_parsed[:6], tzinfo=timezone.utc)
-                if pub_dt < cutoff:
-                    continue
+            if pub_parsed and datetime(*pub_parsed[:6], tzinfo=timezone.utc) < cutoff:
+                continue
 
             uid = entry_id(link, title)
             if uid in seen:
@@ -168,56 +175,50 @@ def collect(days=2, only_classified=True):
             seen.add(uid)
 
             summary = make_summary(e)
-            cls_text = f"{title} {summary}"
-            cats = classify(cls_text)
-            if only_classified and not cats:
-                continue
-
+            text = f"{title} {summary}"
+            domain = src["domain"] or classify_domain(text)
             issues.append({
                 "id": uid,
                 "title": title,
                 "summary": summary,
                 "source": src["name"],
                 "region": src["region"],
+                "tier": src["tier"],
+                "domain": domain,
                 "url": link,
                 "published": parse_published(e),
-                "keywords": cats,
-                "severity": estimate_severity(cls_text),
+                "keywords": topic_tags(text),
             })
 
     issues.sort(key=lambda x: x["published"] or "", reverse=True)
-    return issues
+    return issues, dropped
 
 
 def build_output(issues):
     return {
         "updated_at": datetime.now(timezone(timedelta(hours=9))).isoformat(timespec="seconds"),
         "count": len(issues),
-        "categories": list(KEYWORD_CATEGORIES.keys()),
+        "domains": DOMAINS,
         "issues": issues,
     }
 
 
 def main():
-    ap = argparse.ArgumentParser(description="보안 이슈 RSS 수집·분류")
-    ap.add_argument("--out", default=DEFAULT_OUT, help="출력 JSON 경로")
-    ap.add_argument("--days", type=int, default=2, help="최근 N일치 수집 (기본 2)")
-    ap.add_argument("--max", type=int, default=60, help="최대 항목 수")
-    ap.add_argument("--all", action="store_true", help="키워드 미매칭 항목도 포함")
+    ap = argparse.ArgumentParser(description="뉴스·이슈 RSS 수집·분류")
+    ap.add_argument("--out", default=DEFAULT_OUT)
+    ap.add_argument("--days", type=int, default=2)
+    ap.add_argument("--max", type=int, default=80)
     args = ap.parse_args()
 
-    issues = collect(days=args.days, only_classified=not args.all)[: args.max]
-    output = build_output(issues)
+    issues, dropped = collect(days=args.days)
+    issues = issues[: args.max]
+    json.dump(build_output(issues), open(args.out, "w", encoding="utf-8"),
+              ensure_ascii=False, indent=2)
 
-    with open(args.out, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
-
-    print(f"수집 완료: {len(issues)}건  →  {args.out}")
-    cat_count = Counter(c for it in issues for c in it["keywords"])
-    reg_count = Counter(it["region"] for it in issues)
-    for cat in KEYWORD_CATEGORIES:
-        print(f"  - {cat}: {cat_count.get(cat, 0)}건")
-    print("  지역:", dict(reg_count))
+    print(f"수집 {len(issues)}건 (제목장사 {dropped}건 제외)  →  {args.out}")
+    print("  분야:", dict(Counter(i["domain"] for i in issues)))
+    print("  지역:", dict(Counter(i["region"] for i in issues)))
+    print("  출처:", dict(Counter(i["source"] for i in issues)))
 
 
 if __name__ == "__main__":

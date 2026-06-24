@@ -23,8 +23,8 @@ jobs:
       - name: 의존성 설치(feedparser)
         run: pip install feedparser
 
-      - name: 보안 이슈 수집
-        run: python ismsp_learning_app/security_feed/collect.py --days 2 --max 40
+      - name: 뉴스·이슈 수집
+        run: python ismsp_learning_app/security_feed/collect.py --days 2 --max 80
 
       - name: 변경 시 커밋·푸시
         run: |
