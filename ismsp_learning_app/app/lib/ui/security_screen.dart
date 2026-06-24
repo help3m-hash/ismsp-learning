@@ -180,8 +180,10 @@ class _IssueCard extends StatelessWidget {
   static const _domainColor = {
     '정치·국제': Color(0xFF9A4DCE),
     '사회·경제': Color(0xFF1E5BCB),
+    '주식·증시': Color(0xFFC62828),
     '스포츠·문화': Color(0xFF13A07A),
-    'IT·과학·보안': Color(0xFFF57C00),
+    'IT·과학': Color(0xFF3949AB),
+    '보안': Color(0xFFF57C00),
   };
 
   @override
