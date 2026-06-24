@@ -1,64 +1,59 @@
 # 보안 이슈 피드 파이프라인
 
-매일 보안 뉴스/취약점을 수집·분류해 `security_issues.json`을 만들고, 앱의 **보안 이슈** 메뉴가 그 JSON(원격 raw URL)을 읽어 표시한다.
+매일 보안/개인정보 이슈를 RSS로 수집·분류해 `security_issues.json`을 만들고,
+앱의 **보안 이슈** 메뉴가 그 JSON(원격 raw URL)을 읽어 표시한다.
 
 ```
-[정해진 시각]  →  ① 수집(RSS+NVD)  →  ② 분류·요약  →  ③ security_issues.json
-                                                          →  ④ GitHub commit(raw URL)
-                                                          →  ⑤ 앱 "보안 이슈" 메뉴가 raw URL 로드
+[정해진 시각]  →  ① 수집(국내+해외 RSS)  →  ② 키워드 분류·요약·국내/해외 구분
+                                              →  ③ security_issues.json
+                                              →  ④ GitHub commit (raw URL)
+                                              →  ⑤ 앱 "보안 이슈" 메뉴가 raw URL 로드
 ```
 
 ## 1. 수집 스크립트
 ```bash
+pip install feedparser          # 의존성(최초 1회)
 python security_feed/collect.py --days 2 --max 40
 # → security_feed/security_issues.json 생성
 ```
-- 수집원: `RSS_FEEDS`(보안뉴스·데일리시큐 등) + NVD CVE API. 피드는 `collect.py` 상단에서 추가/삭제.
-- 분류: `keywords.json`의 태그별 `match` 키워드로 자동 태깅. **주제는 이 파일만 고치면 됨.**
-- 심각도: CVE는 CVSS 기준(긴급/높음/중간/낮음), RSS는 키워드 휴리스틱.
-- 요약: 원문 복제를 피하려 제목 기반 간결 요약. (Claude Code 루틴으로 돌리면 summary를 패러프레이즈로 개선 가능)
+- 수집원 `RSS_SOURCES`: 국내(보안뉴스·데일리시큐·KISA 보호나라) + 해외(The Hacker News·BleepingComputer·Krebs·CISA). `collect.py` 상단에서 추가/삭제.
+- 분류 `KEYWORD_CATEGORIES`: 6개 카테고리(ISMS-P·인증 / 개인정보보호법·규제 / 취약점·CVE·패치 / 랜섬웨어·침해사고 / 금융보안 / 클라우드·AI보안). **주제는 이 부분만 고치면 됨.**
+- 심각도: 키워드 휴리스틱(높음/보통/낮음).
+- **저작권**: 기사 본문 전문은 저장하지 않음(제목 + 앞부분 요약 + 링크만). 앱도 원문 링크를 함께 노출.
 
-## 2. 매일 자동 실행 (택1)
-**(A) Windows 작업 스케줄러** — 매일 07:00 실행 예시
-```powershell
-$action  = New-ScheduledTaskAction -Execute "python" `
-  -Argument "`"C:\...\ismsp_learning_app\security_feed\collect.py`" --days 2" `
-  -WorkingDirectory "C:\...\ismsp_learning_app"
-$trigger = New-ScheduledTaskTrigger -Daily -At 7:00am
-Register-ScheduledTask -TaskName "ISMSP-SecurityFeed" -Action $action -Trigger $trigger
+## 2. 매일 자동 실행 — GitHub Actions (권장, PC 불필요)
+`.github/workflows/feed.yml` 이 매일 22:00 UTC(=한국 07:00) GitHub 클라우드에서
+수집→커밋한다. **PC 전원과 무관**, 공개 저장소라 무료.
+- 최초 1회: 저장소 **Settings → Actions → General → Workflow permissions → "Read and write permissions"** 켜기.
+- 수동 실행: **Actions 탭 → security-feed → Run workflow**.
+
+(대안) 로컬 Windows 작업 스케줄러로 `update_and_push.ps1` 매일 실행도 가능(PC 켜져 있어야 함).
+
+## 3. 앱 연결 (GitHub raw URL)
+```bash
+flutter build apk --release --dart-define=SECURITY_FEED_URL=<raw-url>
+# raw-url 예:
+# https://raw.githubusercontent.com/help3m-hash/ismsp-learning/master/ismsp_learning_app/security_feed/security_issues.json
 ```
-그 다음 GitHub에 commit·push 하는 단계(아래 3)를 같은 스크립트/배치에 이어 붙인다.
-
-**(B) Claude Code 루틴(cron)** — `/schedule`로 매일 아침 다음을 실행하도록 등록:
-> "security_feed/collect.py 실행 → 생성된 security_issues.json의 각 summary를 한국어 한 줄로 자연스럽게 재작성(원문 복제 금지) → git add·commit·push"
-
-## 3. GitHub 호스팅 + 앱 연결
-1. (공개 또는 비공개) 저장소 생성 후 이 프로젝트를 push.
-2. `security_feed/security_issues.json`의 **raw URL** 확인:
-   `https://raw.githubusercontent.com/<user>/<repo>/<branch>/ismsp_learning_app/security_feed/security_issues.json`
-3. 앱을 그 URL로 빌드:
-   ```bash
-   flutter build apk --release --dart-define=SECURITY_FEED_URL=<raw-url>
-   ```
-   - URL 미설정 시 앱은 **동봉 샘플**(`assets/feed/security_issues.json`)을 표시한다.
-   - 한 번 온라인 로드에 성공하면 기기에 캐시되어 오프라인에서도 마지막 데이터를 본다.
-
-> 비공개 저장소의 raw URL은 토큰이 필요해 앱에서 직접 못 읽는다. 개인용으로 간단히 하려면 **공개 저장소** 또는 GitHub Pages/Gist(raw) 권장.
+- URL 미설정 시 앱은 동봉 샘플(`app/assets/feed/security_issues.json`)을 표시.
+- 온라인 로드 성공 시 기기에 캐시 → 오프라인에서도 마지막 데이터 표시.
 
 ## JSON 스키마
 ```jsonc
 {
-  "updated_at": "2026-06-23T07:00:00+09:00",
-  "count": 30,
+  "updated_at": "2026-06-24T08:50:07+09:00",
+  "count": 40,
+  "categories": ["ISMS-P·인증", "개인정보보호법·규제", "취약점·CVE·패치", ...],
   "issues": [
-    { "id": "20260623-001", "title": "...", "summary": "...", "source": "KISA",
-      "url": "https://...", "published": "2026-06-23",
-      "keywords": ["취약점·CVE"], "severity": "높음" }
+    { "id": "a1b2c3", "title": "...", "summary": "...(본문 전문 아님)",
+      "source": "보안뉴스", "region": "국내", "url": "https://...",
+      "published": "2026-06-24T09:00:00+09:00",
+      "keywords": ["개인정보보호법·규제"], "severity": "높음" }
   ]
 }
 ```
 
 ## 앱 측 동작
 - 홈 상단 **방패 아이콘** → 보안 이슈 화면.
-- 키워드 칩으로 필터, 심각도 배지, 카드 탭 → 외부 브라우저로 원문 링크.
+- **국내/해외 지역 필터** + **카테고리 칩 필터**, 심각도 배지, 카드 탭 → 외부 브라우저로 원문.
 - 출처 라벨: 온라인 / 캐시 / 샘플.

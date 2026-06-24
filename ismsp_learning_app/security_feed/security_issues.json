@@ -1,488 +1,548 @@
 {
-  "updated_at": "2026-06-23T09:47:03+09:00",
+  "updated_at": "2026-06-24T08:57:31+09:00",
   "count": 40,
+  "categories": [
+    "ISMS-P·인증",
+    "개인정보보호법·규제",
+    "취약점·CVE·패치",
+    "랜섬웨어·침해사고",
+    "금융보안",
+    "클라우드·AI보안"
+  ],
   "issues": [
     {
-      "title": "델 테크놀로지스, HPC 및 AI를 위한 차세대 슈퍼컴 서버 신제품 공개",
-      "summary": "델 테크놀로지스, HPC 및 AI를 위한 차세대 슈퍼컴 서버 신제품 공개",
-      "source": "보안뉴스",
-      "url": "http://www.boannews.com/media/view.asp?idx=144278&kind=&sub_kind=",
-      "published": "2026-06-23",
+      "id": "b2899d39f99b",
+      "title": "금융보안원-인터넷은행 3사, 국내 최초 ‘보이스피싱 탐지 AI 공동모델’ 상용화",
+      "summary": "금융권이 보이스피싱 범죄 대응을 위해 인공지능 공동 방어 체계를 구축했다.금융보안원과 카카오뱅크, 토스뱅크, 케이뱅크는 연합학습(Federated Learning) 기술을 활용한 ‘보이스피싱 탐지 AI 공동모델’을…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207296",
+      "published": "2026-06-24T17:56:51+09:00",
       "keywords": [
-        "AI보안"
+        "랜섬웨어·침해사고",
+        "금융보안"
       ],
-      "severity": "정보",
-      "id": "20260623-001"
+      "severity": "낮음"
     },
     {
-      "title": "‘세금 위반 통지’ 위장한 APT 공격 ‘실버폭스’ 주의",
-      "summary": "‘세금 위반 통지’ 위장한 APT 공격 ‘실버폭스’ 주의",
+      "id": "1963185a258a",
+      "title": "F5 “AI 시대 보안 핵심은 애플리케이션 전송·보안의 일관된 제어”",
+      "summary": "F5가 하이브리드 멀티클라우드와 AI 확산으로 복잡해진 기업 환경에서 애플리케이션 전송과 보안을 하나의 플랫폼으로 통합해야 한다고 강조했다.F5는 6월 23일 서울 삼성동 웨스틴 서울 파르나스에서 ‘F5 앱월드 서울…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207294",
+      "published": "2026-06-24T15:50:03+09:00",
+      "keywords": [
+        "클라우드·AI보안"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "0a1e55751778",
+      "title": "오픈AI, GPT-5.5-사이버 공개…“취약점 발견 넘어 패치까지 AI가 지원”",
+      "summary": "오픈AI(OpenAI)가 사이버보안 분야에 특화된 최신 인공지능 모델 ‘GPT-5.5-사이버’를 공개하며 보안 취약점 대응 체계 강화에 나섰다. 단순히 취약점을 찾는 수준을 넘어 검증과 패치 개발, 테스트까지 지원하…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207293",
+      "published": "2026-06-24T15:34:10+09:00",
+      "keywords": [
+        "취약점·CVE·패치"
+      ],
+      "severity": "보통"
+    },
+    {
+      "id": "9744745e7650",
+      "title": "[속담으로 배우는 100가지 보안 습관 47] 낮말은 새가 듣고 밤말은 쥐가 듣는다(7)-우편물 쌓아두면 생기는 위험",
+      "summary": "우편함에 고지서가 쌓이지 않게 관리하세요(이메일 고지서 추천)보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트…",
       "source": "보안뉴스",
-      "url": "http://www.boannews.com/media/view.asp?idx=144279&kind=&sub_kind=",
-      "published": "2026-06-23",
+      "region": "국내",
+      "url": "http://www.boannews.com/media/view.asp?idx=143634&kind=&sub_kind=",
+      "published": "2026-06-24T08:39:00+09:00",
       "keywords": [
         "랜섬웨어·침해사고"
       ],
-      "severity": "중간",
-      "id": "20260623-002"
+      "severity": "낮음"
     },
     {
-      "title": "[PIS FAIR 2026] ‘개인정보 처리방침’ 평가해보니... “생성형 AI 기업 가장 미흡”",
-      "summary": "[PIS FAIR 2026] ‘개인정보 처리방침’ 평가해보니... “생성형 AI 기업 가장 미흡”",
-      "source": "보안뉴스",
-      "url": "http://www.boannews.com/media/view.asp?idx=144277&kind=&sub_kind=",
-      "published": "2026-06-23",
+      "id": "805ccd49441e",
+      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+      "summary": "A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now bei…",
+      "source": "BleepingComputer",
+      "region": "해외",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
+      "published": "2026-06-24T06:48:32+09:00",
       "keywords": [
-        "개인정보보호법",
-        "AI보안"
+        "개인정보보호법·규제",
+        "취약점·CVE·패치"
       ],
-      "severity": "정보",
-      "id": "20260623-003"
+      "severity": "보통"
     },
     {
-      "title": "신라대-한국경비협회, 경비·보안 분야 전문인력 양성 및 산학협력 강화 위한 업무협약 체결",
-      "summary": "신라대-한국경비협회, 경비·보안 분야 전문인력 양성 및 산학협력 강화 위한 업무협약 체결",
-      "source": "보안뉴스",
-      "url": "http://www.boannews.com/media/view.asp?idx=144276&kind=&sub_kind=",
-      "published": "2026-06-23",
-      "keywords": [],
-      "severity": "정보",
-      "id": "20260623-004"
-    },
-    {
-      "title": "[PIS FAIR 2026] 사전 예방 불가능한 AI 시대... “사후 입증 중심 방어 거버넌스 확립해야”",
-      "summary": "[PIS FAIR 2026] 사전 예방 불가능한 AI 시대... “사후 입증 중심 방어 거버넌스 확립해야”",
-      "source": "보안뉴스",
-      "url": "http://www.boannews.com/media/view.asp?idx=144275&kind=&sub_kind=",
-      "published": "2026-06-23",
+      "id": "d0bed5536a39",
+      "title": "Tata Electronics confirms cyberattack as hackers leak data",
+      "summary": "Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted…",
+      "source": "BleepingComputer",
+      "region": "해외",
+      "url": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
+      "published": "2026-06-24T06:06:32+09:00",
       "keywords": [
-        "개인정보보호법",
-        "규제·고시 개정",
-        "AI보안"
+        "랜섬웨어·침해사고"
       ],
-      "severity": "정보",
-      "id": "20260623-005"
+      "severity": "낮음"
     },
     {
-      "title": "[PIS FAIR 2026] “강력한 브레이크가 F1 질주 이끈다” 김홍선 고문이 말하는 AI 시대 개인정보보호",
-      "summary": "[PIS FAIR 2026] “강력한 브레이크가 F1 질주 이끈다” 김홍선 고문이 말하는 AI 시대 개인정보보호",
-      "source": "보안뉴스",
-      "url": "http://www.boannews.com/media/view.asp?idx=144272&kind=&sub_kind=",
-      "published": "2026-06-23",
+      "id": "bd9e7213f3b1",
+      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
+      "summary": "Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromise…",
+      "source": "BleepingComputer",
+      "region": "해외",
+      "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
+      "published": "2026-06-24T04:59:12+09:00",
       "keywords": [
-        "AI보안"
+        "개인정보보호법·규제",
+        "랜섬웨어·침해사고"
       ],
-      "severity": "정보",
-      "id": "20260623-006"
+      "severity": "낮음"
     },
     {
-      "title": "스텔스모어, 제 21회 공개 위협정보(OSINT) 전문가 교육 과정 개최",
-      "summary": "스텔스모어, 제 21회 공개 위협정보(OSINT) 전문가 교육 과정 개최",
-      "source": "보안뉴스",
-      "url": "http://www.boannews.com/media/view.asp?idx=144273&kind=&sub_kind=",
-      "published": "2026-06-23",
+      "id": "c6e7ed04596c",
+      "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
+      "summary": "A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware f…",
+      "source": "BleepingComputer",
+      "region": "해외",
+      "url": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
+      "published": "2026-06-24T03:30:16+09:00",
       "keywords": [
-        "취약점·CVE"
+        "랜섬웨어·침해사고"
       ],
-      "severity": "높음",
-      "id": "20260623-007"
+      "severity": "낮음"
     },
     {
-      "title": "파이오링크, 잠수함용 국산 스위치로 해군 함정 신기술 전시회 참가",
-      "summary": "파이오링크, 잠수함용 국산 스위치로 해군 함정 신기술 전시회 참가",
-      "source": "보안뉴스",
-      "url": "http://www.boannews.com/media/view.asp?idx=144271&kind=&sub_kind=",
-      "published": "2026-06-23",
-      "keywords": [],
-      "severity": "정보",
-      "id": "20260623-008"
-    },
-    {
-      "title": "생성형 AI 시대 개인정보 어떻게 지킬까... 서울시 개인정보보호 포럼 개최",
-      "summary": "생성형 AI 시대 개인정보 어떻게 지킬까... 서울시 개인정보보호 포럼 개최",
-      "source": "보안뉴스",
-      "url": "http://www.boannews.com/media/view.asp?idx=144270&kind=&sub_kind=",
-      "published": "2026-06-23",
+      "id": "c2c903553617",
+      "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+      "summary": "A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credentia…",
+      "source": "The Hacker News",
+      "region": "해외",
+      "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+      "published": "2026-06-24T03:20:49+09:00",
       "keywords": [
-        "AI보안"
+        "개인정보보호법·규제",
+        "금융보안"
       ],
-      "severity": "중간",
-      "id": "20260623-009"
+      "severity": "낮음"
     },
     {
-      "title": "[PIS FAIR 2026] 개인정보 보호, 사후 제재 중심에서 사전예방 중심으로 전환",
-      "summary": "[PIS FAIR 2026] 개인정보 보호, 사후 제재 중심에서 사전예방 중심으로 전환",
-      "source": "보안뉴스",
-      "url": "http://www.boannews.com/media/view.asp?idx=144267&kind=&sub_kind=",
-      "published": "2026-06-23",
-      "keywords": [
-        "AI보안"
-      ],
-      "severity": "정보",
-      "id": "20260623-010"
-    },
-    {
-      "title": "하이크비전, AIoT 제품 개발 전 과정에 보안 적용…2026년 사이버보안 백서 발간",
-      "summary": "하이크비전, AIoT 제품 개발 전 과정에 보안 적용…2026년 사이버보안 백서 발간",
+      "id": "60c061549059",
+      "title": "[데일리시큐 CISO 조찬] 김성현 퓨쳐시스템 상무 \"금융AI 보안, 기존 통제의 연장…4개 계층으로 나눠 관리\"",
+      "summary": "\"AI를 이용한 사이버공격이 빠르게 자동화되는 가운데 금융회사는 외부 공격뿐 아니라 임직원의 무분별한 AI 사용에 따른 정보유출 위험까지 함께 관리해야 한다. 기존 네트워크와 데이터 보안체계를 AI 환경에 맞게 확장…",
       "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207271",
-      "published": "2026-06-23",
+      "region": "국내",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207289",
+      "published": "2026-06-24T02:58:13+09:00",
       "keywords": [
-        "취약점·CVE",
-        "AI보안"
+        "개인정보보호법·규제",
+        "클라우드·AI보안"
       ],
-      "severity": "중간",
-      "id": "20260623-011"
+      "severity": "높음"
     },
     {
+      "id": "f1baa9c1c780",
+      "title": "[데일리시큐 CISO 조찬] “AI는 키 탈취 가속, 양자는 공개키 위협”…키페어, 금융권 PQC 전환 전략 제시",
+      "summary": "데일리시큐가 23일 서울 콘래드서울에서 개최한 금융CISO 조찬세미나에서 키페어(대표 이창근)가 인공지능과 양자컴퓨팅 확산에 대응하기 위한 금융권 암호키 관리와 양자내성암호 전환 전략을 제시했다.‘AI 및 양자컴퓨팅…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207287",
+      "published": "2026-06-24T02:40:15+09:00",
+      "keywords": [
+        "개인정보보호법·규제",
+        "금융보안"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "b5b01fae9b15",
+      "title": "[데일리시큐 CISO 조찬] 윤필상 율촌 변호사 “금융회사 AI 도입, 내부통제 체계부터 정비해야”",
+      "summary": "23일 금융사 CISO 30여 명이 참석한 데일리시큐 주최 금융 CISO 조찬세미나에서 법무법인 율촌 윤필상 변호사는 ‘AI 내부통제 및 보안 AI 도입 전략’을 주제로 금융회사가 AI 도입 과정에서 준비해야 할 규…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207286",
+      "published": "2026-06-24T02:29:46+09:00",
+      "keywords": [
+        "개인정보보호법·규제"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "5dbef02a1317",
+      "title": "한국핀테크산업협회, 금융 AI 규제와 혁신 방향 논의하는 국회 포럼 개최",
+      "summary": "한국핀테크산업협회는 23일 국회의원회관에서 'AI 시대, 금융 시스템을 다시 설계하다'를 주제로 국회 포럼을 진행했다. 이번 행사는 더불어민주당 박상혁 의원과 이강일 의원이 공동 주외하고 한국핀테크산업협회, 핀테크A…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207285",
+      "published": "2026-06-24T02:11:05+09:00",
+      "keywords": [
+        "금융보안"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "63bb46454e23",
+      "title": "AWS, 코드 기술 부채 자율 해결하는 'AWS 트랜스폼' 신기능 공개",
+      "summary": "아마존웹서비스(AWS)가 대규모 코드 저장소의 기술 부채를 지속해서 분석하고 자율적으로 해결하는 AWS Transform의 신규 기능인 '지속적 현대화'를 프리뷰로 공개했다.기존 AWS Transform은 데이터센터…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207282",
+      "published": "2026-06-24T01:48:07+09:00",
+      "keywords": [
+        "클라우드·AI보안"
+      ],
+      "severity": "높음"
+    },
+    {
+      "id": "8381e8c1023f",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that…",
+      "source": "Krebs on Security",
+      "region": "해외",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "published": "2026-06-24T01:12:49+09:00",
+      "keywords": [
+        "랜섬웨어·침해사고"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "e0154ed39675",
+      "title": "Scattered Spider members plead guilty to hacking Transport for London",
+      "summary": "Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems…",
+      "source": "BleepingComputer",
+      "region": "해외",
+      "url": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
+      "published": "2026-06-24T00:31:59+09:00",
+      "keywords": [
+        "랜섬웨어·침해사고"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "5382cb6b456e",
+      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
+      "summary": "President Trump signed an&nbsp;executive order on June 22&nbsp;setting hard deadlines for federal agencies to move high-…",
+      "source": "The Hacker News",
+      "region": "해외",
+      "url": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
+      "published": "2026-06-24T00:16:40+09:00",
+      "keywords": [
+        "개인정보보호법·규제"
+      ],
+      "severity": "보통"
+    },
+    {
+      "id": "7381fc270d5f",
+      "title": "한국인 평생 중 29년을 온라인에서 소비...개인정보 노출 위험은 상존",
+      "summary": "한국인이 평생 동안 인터넷에 연결되어 보내는 시간이 29년을 넘어서며 일상생활의 상당 부분을 온라인 공간에서 소비하는 것으로 나타났다. 사이버 보안 기업 노드VPN이 발표한 온라인 이용 행태 조사 결과에 따르면, 한…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207276",
+      "published": "2026-06-23T23:55:49+09:00",
+      "keywords": [
+        "개인정보보호법·규제"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "dae2aef5b020",
+      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+      "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attack…",
+      "source": "The Hacker News",
+      "region": "해외",
+      "url": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+      "published": "2026-06-23T23:22:03+09:00",
+      "keywords": [
+        "클라우드·AI보안"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "39b591f4b37a",
+      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+      "summary": "Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Sec…",
+      "source": "BleepingComputer",
+      "region": "해외",
+      "url": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+      "published": "2026-06-23T23:01:11+09:00",
+      "keywords": [
+        "개인정보보호법·규제",
+        "취약점·CVE·패치"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "6f618f8044c5",
+      "title": "LastPass confirms data breach in Klue supply chain attack",
+      "summary": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAut…",
+      "source": "BleepingComputer",
+      "region": "해외",
+      "url": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+      "published": "2026-06-23T22:58:25+09:00",
+      "keywords": [
+        "취약점·CVE·패치",
+        "랜섬웨어·침해사고",
+        "클라우드·AI보안"
+      ],
+      "severity": "높음"
+    },
+    {
+      "id": "bb5e5936bed8",
+      "title": "Webinar: Why email security teams are drowning in alerts",
+      "summary": "Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This we…",
+      "source": "BleepingComputer",
+      "region": "해외",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+      "published": "2026-06-23T21:12:20+09:00",
+      "keywords": [
+        "랜섬웨어·침해사고"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "0860e9752fec",
+      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
+      "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based r…",
+      "source": "The Hacker News",
+      "region": "해외",
+      "url": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
+      "published": "2026-06-23T17:54:32+09:00",
+      "keywords": [
+        "개인정보보호법·규제"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "de7dfe032062",
       "title": "세무조사 통지서 열었더니 원격제어 악성코드…실버폭스, 기업 대상 APT 공격 확대",
-      "summary": "세무조사 통지서 열었더니 원격제어 악성코드…실버폭스, 기업 대상 APT 공격 확대",
+      "summary": "세무 당국이 보낸 감사 통지서나 세금 위반 안내문으로 위장해 기업 내부망 침투를 시도하는 지능형지속위협(APT) 공격이 확인됐다. 공격자는 피해자가 악성 압축파일을 열도록 유도한 뒤 원격제어 악성코드를 설치해 화면과…",
       "source": "데일리시큐",
+      "region": "국내",
       "url": "https://www.dailysecu.com/news/articleView.html?idxno=207270",
-      "published": "2026-06-23",
+      "published": "2026-06-23T17:42:18+09:00",
       "keywords": [
         "랜섬웨어·침해사고"
       ],
-      "severity": "정보",
-      "id": "20260623-012"
+      "severity": "낮음"
     },
     {
+      "id": "ecb4fe92b0e5",
       "title": "오픈AI, 사이버 방어 ‘데이브레이크’ 확대…취약점 탐지부터 패치까지 자동화",
-      "summary": "오픈AI, 사이버 방어 ‘데이브레이크’ 확대…취약점 탐지부터 패치까지 자동화",
+      "summary": "오픈AI(OpenAI)가 인공지능을 활용해 소프트웨어 취약점의 발견부터 검증, 패치 개발과 테스트까지 지원하는 사이버 보안 사업을 확대했다. 취약점을 찾아 경고하는 수준에서 벗어나 실제 수정 작업까지 이어지는 전 과…",
       "source": "데일리시큐",
+      "region": "국내",
       "url": "https://www.dailysecu.com/news/articleView.html?idxno=207269",
-      "published": "2026-06-23",
+      "published": "2026-06-23T17:27:08+09:00",
       "keywords": [
-        "취약점·CVE",
-        "AI보안"
+        "취약점·CVE·패치"
       ],
-      "severity": "중간",
-      "id": "20260623-013"
+      "severity": "보통"
     },
     {
+      "id": "6bd15d0cee0d",
+      "title": "[PIS FAIR 2026] 해킹으로 알아낸 비리 신고한다는 해커... 레질리언스, 단지 인프라 문제일까?",
+      "summary": "“레질리언스는 조직 전체 책임, 당당히 지원 요구하라”법조계 “롯데카드는 성공적 대응 사례”“최악 시나리오 가정해 투명한 공개 원칙으로 대응했다”[보안뉴스 강현주 기자] “공격자가 제약회사 해킹 후 AI로 자료를 분…",
+      "source": "보안뉴스",
+      "region": "국내",
+      "url": "http://www.boannews.com/media/view.asp?idx=144291&kind=&sub_kind=",
+      "published": "2026-06-23T16:35:00+09:00",
+      "keywords": [
+        "랜섬웨어·침해사고"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "44251df882df",
+      "title": "“코드 작성 즉시 취약점 검증한다” 스패로우, ‘스패로우 MCP’ 출시",
+      "summary": "LLM 학습 데이터가 야기하는 소스 코드 취약점 원천 통제SBOM 자동 생성 및 통합개발환경(IDE) 연동으로 소프트웨어 공급망 리스크 차단[보안뉴스 조재호 기자] 스패로우는 AI 모델의 안전한 코드 생성을 돕는 전…",
+      "source": "보안뉴스",
+      "region": "국내",
+      "url": "http://www.boannews.com/media/view.asp?idx=144292&kind=&sub_kind=",
+      "published": "2026-06-23T16:13:00+09:00",
+      "keywords": [
+        "취약점·CVE·패치",
+        "클라우드·AI보안"
+      ],
+      "severity": "보통"
+    },
+    {
+      "id": "342165b60ca9",
+      "title": "[PIS FAIR 2026] 서울시 개인정보보호포럼 개최... AI 시대 개인정보보호와 과제 논의",
+      "summary": "PIS FAIR 2026 동시 개최 행사로 열려...서울시 산하 지자체 및 기관의 개인정보보호 역량 강화[보안뉴스 원병철 기자] 서울시가 산하기관과 서울시 지자체의 개인정보보호 역량 강화를 위한 ‘서울시 개인정보보호…",
+      "source": "보안뉴스",
+      "region": "국내",
+      "url": "http://www.boannews.com/media/view.asp?idx=144287&kind=&sub_kind=",
+      "published": "2026-06-23T15:24:00+09:00",
+      "keywords": [
+        "개인정보보호법·규제"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "c97a9c415700",
+      "title": "[PIS FAIR 2026] 복구 급해 로그 지웠다간 ‘업무상 배임’... CPO가 알아야 할 초동 조치 주의 사항",
+      "summary": "침해 사고 터지면 규제기관 조사 등 압박 거세져규제 리스크 피할 대응 체계 구축 필요[보안뉴스 조재호 기자] “지난해부터 침해사고는 특별한 이벤트가 아니라 일상적 사고 중 하나가 됐습니다. 이제는 가벼운 접촉 사고는…",
+      "source": "보안뉴스",
+      "region": "국내",
+      "url": "http://www.boannews.com/media/view.asp?idx=144286&kind=&sub_kind=",
+      "published": "2026-06-23T15:01:00+09:00",
+      "keywords": [
+        "랜섬웨어·침해사고"
+      ],
+      "severity": "보통"
+    },
+    {
+      "id": "80bbbfc90952",
+      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
+      "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead…",
+      "source": "The Hacker News",
+      "region": "해외",
+      "url": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
+      "published": "2026-06-23T14:38:40+09:00",
+      "keywords": [
+        "개인정보보호법·규제"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "20c793657af1",
+      "title": "[PIS FAIR 2026] 개인정보위, 개인정보 국외이전 위한 표준계약 마련한다",
+      "summary": "표준계약, 승인된 기업 규칙 등 안전한 개인정보 국외이전 수단 확대국외이전 영향평가 제도 도입 추진[보안뉴스 한세희 기자] 개인정보의 안전을 지키면서도 편리하게 해외 서비스를 이용하거나 외국 기업과 협력할 수 있도록…",
+      "source": "보안뉴스",
+      "region": "국내",
+      "url": "http://www.boannews.com/media/view.asp?idx=144285&kind=&sub_kind=",
+      "published": "2026-06-23T14:23:00+09:00",
+      "keywords": [
+        "개인정보보호법·규제"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "3290e453b3df",
+      "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
+      "summary": "OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the…",
+      "source": "The Hacker News",
+      "region": "해외",
+      "url": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
+      "published": "2026-06-23T12:56:58+09:00",
+      "keywords": [
+        "취약점·CVE·패치",
+        "클라우드·AI보안"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "f08b05595ae1",
       "title": "240억 건 계정 정보 인터넷에 노출…인포스틸러가 만든 ‘계정 탈취 저장소’",
-      "summary": "240억 건 계정 정보 인터넷에 노출…인포스틸러가 만든 ‘계정 탈취 저장소’",
+      "summary": "사용자 이름과 이메일 주소, 비밀번호, 로그인 주소 등 240억 건의 계정정보가 담긴 데이터베이스가 인터넷에 무방비로 노출됐다. 데이터 대부분은 감염된 컴퓨터에서 정보를 훔치는 인포스틸러 악성코드가 수집한 기록으로…",
       "source": "데일리시큐",
+      "region": "국내",
       "url": "https://www.dailysecu.com/news/articleView.html?idxno=207268",
-      "published": "2026-06-22",
+      "published": "2026-06-23T08:44:37+09:00",
       "keywords": [
         "랜섬웨어·침해사고"
       ],
-      "severity": "정보",
-      "id": "20260623-014"
+      "severity": "낮음"
     },
     {
+      "id": "a8aed16a0282",
       "title": "인터폴 “아태지역 랜섬웨어 공격 13만5000건”…딥페이크 사기도 산업화",
-      "summary": "인터폴 “아태지역 랜섬웨어 공격 13만5000건”…딥페이크 사기도 산업화",
+      "summary": "인터폴(INTERPOL)이 아시아와 남태평양 지역에서 피싱과 랜섬웨어, 인공지능(AI)을 이용한 사기가 빠르게 증가하고 있다고 경고했다. 디지털 금융과 클라우드 서비스 이용은 늘었지만 국가별 보안 수준과 수사 역량의…",
       "source": "데일리시큐",
+      "region": "국내",
       "url": "https://www.dailysecu.com/news/articleView.html?idxno=207267",
-      "published": "2026-06-22",
+      "published": "2026-06-23T08:06:01+09:00",
       "keywords": [
         "랜섬웨어·침해사고",
-        "클라우드보안",
-        "AI보안"
+        "클라우드·AI보안"
       ],
-      "severity": "중간",
-      "id": "20260623-015"
+      "severity": "보통"
     },
     {
+      "id": "96130b539a89",
       "title": "한국 노린 공유기 봇넷 ‘아리스팅어’ 확산…해킹 공격 중계지로 악용",
-      "summary": "한국 노린 공유기 봇넷 ‘아리스팅어’ 확산…해킹 공격 중계지로 악용",
+      "summary": "지원이 종료된 구형 디링크(D-Link) 공유기 수천 대를 감염시켜 해커의 공격 중계 서버로 이용하는 신종 봇넷이 발견됐다. 확인된 감염 장비의 절반 가까이가 한국에 있는 것으로 조사돼 국내 이용자의 점검이 필요하다…",
       "source": "데일리시큐",
+      "region": "국내",
       "url": "https://www.dailysecu.com/news/articleView.html?idxno=207266",
-      "published": "2026-06-22",
+      "published": "2026-06-23T07:46:05+09:00",
       "keywords": [
         "랜섬웨어·침해사고"
       ],
-      "severity": "정보",
-      "id": "20260623-016"
+      "severity": "낮음"
     },
     {
+      "id": "fd2dd00a840f",
+      "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
+      "summary": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript…",
+      "source": "BleepingComputer",
+      "region": "해외",
+      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
+      "published": "2026-06-23T07:42:21+09:00",
+      "keywords": [
+        "랜섬웨어·침해사고"
+      ],
+      "severity": "낮음"
+    },
+    {
+      "id": "58028093eafa",
       "title": "텍사스주 면허 시스템 해킹…308만명 개인정보 노출",
-      "summary": "텍사스주 면허 시스템 해킹…308만명 개인정보 노출",
+      "summary": "미국 텍사스주의 사냥·낚시 면허 시스템에서 대규모 개인정보 유출 사고가 발생했다. 피해자는 308만7천721명으로 확인됐다.텍사스 공원야생동물국(Texas Parks and Wildlife Department·TPW…",
       "source": "데일리시큐",
+      "region": "국내",
       "url": "https://www.dailysecu.com/news/articleView.html?idxno=207265",
-      "published": "2026-06-22",
+      "published": "2026-06-23T07:35:24+09:00",
       "keywords": [
-        "개인정보보호법",
+        "개인정보보호법·규제",
         "랜섬웨어·침해사고"
       ],
-      "severity": "중간",
-      "id": "20260623-017"
+      "severity": "높음"
     },
     {
-      "title": "싸이터, 국제 해양 안전대전서 선박 전 생애주기 사이버보안 솔루션 공개",
-      "summary": "싸이터, 국제 해양 안전대전서 선박 전 생애주기 사이버보안 솔루션 공개",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207264",
-      "published": "2026-06-22",
-      "keywords": [],
-      "severity": "정보",
-      "id": "20260623-018"
-    },
-    {
-      "title": "스텔스모어, 6월 30일부터 ‘제21회 OSINT 전문가 교육’ 개최",
-      "summary": "스텔스모어, 6월 30일부터 ‘제21회 OSINT 전문가 교육’ 개최",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207263",
-      "published": "2026-06-22",
+      "id": "75cfaa52139a",
+      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
+      "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulat…",
+      "source": "BleepingComputer",
+      "region": "해외",
+      "url": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
+      "published": "2026-06-23T06:52:18+09:00",
       "keywords": [
         "랜섬웨어·침해사고"
       ],
-      "severity": "중간",
-      "id": "20260623-019"
+      "severity": "낮음"
     },
     {
-      "title": "AWS, AI 에이전트용 데이터 컨텍스트 통합 서비스 'AWS 컨텍스트' 공개",
-      "summary": "AWS, AI 에이전트용 데이터 컨텍스트 통합 서비스 'AWS 컨텍스트' 공개",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207262",
-      "published": "2026-06-22",
+      "id": "12d0cf1c5fad",
+      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+      "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under…",
+      "source": "BleepingComputer",
+      "region": "해외",
+      "url": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+      "published": "2026-06-23T06:05:01+09:00",
       "keywords": [
-        "클라우드보안",
-        "AI보안"
+        "개인정보보호법·규제",
+        "취약점·CVE·패치"
       ],
-      "severity": "정보",
-      "id": "20260623-020"
+      "severity": "낮음"
     },
     {
-      "title": "투라인클라우드, 'K-글로벌 해외진출 지원사업' 참여기업으로 선정",
-      "summary": "투라인클라우드, 'K-글로벌 해외진출 지원사업' 참여기업으로 선정",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207261",
-      "published": "2026-06-22",
+      "id": "97ce7d79a5b9",
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors manag…",
+      "source": "The Hacker News",
+      "region": "해외",
+      "url": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "published": "2026-06-23T03:00:48+09:00",
       "keywords": [
-        "클라우드보안",
-        "AI보안"
+        "클라우드·AI보안"
       ],
-      "severity": "정보",
-      "id": "20260623-021"
-    },
-    {
-      "title": "삼성-카카오 공동 AI 해커톤 성료...한국전파진흥협회장상에 '카벤져스'",
-      "summary": "삼성-카카오 공동 AI 해커톤 성료...한국전파진흥협회장상에 '카벤져스'",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207260",
-      "published": "2026-06-22",
-      "keywords": [
-        "AI보안"
-      ],
-      "severity": "정보",
-      "id": "20260623-022"
-    },
-    {
-      "title": "케이시큐어, 범부처 첨단 의료기기 사업 선정…원격 모니터링 보안 기술 개발",
-      "summary": "케이시큐어, 범부처 첨단 의료기기 사업 선정…원격 모니터링 보안 기술 개발",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207259",
-      "published": "2026-06-22",
-      "keywords": [],
-      "severity": "정보",
-      "id": "20260623-023"
-    },
-    {
-      "title": "라온시큐어, 아름다운학교운동본부-퓨쳐앤모어와 디지털 인증 사업 위한 업무협약 체결",
-      "summary": "라온시큐어, 아름다운학교운동본부-퓨쳐앤모어와 디지털 인증 사업 위한 업무협약 체결",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207257",
-      "published": "2026-06-22",
-      "keywords": [],
-      "severity": "정보",
-      "id": "20260623-024"
-    },
-    {
-      "title": "[보안칼럼-협력형 사이버레인지] AI 시대, 왜 우리의 사이버보안은 여전히 위기에 취약한가",
-      "summary": "[보안칼럼-협력형 사이버레인지] AI 시대, 왜 우리의 사이버보안은 여전히 위기에 취약한가",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207258",
-      "published": "2026-06-22",
-      "keywords": [
-        "AI보안"
-      ],
-      "severity": "정보",
-      "id": "20260623-025"
-    },
-    {
-      "title": "인젠트, 한국도로공사 국가 망 보안체계 구축 사업 참여",
-      "summary": "인젠트, 한국도로공사 국가 망 보안체계 구축 사업 참여",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207255",
-      "published": "2026-06-22",
-      "keywords": [
-        "클라우드보안",
-        "규제·고시 개정"
-      ],
-      "severity": "정보",
-      "id": "20260623-026"
-    },
-    {
-      "title": "[박나룡 보안칼럼] 좋은 심사원이 되기 위한 노력(Ⅱ)- 부적합보다 중요한 심사의 본질",
-      "summary": "[박나룡 보안칼럼] 좋은 심사원이 되기 위한 노력(Ⅱ)- 부적합보다 중요한 심사의 본질",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207256",
-      "published": "2026-06-22",
-      "keywords": [
-        "ISMS-P",
-        "규제·고시 개정"
-      ],
-      "severity": "정보",
-      "id": "20260623-027"
-    },
-    {
-      "title": "피앤피시큐어, 하이브리드 환경 내 미관리 자산 통제 플랫폼 ‘DBSAFER Shadow Control’ 출시",
-      "summary": "피앤피시큐어, 하이브리드 환경 내 미관리 자산 통제 플랫폼 ‘DBSAFER Shadow Control’ 출시",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207253",
-      "published": "2026-06-22",
-      "keywords": [
-        "클라우드보안"
-      ],
-      "severity": "중간",
-      "id": "20260623-028"
-    },
-    {
-      "title": "파이오링크, 해군 함정 신기술 전시회 참가...잠수함용 국산 스위치 공개",
-      "summary": "파이오링크, 해군 함정 신기술 전시회 참가...잠수함용 국산 스위치 공개",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207251",
-      "published": "2026-06-22",
-      "keywords": [],
-      "severity": "정보",
-      "id": "20260623-029"
-    },
-    {
-      "title": "[보안칼럼] AI 에이전트 시대, 우리는 이미 같은 실패를 겪었다",
-      "summary": "[보안칼럼] AI 에이전트 시대, 우리는 이미 같은 실패를 겪었다",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207250",
-      "published": "2026-06-22",
-      "keywords": [
-        "AI보안"
-      ],
-      "severity": "정보",
-      "id": "20260623-030"
-    },
-    {
-      "title": "[이혁중 CISO의 현장 보안 인사이트-4] 숫자 뒤에 숨겨진 보안의 본질: 정보보호 공시제도",
-      "summary": "[이혁중 CISO의 현장 보안 인사이트-4] 숫자 뒤에 숨겨진 보안의 본질: 정보보호 공시제도",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207249",
-      "published": "2026-06-22",
-      "keywords": [],
-      "severity": "정보",
-      "id": "20260623-031"
-    },
-    {
-      "title": "잇핀, DLT 데이터 저장구조 ITU-T 국제표준화 착수",
-      "summary": "잇핀, DLT 데이터 저장구조 ITU-T 국제표준화 착수",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207248",
-      "published": "2026-06-22",
-      "keywords": [],
-      "severity": "정보",
-      "id": "20260623-032"
-    },
-    {
-      "title": "유출된 비밀번호가 부른 사고…포티넷 VPN·방화벽 8만 6천여 대 침해",
-      "summary": "유출된 비밀번호가 부른 사고…포티넷 VPN·방화벽 8만 6천여 대 침해",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207247",
-      "published": "2026-06-21",
-      "keywords": [
-        "랜섬웨어·침해사고"
-      ],
-      "severity": "높음",
-      "id": "20260623-033"
-    },
-    {
-      "title": "이메일 계정 탈취부터 서버 장악까지…워드프레스 취약점 비상",
-      "summary": "이메일 계정 탈취부터 서버 장악까지…워드프레스 취약점 비상",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207246",
-      "published": "2026-06-21",
-      "keywords": [
-        "취약점·CVE"
-      ],
-      "severity": "중간",
-      "id": "20260623-034"
-    },
-    {
-      "title": "북한 해킹조직 블루노로프의 새로운 침투 경로…AI 개발자 노린 공급망 공격 발생",
-      "summary": "북한 해킹조직 블루노로프의 새로운 침투 경로…AI 개발자 노린 공급망 공격 발생",
-      "source": "데일리시큐",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207245",
-      "published": "2026-06-21",
-      "keywords": [
-        "랜섬웨어·침해사고",
-        "AI보안"
-      ],
-      "severity": "정보",
-      "id": "20260623-035"
-    },
-    {
-      "title": "CVE-2026-12770 취약점 (CVSS 5.4)",
-      "summary": "CVE-2026-12770: 신규 등록된 취약점. CVSS 기준 중간 등급.",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-12770",
-      "published": "2026-06-21",
-      "keywords": [
-        "취약점·CVE",
-        "AI보안"
-      ],
-      "severity": "중간",
-      "id": "20260623-036"
-    },
-    {
-      "title": "CVE-2026-12771 취약점 (CVSS 5.0)",
-      "summary": "CVE-2026-12771: 신규 등록된 취약점. CVSS 기준 중간 등급.",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-12771",
-      "published": "2026-06-21",
-      "keywords": [
-        "취약점·CVE",
-        "AI보안"
-      ],
-      "severity": "중간",
-      "id": "20260623-037"
-    },
-    {
-      "title": "CVE-2026-12772 취약점 (CVSS 6.3)",
-      "summary": "CVE-2026-12772: 신규 등록된 취약점. CVSS 기준 중간 등급.",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-12772",
-      "published": "2026-06-21",
-      "keywords": [
-        "취약점·CVE",
-        "AI보안"
-      ],
-      "severity": "중간",
-      "id": "20260623-038"
-    },
-    {
-      "title": "CVE-2026-12773 취약점 (CVSS 7.3)",
-      "summary": "CVE-2026-12773: 신규 등록된 취약점. CVSS 기준 높음 등급.",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-12773",
-      "published": "2026-06-21",
-      "keywords": [
-        "취약점·CVE",
-        "AI보안"
-      ],
-      "severity": "높음",
-      "id": "20260623-039"
-    },
-    {
-      "title": "CVE-2026-12774 취약점 (CVSS 6.3)",
-      "summary": "CVE-2026-12774: 신규 등록된 취약점. CVSS 기준 중간 등급.",
-      "source": "NVD",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-12774",
-      "published": "2026-06-21",
-      "keywords": [
-        "취약점·CVE",
-        "AI보안"
-      ],
-      "severity": "중간",
-      "id": "20260623-040"
+      "severity": "낮음"
     }
   ]
 }

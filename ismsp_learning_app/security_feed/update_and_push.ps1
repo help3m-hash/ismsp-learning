@@ -6,6 +6,7 @@ $repo = "C:\Users\SECUI\Desktop\claude code#2"
 $rel  = "ismsp_learning_app/security_feed/security_issues.json"
 Set-Location $repo
 
+python -m pip install --quiet --disable-pip-version-check feedparser
 python "ismsp_learning_app\security_feed\collect.py" --days 2 --max 40
 if ($LASTEXITCODE -ne 0) { Write-Output "수집 실패(exit $LASTEXITCODE)"; exit 1 }
 

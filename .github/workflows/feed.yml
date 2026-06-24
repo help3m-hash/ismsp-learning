@@ -20,6 +20,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: 의존성 설치(feedparser)
+        run: pip install feedparser
+
       - name: 보안 이슈 수집
         run: python ismsp_learning_app/security_feed/collect.py --days 2 --max 40
 
