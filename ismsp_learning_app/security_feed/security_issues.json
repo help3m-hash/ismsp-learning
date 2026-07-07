@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T21:34:47+09:00",
+  "updated_at": "2026-07-07T19:36:29+09:00",
   "count": 80,
   "domains": [
     "정치·국제",
@@ -11,1110 +11,1099 @@
   ],
   "issues": [
     {
-      "id": "7f1e38d04da5",
-      "title": "더존비즈온, 한국공항공사 AI 업무혁신 플랫폼 구축 사업 수주",
-      "summary": "더존비즈온이 한국공항공사의 AI 업무혁신 플랫폼 구축 용역을 수주했다.한국공항공사는 2025년 10월 정부로부터 공공기관 AI 활용 선도기관으로 선정된 바 있으며, 이번 사업을 통해 AI와 데이터 중심의 행정 및 운…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207471",
-      "published": "2026-07-07T00:46:02+09:00",
-      "keywords": [
-        "AI"
-      ]
-    },
-    {
-      "id": "595fa789f217",
-      "title": "포스페이스랩-베스핀글로벌, 구글 기반 프랜차이즈 AI 인프라 공급 시작",
-      "summary": "포스페이스랩이 베스핀글로벌과 손잡고 프랜차이즈 산업에 맞춤형 AI 운영 인프라를 본격적으로 공급한다. 구글 클라우드 생태계를 기반으로 작동하는 이번 시스템은 프랜차이즈 가맹본부의 효율적인 데이터 관리와 의사결정을 돕…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207470",
-      "published": "2026-07-07T00:41:17+09:00",
-      "keywords": [
-        "AI",
-        "산업"
-      ]
-    },
-    {
-      "id": "0f010ea3a47e",
-      "title": "윈즈, 생성형 AI 서비스 'AIONA'에 노코드 기술 적용",
-      "summary": "정보보안 전문 기업 윈즈가 생성형 AI 서비스 '아이오나(AIONA)'에 노코드 기반 기능 설계 환경을 적용했다. 아이오나(AIONA)는 질의응답 기능과 함께 교육 및 협업 업무를 지원하는 아카데미(Academy)와…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207469",
-      "published": "2026-07-07T00:33:12+09:00",
-      "keywords": [
-        "보안",
-        "AI"
-      ]
-    },
-    {
-      "id": "0e321a3c7194",
-      "title": "개인정보 전송요구권, 교육·고용 분야로 확대…대학 성적·구직정보 활용 가능",
-      "summary": "국민이 대학의 학적·성적 정보와 공공기관 등이 보유한 고용·구직 정보를 원하는 기관으로 직접 전송하도록 요구할 수 있게 될 전망이다.개인정보보호위원회는 개인정보 제3자 전송요구권 적용 분야를 교육과 고용 분야까지 확…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207468",
-      "published": "2026-07-07T00:27:14+09:00",
-      "keywords": [
-        "정보보호",
-        "고용"
-      ]
-    },
-    {
-      "id": "c24a6d1e31c8",
-      "title": "앤앤에스피, ‘직무발명보상 우수기업’ 인증 획득",
-      "summary": "앤앤에스피(대표 김일용)는 한국발명진흥회가 주관하는 ‘직무발명보상 우수기업 인증’을 획득했다고 6일 밝혔다.직무발명보상 우수기업 인증은 임직원이 업무 과정에서 개발한 발명에 대해 기업이 정당한 보상을 제공하고, 관련…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207467",
-      "published": "2026-07-07T00:17:43+09:00",
-      "keywords": [
-        "기업"
-      ]
-    },
-    {
-      "id": "73c8d9e742ee",
-      "title": "[정보보안 연재소설-로그아웃되지 않는 밤] 제2화 프롤로그 · 새벽 세 시의 경보",
-      "summary": "데일리시큐는 7월부터 장삼봉 작가(필명)의 정보보안 소설 《로그아웃되지 않는 밤》을 매주 4편씩 연재한다. 화려한 디지털 서비스 뒤에서 보이지 않는 위협과 맞서는 보안 담당자들의 현실과 고뇌, 성장을 생생하게 담았다…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207466",
-      "published": "2026-07-07T00:05:38+09:00",
-      "keywords": [
-        "보안"
-      ]
-    },
-    {
-      "id": "548025068d6b",
-      "title": "가천대, 과기정통부 ‘융합보안핵심인재양성 사업’ 선정…AI 보안 특화 수도권 유일",
-      "summary": "가천대학교(총장 이길여)가 과학기술정보통신부와 정보통신기획평가원(IITP)이 추진하는 ‘2026년도 융합보안핵심인재양성 사업’의 AI 보안 특화 분야 수도권 대학 트랙 수행기관으로 최종 선정됐다.가천대는 수도권 대학…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207465",
-      "published": "2026-07-06T23:58:24+09:00",
-      "keywords": [
-        "보안",
-        "AI"
-      ]
-    },
-    {
-      "id": "ab19086b89e1",
-      "title": "[기획연재 ⑤] “보안의 사각지대”…선통제, 후감사의 ‘Two-Track’ 전략으로",
-      "summary": "최근 국내외를 막론하고 대기업과 금융권을 정조준한 지능형 침해사고가 급증하면서 기업의 보안 패러다임이 근본부터 흔들리고 있다. 과거에는 외부 해커의 침입을 막는 방화벽이나 접근 차단 솔루션만 구축하면 기업 내부를 충…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207463",
-      "published": "2026-07-06T22:58:00+09:00",
-      "keywords": [
-        "보안",
-        "금융"
-      ]
-    },
-    {
-      "id": "bf50500b64ff",
-      "title": "오픈베이스, F5와 함께 고객사 대상 AI 보안 인프라 전략 세미나 개최",
-      "summary": "오픈베이스가 지난 7월 2일 CGV 압구정 씨네드쉐프에서 고객사를 대상으로 'Openbase Movie Day — F5와 오픈베이스가 제안하는 AI 보안' 행사를 진행했다.이번 행사는 비즈니스 환경에서 GPU 인프라…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207462",
-      "published": "2026-07-06T22:57:14+09:00",
-      "keywords": [
-        "보안",
-        "AI"
-      ]
-    },
-    {
-      "id": "2fe139dab0be",
-      "title": "블로세이프, 2026년 개정 심사 기준 ISMS 인증 획득",
-      "summary": "디지털자산 보안 기업 블로세이프가 2026년도 개정 심사 기준이 적용된 정보보호관리체계(ISMS) 인증을 취득했다고 7월 6일 발표했다. 블로세이프는 지난 2025년 가상자산사업자(VASP) 인가를 획득한 데 이어…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207461",
-      "published": "2026-07-06T22:35:45+09:00",
-      "keywords": [
-        "보안",
-        "기업"
-      ]
-    },
-    {
-      "id": "14676ba6f901",
-      "title": "오라클 AI 데이터 플랫폼, 기술 조사기관 ISG 평가 9개 부문 모범 등급 획득",
-      "summary": "오라클이 글로벌 기술 조사기관 ISG(Information Services Group)의 '2026 AI 및 데이터 플랫폼 바이어스 가이드' 평가에서 종합 리더(Overall Leader)로 선정됐다. 오라클은 AI…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207460",
-      "published": "2026-07-06T22:22:03+09:00",
-      "keywords": [
-        "AI"
-      ]
-    },
-    {
-      "id": "358404716c4b",
-      "title": "포티넷코리아, 디캠프와 손잡고 스타트업 보안 교육·컨설팅 프로그램 운영",
-      "summary": "포티넷코리아가 스타트업 성장 파트너 디캠프와 손잡고 초기 및 성장 단계 스타트업을 위한 사이버보안 교육과 컨설팅 프로그램을 공동 운영한다. 이번 프로그램은 오는 7월 14일 온라인 웨비나로 시작해 7월 23일 오프라…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207459",
-      "published": "2026-07-06T22:11:29+09:00",
-      "keywords": [
-        "보안",
-        "스타트업"
-      ]
-    },
-    {
-      "id": "967abc0b693d",
-      "title": "카스퍼스키, 중소기업 겨냥한 3대 사이버 위협 대응 전략 발표",
-      "summary": "카스퍼스키가 중소·중견기업(SMB)이 직면한 주요 사이버 보안 과제를 분석하고 이에 대응하기 위한 전략적 접근 방안을 2026년 7월 6일 발표했다.카스퍼스키는 랜섬웨어의 상품화, 피싱 공격의 고도화, 보안 인력 부…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207458",
-      "published": "2026-07-06T21:54:50+09:00",
-      "keywords": [
-        "보안",
-        "기업"
-      ]
-    },
-    {
-      "id": "6b46704cf4fd",
-      "title": "착공까지 6년 걸린 용인…정부, ‘호남 임기 내 완공’ 강한 의지",
-      "summary": "‘광주 군공항’ 빠른 선정 배경이곳에 ‘반도체 산단’ 들어섭니다 정부가 광주 군공항 부지에 호남권 반도체 산업단지를 조성하기로 발표한 6일 전남광주 군공항 부지 모습. 청와대사진기자단‘메가’ 발표 일주일 만에 결정……",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "IT·과학",
-      "url": "https://www.khan.co.kr/article/202607062130015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:30:01+09:00",
-      "keywords": [
-        "반도체",
-        "산업"
-      ]
-    },
-    {
-      "id": "aa716ab8989a",
-      "title": "광주 군공항은 어떻게 되나…민항기는 무안공항으로 군공항도 무안 일대 이전",
-      "summary": "정부가 호남권 신규 반도체 산업단지 입지로 확정한 광주 군공항은 1964년 공군 기지로 조성됐다. 현재 공군 제1전투비행단과 국내선 민항기가 함께 사용하고 있으며 소유권자는 국방부다.이곳은 광주 도심에 위치해 정주…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "IT·과학",
-      "url": "https://www.khan.co.kr/article/202607062130005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:30:00+09:00",
-      "keywords": [
-        "반도체",
-        "산업"
-      ]
-    },
-    {
-      "id": "9c2bb6a3a990",
-      "title": "김민석 “자기 정치로 당정 협력 혼선” 정청래 직격",
-      "summary": "광주서 당대표 출사표…“국정의 짐 돼선 안 돼” 당정 원팀 강조친청계 “남 탓만” 반발, 정청래는 김용민 불출마 선언에 ‘반색’지지자들 응원과 함께 김민석 더불어민주당 의원이 6일 전남광주통합특별시 동구 전일빌딩24…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202607062127015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:27:01+09:00",
-      "keywords": [
-        "민주당"
-      ]
-    },
-    {
-      "id": "21630c3090b8",
-      "title": "장동혁, 작정한 듯 “해당 행위자 복당 영구 금지”",
-      "summary": "국힘 윤리위, 징계요청서 심의 시작 친한계와 ‘박덕흠 반대’ 조경태 대상 당권파 “당원들 요구에 부응” 평가 “반대세력 축출용” 의원 일부 반발국민의힘 중앙윤리위원회가 6일 6·3 부산 북갑 국회의원 보궐선거에서 한…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202607062127005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:27:00+09:00",
-      "keywords": [
-        "국회"
-      ]
-    },
-    {
-      "id": "3e4cac9ec308",
-      "title": "선관위 예산 집행 등 감사원서 감사 착수",
-      "summary": "수의계약 의혹·국외 출장 포함감사원이 6일 6·3 지방선거 투표용지 부족 사태와 관련해 선거관리위원회에 대한 예산 편성·집행 실태 감사에 착수했다. 감사원은 중앙선관위 및 서울·경기·부산 지역 선관위를 대상으로 이날…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202607062126005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:26:00+09:00",
-      "keywords": [
-        "선거"
-      ]
-    },
-    {
-      "id": "7cb5853fd2f9",
-      "title": "대만, 중국의 태평양 SLBM 시험발사 규탄…\"국제사회 위협\"",
-      "summary": "(베이징=연합뉴스) 한종구 특파원 = 대만이 중국의 태평양 공해상 잠수함발사탄도미사일(SLBM) 시험 발사와 관련해 국제사회를 위협하고 역내 긴...",
-      "source": "연합뉴스",
-      "region": "국내",
-      "tier": "통신",
-      "domain": "정치·국제",
-      "url": "https://www.yna.co.kr/view/AKR20260706152900083",
-      "published": "2026-07-06T21:25:02+09:00",
-      "keywords": [
-        "중국"
-      ]
-    },
-    {
-      "id": "9d3bd8ed9b41",
-      "title": "[속보]캐나다 언론 “잠수함 사업자로 독일 TKMS 선정” 보도",
-      "summary": "캐나다 서부 해상에서 한국-캐나다 해군 연합협력훈련을 하고 있다.캐나다 일간지인 글로브앤드메일은 6일(현지시간) 정부 소식통을 인용해 이같이 보도했다.",
-      "source": "경향신문",
+      "id": "8665992fb368",
+      "title": "우상호 \"분열 아닌 통합\" 시정연설서 '협력과 실천' 강조",
+      "summary": "우상호 강원특별자치도지사가 도의회와의 협력을 바탕으로 한 통합과 실천의 도정을 다짐했다. 우 지사는 7일 자신의 SNS를 통해 제347회 강원특별자치도의회 시정연설 내용을 공유하며 제12대 강원특별자치도의회의 출범을…",
+      "source": "프레시안",
       "region": "국내",
       "tier": "종합",
       "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062125001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:25:00+09:00",
+      "url": "https://www.pressian.com/pages/articles/2026070718323095684&ref=rss",
+      "published": "2026-07-08T03:37:35+09:00",
       "keywords": []
     },
     {
-      "id": "3bb9c9ae9e13",
-      "title": "기상청 \"경북 김천 북동쪽서 규모 2.1 지진 발생\"",
-      "summary": "(서울=연합뉴스) 6일 오후 8시 57분 24초 경북 김천시 북동쪽 13km 지역에서 규모 2.1의 지진이 발생했다고 기상청이 밝혔다.",
-      "source": "연합뉴스",
-      "region": "국내",
-      "tier": "통신",
-      "domain": "사회·경제",
-      "url": "https://www.yna.co.kr/view/AKR20260706152500530",
-      "published": "2026-07-06T21:23:56+09:00",
-      "keywords": []
-    },
-    {
-      "id": "a091ea7f8fdd",
-      "title": "이 대통령, 나토 첫 참석…‘방산 외교’ 중점",
-      "summary": "7일부터 튀르키예서 정상회의…유럽국들과 안보 협력 확대 전망중·러·북 ‘자극’ 가능성…평화 공존 기조와 배치 안 되게 관리 필요이재명 대통령이 7일 튀르키예 앙카라에서 열리는 북대서양조약기구(나토) 정상회의 참석을…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202607062123005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:23:00+09:00",
-      "keywords": [
-        "대통령"
-      ]
-    },
-    {
-      "id": "12a957dae588",
-      "title": "유럽, 미와 갈등 최고조…나토 ‘동맹 균열’ 봉합할까",
-      "summary": "그린란드 사태·이란전에 관계 악화트럼프에 ‘국방비 증액’ 부각할 듯“전쟁 반대! 트럼프 반대!” 활동가들이 5일(현지시간) 튀르키예 이스탄불에서 열린 나토 정상회의 반대 집회에서 “전쟁 반대” “반트럼프” 팻말을 들…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202607062122015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:22:01+09:00",
-      "keywords": [
-        "전쟁"
-      ]
-    },
-    {
-      "id": "af4fc22b8f10",
-      "title": "‘사관학교 통합 발표’ 돌연 연기",
-      "summary": "국방부, 장관 일정 변경 이유‘내부 의견 정리 미흡’ 분석도예비역 반발에 후퇴 우려 나와국방부가 6일 육해공군 사관학교 통합 추진을 위한 정부의 기본계획 발표를 돌연 연기했다. 안규백 국방부 장관의 일정이 변경된 탓…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202607062122005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:22:00+09:00",
-      "keywords": [
-        "장관"
-      ]
-    },
-    {
-      "id": "f7105afa3937",
-      "title": "개인 카톡 처벌? 규제 대상서 빠져…삭제는 ‘플랫폼 자율’로",
-      "summary": "개정 정보통신망법 Q&A 유튜브 등 각종 SNS 화면을 띄운 전자기기들이 바닥에 놓여 있다. 권도현 기자‘허위조작정보’ 여부, 고의성·실제 피해 등 따져 플랫폼이 판단 형사처벌 규정 없지만 각 사업자 ‘분쟁 회피성…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062118005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:18:00+09:00",
-      "keywords": []
-    },
-    {
-      "id": "bc03f32b92c8",
-      "title": "[포토뉴스]국가폭력 진상규명 요구하는 청계피복노조",
-      "summary": "청계피복노동조합동지회 회원들이 6일 서울 중구 진실·화해를위한과거사정리위원회 앞에서 기자회견을 열고 청계피복노조에 대한 국가폭력 진상 규명을 요구하고 있다.",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062115005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:15:00+09:00",
-      "keywords": [
-        "노동"
-      ]
-    },
-    {
-      "id": "1ddae9dc1fd1",
-      "title": "장윤기 수사팀장이 직접 ‘범행 증거’ 인멸",
-      "summary": "차량서 발견한 케이블타이 없애고 수사 서류엔 “압수할 물건 없어” 광주경찰청, 해당 경감 긴급체포 경찰 가족 감싸기 등 신뢰 ‘흔들’ ‘유착 의혹’ 광주청 수사 배제키로지난 5월 광주에서 귀가 중이던 여고생을 살해한…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062113035/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:13:03+09:00",
-      "keywords": [
-        "경찰"
-      ]
-    },
-    {
-      "id": "27338e8bc4aa",
-      "title": "접근금지·스마트워치도 ‘무용지물’…스토킹 피해자 못 지킨 보호 시스템",
-      "summary": "한 달 전 “교제폭력” 신고에 분리경찰 조치에도 살인 사건 못 막아전문가 “가해자 행동 제재해야”국가의 보호를 받던 스토킹 피해자가 숨지는 사건이 또 발생했다. 스토킹 피해자 보호조치의 한계가 명백해 가해자 행동을…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062113025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:13:02+09:00",
-      "keywords": [
-        "경찰"
-      ]
-    },
-    {
-      "id": "1a933accc46a",
-      "title": "법원 “대검 비공개 내규 목록 공개하라”",
-      "summary": "참여연대, 정보공개 청구 ‘승소’법원 “국민의 알권리 보장해야”대검찰청이 대외비로 관리하는 내부 지침 목록을 공개해야 한다고 법원이 판결한 사실이 뒤늦게 알려졌다.6일 법조계에 따르면 서울행정법원 행정10부(재판장…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062113015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:13:01+09:00",
-      "keywords": [
-        "법원"
-      ]
-    },
-    {
-      "id": "d3622335bb9b",
-      "title": "인권위, 국방장관에 “사관학교 내 인권 보장 기구 설치” 권고",
-      "summary": "사관생도 62% “인권침해 경험”“임신·출타 시 복장 등 규율 과도”국가인권위원회가 사관생도들의 인권 증진을 위해 사관학교에 독립적인 인권 보장 기구를 설치하고 생활 규율을 개선해야 한다고 권고했다.인권위는 지난달…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "보안",
-      "url": "https://www.khan.co.kr/article/202607062113005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:13:00+09:00",
-      "keywords": [
-        "침해",
-        "장관"
-      ]
-    },
-    {
-      "id": "20c5d182b655",
-      "title": "트럼프도 삼전닉스도 이 회사 눈치…AI 거품론 잠재우며 슬금슬금 우상향하는 주식의 비밀 [플러스 관심종목]",
-      "summary": "美빅테크 중 나홀로 주가 버틴 주식투자자들은 ‘독한 최고경영자(CEO)’를 선호한다. 주주들을 위해 동분서주해야 한다. 제품 원가를 높이려는 기업을 향해 쓴 소리와 때론 ‘엄살 쇼..",
-      "source": "매일경제",
-      "region": "국내",
-      "tier": "증권",
-      "domain": "주식·증시",
-      "url": "https://www.mk.co.kr/news/business/12091730",
-      "published": "2026-07-06T21:12:29+09:00",
-      "keywords": [
-        "주가",
-        "AI"
-      ]
-    },
-    {
-      "id": "0c89cdea7b71",
-      "title": "[2026년 07월 07일 날씨]낮 최고 33도 ‘소서’…천둥·번개 오락가락 장맛비",
-      "summary": "",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062110025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:10:02+09:00",
-      "keywords": [
-        "날씨"
-      ]
-    },
-    {
-      "id": "52a8e5bbd169",
-      "title": "‘체감 38도’ 넘는 폭염 땐 사망 위험 16% 증가",
-      "summary": "질병청 “65세 이상 중증화 위험 2배”폭염 취약계층 맞춤 행동요령 배포체감온도가 38도를 넘는 폭염 상황에서는 전체 사망 위험이 평소보다 16% 높아진다는 분석 결과가 나왔다.질병관리청은 2016~2024년 기상청…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062110015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:10:01+09:00",
-      "keywords": []
-    },
-    {
-      "id": "05c7d6391444",
-      "title": "교육부 “내신 5등급제로 자퇴 증가? 통계는 사실과 달라”",
-      "summary": "증가폭 예년 수준, 하위권이 많아상위권의 ‘내신 리셋’ 이탈설 일축“정시 노린 자퇴, 유리한 전략 아냐”교육부가 내신 5등급제 시행 이후 고등학교 상위권 학생들의 자퇴가 늘었다는 주장은 사실과 다르다고 반박했다. 사…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062110005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:10:00+09:00",
-      "keywords": [
-        "교육"
-      ]
-    },
-    {
-      "id": "6ec2d5996388",
-      "title": "캐나다 매체 \"캐나다, 잠수함 사업자로 독일 TKMS 선정\"",
-      "summary": "(서울=연합뉴스) 김아람 기자 = 캐나다 정부가 차세대 잠수함 건조 사업자로 독일 티센크루프마린시스템(TKMS)를 선정했다고 캐나다 유력 일간지...",
-      "source": "연합뉴스",
-      "region": "국내",
-      "tier": "통신",
-      "domain": "사회·경제",
-      "url": "https://www.yna.co.kr/view/AKR20260706152800009",
-      "published": "2026-07-06T21:08:38+09:00",
-      "keywords": []
-    },
-    {
-      "id": "6f3590ddc767",
-      "title": "대구 ‘이슬람사원 건립’ 수년째 표류…구청 방관 속 또 혐오 집회",
-      "summary": "‘할랄 들어오면 테러범도 들어온다’ 등 무슬림 혐오 펼침막 내걸려시민단체 “북구청이 책임 회피”…공사 재개 위한 갈등 중재 요구대구 북구 대현동 이슬람사원 건축 공사(왼쪽 사진)가 지난 1일 중단돼 있다. 이슬람사원…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062107005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:07:00+09:00",
-      "keywords": []
-    },
-    {
-      "id": "1b4f34d8f5ad",
-      "title": "경기도민 10명 중 8명 “교내 스마트폰 수거·보관 필요”",
-      "summary": "학교 재량보다 ‘일괄 규제’ 선호경기도민 10명 중 8명은 “교내 스마트폰 수거·보관 조치가 필요하다”고 답한 것으로 나타났다. 규제 방식은 학교 재량보다는 일괄 규제를 원했으며, 이를 통해 원활한 수업 진행 및 교…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062105035/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:05:03+09:00",
-      "keywords": []
-    },
-    {
-      "id": "1df206e76ac1",
-      "title": "고령층 위해 앱 대신 ‘120’ 눌러 호출…서울시 ‘동행 온다 콜택시’ 이용 급증",
-      "summary": "서울시가 애플리케이션(앱)을 통한 택시 호출이 어려운 어르신을 대상으로 시행하고 있는 ‘동행 온다 콜택시’ 이용자 수가 불과 10개월 새 650.3% 급증한 것으로 집계됐다.‘동행 온다 콜택시’는 스마트폰 앱 사용에…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "IT·과학",
-      "url": "https://www.khan.co.kr/article/202607062105025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:05:02+09:00",
-      "keywords": [
-        "애플"
-      ]
-    },
-    {
-      "id": "6e1b556ade77",
-      "title": "부산 찾은 외국인, 1~5월 200만명 육박",
-      "summary": "6월 BTS 공연 손님 포함 땐 ‘훌쩍’시 “올해 목표 400만명 조기 달성”부산을 방문한 외국인 관광객이 올해 1~5월 200만명에 육박한 것으로 나타났다. 6월 BTS 콘서트를 보기 위해 부산을 방문한 사람들까지…",
-      "source": "경향신문",
+      "id": "ffa085c93971",
+      "title": "'닥공으로 K3 접수' 춘천시민축구단, 제7대 김우재 감독 선임",
+      "summary": "춘천시민축구단이 제7대 사령탑으로 김우재 감독을 선임했다. 춘천시민축구단은 6일 김우재 감독 선임 소식을 알리며 매 시즌 상위권에 도전할 수 있는 체질 개선에 나선다고 밝혔다. 김 감독은 “끝까지 공격하고 반드시 승…",
+      "source": "프레시안",
       "region": "국내",
       "tier": "종합",
       "domain": "스포츠·문화",
-      "url": "https://www.khan.co.kr/article/202607062105015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:05:01+09:00",
-      "keywords": [
-        "공연"
-      ]
-    },
-    {
-      "id": "e7ac82455744",
-      "title": "민주당 지사·의회로 바뀐 충북, ‘오송참사 추모식’ 변화 움직임",
-      "summary": "충북도·청주시 열흘간 추모 주간난항 겪던 추모비 건립도 속도 내“국민의힘 때와 분위기 확 달라져”30명의 사상자가 발생했음에도 그동안 외면받았던 오송 지하차도 참사를 추모하는 태도가 3년 만에 달라졌다. 충북도는 오…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202607062105005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:05:00+09:00",
-      "keywords": [
-        "민주당"
-      ]
-    },
-    {
-      "id": "35cbff1df0f1",
-      "title": "폐허 속 독립기념일 맞은 베네수, 사망자 3340여명으로",
-      "summary": "현지 인권단체, 미국 등 지원 촉구“재건 비용에 약 57조원 필요 전망”단전·식량난 속 구조팀 일부 철수신원미상 시신 150구 매장 작업자들이 지난 5일(현지시간) 베네수엘라 라과이라주 카티아라마르에서 신원 불명의…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202607062102015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:02:01+09:00",
-      "keywords": [
-        "미국"
-      ]
-    },
-    {
-      "id": "f1b523ea9f81",
-      "title": "나토에 무기 구매 압박…트럼프, 동맹에 계산서",
-      "summary": "나토 회의서 ‘충성심’ 요구할 듯도널드 트럼프 미국 대통령이 7일(현지시간) 튀르키예 앙카라에서 개막하는 북대서양조약기구(나토) 정상회의에 참석해 미·이란 전쟁을 지원하지 않은 유럽 동맹국에 ‘충성심’을 요구하며 미…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202607062102005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:02:00+09:00",
-      "keywords": [
-        "대통령"
-      ]
-    },
-    {
-      "id": "09c2b709720e",
-      "title": "중국 “핵잠수함, 일본 남쪽 태평양서 탄도미사일 시험 발사”",
-      "summary": "와카야마현 남방 해양 낙하 추정일 정부 재고 요청에도 발사 강행“연례 군사훈련”…공개는 이례적연합훈련 위해 중국 온 러시아 순양함 중국 해군 장병들이 지난 5일 산둥성 칭다오 군항에 도열해 ‘해상연합 2026’ 훈련…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202607062100005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T21:00:00+09:00",
-      "keywords": [
-        "중국"
-      ]
-    },
-    {
-      "id": "63a82cc7f306",
-      "title": "‘우크라 다음 될라’ 스웨덴은 무장 중",
-      "summary": "발트해 한복판 위치한 고틀란드 냉전 시기부터 나토의 전략 거점 러시아 침공 등 군사적 위협 부상 방어력 강화·식량 비축 등 대비러시아의 우크라이나 침공 이후 유럽 각국이 재무장에 나선 가운데 스웨덴이 발트해 전략 요…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062059015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:59:01+09:00",
-      "keywords": []
-    },
-    {
-      "id": "eaf1d938ddbe",
-      "title": "트럼프와 FIFA 회장 ‘월드컵 농락’",
-      "summary": "미국팀 선수 한 경기 출전정지에트럼프 전화 걸어 “재검토” 요청인판티노, 규정 깨고 “징계 유예”벨기에 축구협회 “경악” 맹비난도널드 트럼프 미국 대통령이 집권 1기 때인 2018년 8월 백악관에서 잔니 인판티노 국…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "스포츠·문화",
-      "url": "https://www.khan.co.kr/article/202607062059005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:59:00+09:00",
-      "keywords": [
-        "축구",
-        "대통령"
-      ]
-    },
-    {
-      "id": "92ae1c2ea5fa",
-      "title": "[이창진의 우주로 읽는 과학]국제협력 중요한 우주탐사…우리만의 ‘기여’ 있어야 소외 안 된다",
-      "summary": "우물 안 달 탐사를 넘어서일러스트 | 김상민 기자 yellow@kyunghyang.com수성과 금성을 제외한 태양계의 6개 행성은 모두 위성을 가졌다. 이 가운데 토성을 도는 대표적인 위성은 ‘타이탄’이다. 타이탄은…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "IT·과학",
-      "url": "https://www.khan.co.kr/article/202607062057005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:57:00+09:00",
-      "keywords": [
-        "과학",
-        "국제"
-      ]
-    },
-    {
-      "id": "afa3d1a9a80b",
-      "title": "[속보] \"캐나다, 잠수함 건조업체로 독일 TKMS 선정\"",
-      "summary": "(",
-      "source": "연합뉴스",
-      "region": "국내",
-      "tier": "통신",
-      "domain": "사회·경제",
-      "url": "https://www.yna.co.kr/view/AKR20260706152200009",
-      "published": "2026-07-06T20:55:41+09:00",
-      "keywords": []
-    },
-    {
-      "id": "07f9b01c3ef8",
-      "title": "與소속 국회 정무위원장 \"국힘과 협의해 홈플러스 청문회 추진\"",
-      "summary": "(서울=연합뉴스) 박재하 기자 = 국회 정무위원회가 이른바 '홈플러스 사태'에 대한 청문회를 추진키로 했다.",
-      "source": "연합뉴스",
-      "region": "국내",
-      "tier": "통신",
-      "domain": "정치·국제",
-      "url": "https://www.yna.co.kr/view/AKR20260706151300001",
-      "published": "2026-07-06T20:54:17+09:00",
-      "keywords": [
-        "국회"
-      ]
-    },
-    {
-      "id": "661a323cb3da",
-      "title": "베를린서 한국학 학술대회…\"연구 지평 한반도 밖으로\"",
-      "summary": "(베를린=연합뉴스) 김계연 특파원 = 독일 베를린자유대 한국학연구소(소장 이은정)는 지난 4∼5일(현지시간) 베를린 캠퍼스에서 학술대회 '제19...",
-      "source": "연합뉴스",
-      "region": "국내",
-      "tier": "통신",
-      "domain": "사회·경제",
-      "url": "https://www.yna.co.kr/view/AKR20260706151800082",
-      "published": "2026-07-06T20:50:18+09:00",
-      "keywords": []
-    },
-    {
-      "id": "72d94d73ae0e",
-      "title": "원·달러 거래 24시간 체제…새벽시간 원화 접근성 높였다",
-      "summary": "월 오전 6시부터 토 오전 6시까지심야 급등락·변동성 확대 우려도“실시간 환리스크 대응 가능” 구윤철 부총리 겸 재정경제부 장관과 권민수 한국은행 부총재보, 함영주 하나금융 회장(왼쪽부터)이 24시간 외환시장 개장…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202607062049025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:49:02+09:00",
-      "keywords": [
-        "장관",
-        "경제"
-      ]
-    },
-    {
-      "id": "a367bb232085",
-      "title": "‘제주 기름값 담합’ 농협에 과징금 20억",
-      "summary": "공정위 “ℓ당 10~60원 올려 받아”‘가격 통제’ 주유소협엔 3000만원휘발유와 경유 등 경질유 제품 가격을 담합했다는 의혹으로 제주농협과 서귀포농협에 20억원대의 과징금이 부과됐다. 공정거래위원회는 다음날 적용할…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062049015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:49:01+09:00",
-      "keywords": []
-    },
-    {
-      "id": "6aee0ed7fbaa",
-      "title": "같은 아파트인데 전셋값 8000만원 차이…‘이중가격’ 심화",
-      "summary": "서울 신규·재계약 보증금 격차 커“물건 부족해 연장 선호 지속될 듯”올해 들어 서울 아파트 전셋값이 오르면서 같은 단지·면적이더라도 신규계약의 경우 5000만원 가까이 크게 오른 반면 재계약 시엔 전월세 상한제 등의…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062049005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:49:00+09:00",
-      "keywords": []
-    },
-    {
-      "id": "06e0d1d57688",
-      "title": "삼성카드, 홈플러스 반발에 대금 지급 보류 철회",
-      "summary": "현대카드 포인트 제휴 서비스는 중단대형마트 홈플러스가 인수자를 찾지 못해 사실상 파산 수순을 밟게 된 지난 3일 서울 시내 한 홈플러스 매장 입고장이 한산하다. 연합뉴스홈플러스 반발에 삼성카드가 대금 지급 보류를 철…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062047001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:47:00+09:00",
-      "keywords": []
-    },
-    {
-      "id": "a5ef2f520a79",
-      "title": "‘쪼개기 상장’ 맘대로 못한다…모회사의 주주 동의 의무화",
-      "summary": "‘중복상장’ 가이드라인 발표물적분할 상장 ‘제2 LG엔솔’ 차단 모회사 이사회에 ‘주주충실’ 강화 지배주주 의결권 3%까지만 인정 ‘소수주주 다수결’보다 미흡 지적 일률 규제, 자본시장 위축 우려도이르면 이달 말부터…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "주식·증시",
-      "url": "https://www.khan.co.kr/article/202607062044005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:44:00+09:00",
-      "keywords": [
-        "상장"
-      ]
-    },
-    {
-      "id": "8fa112301a46",
-      "title": "[포토뉴스]파라타항공, ‘인천~삿포로’ 노선 신규 취항",
-      "summary": "공항사진기자단윤철민 파라타항공 대표(오른쪽에서 여섯번째)를 비롯한 임직원들이 6일 인천국제공항 제1여객터미널 탑승구 앞에서 열린 ‘인천~삿포로 신규 취항식’에서 삿포로 취항을 알리는 현수막을 들고 기념사진을 찍고 있…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202607062043005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:43:00+09:00",
-      "keywords": [
-        "국제"
-      ]
-    },
-    {
-      "id": "cc55f909e207",
-      "title": "‘국채는 안전’ 맹신 금물…위험등급 낮아도 손실 가능성",
-      "summary": "금감원, 채권 투자 유의사항 안내금리 민감, 가격변동성 주의해야장기 금리 예측 전문가도 어려워만기 전 매도하면 손실 커질 수도금융당국이 국채 등 위험등급이 낮은 채권 투자도 시세 하락으로 손실을 볼 수 있고, 만기가…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062042025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:42:02+09:00",
-      "keywords": [
-        "금융"
-      ]
-    },
-    {
-      "id": "c2937e3fdffe",
-      "title": "한화큐셀, 메타 전용 태양광 발전소에 모듈 32만장 공급",
-      "summary": "미 인디애나주에 내년 완공 예정발전소 설계·조달·시공도 담당‘솔라허브’ 가동, 첫 대규모 수주한화솔루션 큐셀부문(한화큐셀)이 글로벌 빅테크 기업 메타에 재생에너지 전력을 공급하는 태양광 프로젝트 사업을 수주했다.한화…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062042015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:42:01+09:00",
-      "keywords": [
-        "기업"
-      ]
-    },
-    {
-      "id": "3642c5fe0760",
-      "title": "신한은행 금융 서비스 “더 넓고 깊게”",
-      "summary": "하반기 경영전략 ‘고객 접점 확장’신한은행은 6일 고객과의 접점 확대와 차별화된 솔루션 제공을 주제로 ‘2026년 하반기 경영전략회의’를 열었다고 밝혔다.정상혁 은행장과 임직원 약 180명이 참석한 이날 회의에서 신…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062042005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:42:00+09:00",
-      "keywords": [
-        "금융"
-      ]
-    },
-    {
-      "id": "b0fb80b88692",
-      "title": "“1시간만 일해도 팔 저렸는데 로봇조끼 입고 3~4시간 거뜬”",
-      "summary": "‘엑스블 숄더’ 과수농장 활용충북 음성에서 농장을 운영하는 최혜랑씨가 엑스블 숄더를 입고 복숭아나무를 살펴보고 있다. 현대자동차 제공현대차·기아 ‘웨어러블 로봇’ 배터리 없애고 중량 1.9kg으로 팔 무게 60%↓사…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "IT·과학",
-      "url": "https://www.khan.co.kr/article/202607062040015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:40:01+09:00",
-      "keywords": [
-        "로봇"
-      ]
-    },
-    {
-      "id": "4c1611a24319",
-      "title": "‘찰칵 세리머니’에 공 전달까지…아틀라스 ‘월드컵 데뷔’",
-      "summary": "현대차 로봇, 대중 앞 첫 동작 시연산업 현장서 활용할 기술력 입증심판에게 경기구 전달하는 로봇 6일(현지시간) 미국 뉴저지주 ‘뉴욕 뉴저지 스타디움’에서 열린 브라질-노르웨이 16강전 하프타임에 휴머노이드 로봇 ‘…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "스포츠·문화",
-      "url": "https://www.khan.co.kr/article/202607062040005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:40:00+09:00",
-      "keywords": [
-        "월드컵",
-        "로봇"
-      ]
-    },
-    {
-      "id": "c91ea657fab6",
-      "title": "KT, AX 기업으로 도약…박윤영 대표 “18조 투자”",
-      "summary": "데이터센터 추가·토큰 팩토리 추진박윤영 KT 대표가 인공지능(AI) 전환 청사진을 발표했다. 본업인 통신을 기반으로 AI 전환(AX) 플랫폼 컴퍼니로 탈바꿈한다는 포부를 밝혔다. AI 데이터센터를 추가로 구축하고,…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "IT·과학",
-      "url": "https://www.khan.co.kr/article/202607062039015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:39:01+09:00",
-      "keywords": [
-        "AI",
-        "기업"
-      ]
-    },
-    {
-      "id": "9a975ddd6525",
-      "title": "LG, 2차 협력사까지 ‘납품대금 빠르고 안전하게 전달’ 약속",
-      "summary": "낙수율 국내 최대 10%로 확대키로LG가 협력사에 납품대금이 안전하게 전달되도록 하는 ‘상생결제’를 2차 협력사까지 확대하기로 했다.LG전자 등 LG 7개 계열사는 6일 마곡 LG사이언스파크에서 1·2·3차 협력사와…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062039005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:39:00+09:00",
-      "keywords": []
-    },
-    {
-      "id": "68014d4340ef",
-      "title": "전란 후 4곳에 ‘백업’한 실록, 처음 모였다",
-      "summary": "부산박물관 ‘조선의 기록…’전‘조선의 기록과 문화, 만세萬世에 전하노니’ 전시에서 선보이는 ‘영조 어진’(오른쪽)과 ‘철종 어진’. 어진 뒤편으로 ‘일월오봉도’가 보인다.성종실록 4대 사고본 나란히 조선 전기 장면·…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "스포츠·문화",
-      "url": "https://www.khan.co.kr/article/202607062036015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:36:01+09:00",
-      "keywords": [
-        "전시",
-        "사고"
-      ]
-    },
-    {
-      "id": "c7d4dd4635d8",
-      "title": "“인정욕구·열등감 큰 인간의 민낯…구질구질하다 싶다가 측은지심도”",
-      "summary": "6부작 ‘맨 끝줄 소년’으로 첫 넷플릭스 출연 최민식넷플릭스 시리즈 <맨 끝줄 소년>의 주연 최민식(오른쪽)과 최현욱. 넷플릭스 제공오대수와 비슷하단 평 공감 대중 평가 절대적은 아냐 진정성 담았냐가 중요“꺼내 보고…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062036005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:36:00+09:00",
-      "keywords": []
-    },
-    {
-      "id": "1bbe8aab5a45",
-      "title": "부산서 공동주택 화재…1명 중상 주민 18명 대피",
-      "summary": "(부산=연합뉴스) 김선호 기자 = 6일 오후 5시께 부산 서구 한 5층짜리 공동주택 4층에서 불이 난 것을 인근 주민이 발견해 119에 신고했다...",
-      "source": "연합뉴스",
-      "region": "국내",
-      "tier": "통신",
-      "domain": "사회·경제",
-      "url": "https://www.yna.co.kr/view/AKR20260706151500051",
-      "published": "2026-07-06T20:33:17+09:00",
-      "keywords": []
-    },
-    {
-      "id": "7919ab4183c8",
-      "title": "\"주일미군, 오키나와 하이마스 계속 운용…中군사력 염두\"",
-      "summary": "(도쿄=연합뉴스) 조성미 특파원 = 주일미군이 일본 오키나와현에 배치한 고속기동포병로켓시스템(HIMARS·하이마스)을 계속 운용하기로 했으며 이...",
-      "source": "연합뉴스",
-      "region": "국내",
-      "tier": "통신",
-      "domain": "정치·국제",
-      "url": "https://www.yna.co.kr/view/AKR20260706151200073",
-      "published": "2026-07-06T20:32:23+09:00",
-      "keywords": [
-        "일본"
-      ]
-    },
-    {
-      "id": "f99a6d3e876e",
-      "title": "전통설화부터 로봇 SF까지…‘배제된 자’들의 정체성 들여다보다",
-      "summary": "‘K-디아스포라 문학’의 확장…해외서 주목받는 한국계 작가들SF 소설 ‘루미너스’ 쓴 박지선 한국계 미국인의 정체성 투영 인간·로봇의 모호한 경계 다뤄 현지 찬사 받으며 영상화 진행 리 랑그바드의 ‘나의 통역사’ 한…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "IT·과학",
-      "url": "https://www.khan.co.kr/article/202607062031005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:31:00+09:00",
-      "keywords": [
-        "로봇",
-        "미국"
-      ]
-    },
-    {
-      "id": "4fc2a2785967",
-      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-      "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the s…",
-      "source": "The Hacker News",
-      "region": "해외",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-      "published": "2026-07-06T20:30:02+09:00",
-      "keywords": [
-        "AI"
-      ]
-    },
-    {
-      "id": "e6d4da034053",
-      "title": "훈장받은 조성현 대령이 내란 피의자, 내란·종합특검 정반대 결론 왜?",
-      "summary": "피의자 입건과 불입건. 12·3 내란 당시 국회에 출동한 군인에 대해 두 특검이 정반대 결론을 내렸다. 종합특검(특별검사 권창영)은 수도방위사령부 경비단장이었던 조성현 대령을 내란 범죄의 피의자로 입건했고, 내란특검…",
-      "source": "오마이뉴스",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249163",
-      "published": "2026-07-06T20:27:35+09:00",
-      "keywords": [
-        "국회"
-      ]
-    },
-    {
-      "id": "68c1be87e6d4",
-      "title": "KISIA 정보보호 스타트업 협의체 회의 개최...투자와 제도 개선 논의",
-      "summary": "한국정보보호산업협회(KISIA) 정보보호 스타트업 협의체가 지난 6월 30일 2026년 정보보호 스타트업 협의체 회의를 개최했다. 양봉열 협의체 의장(로그프레소 대표이사) 주도로 열린 이번 회의는 보안 스타트업의 투…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207457",
-      "published": "2026-07-06T20:26:30+09:00",
-      "keywords": [
-        "보안",
-        "스타트업"
-      ]
-    },
-    {
-      "id": "8f440a19c6b2",
-      "title": "레바논 매체 \"이스라엘군, 차량 표적 공습…4명 사망\"",
-      "summary": "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘과 친이란 무장정파 헤즈볼라 간의 불안정한 휴전 속에 6일(현지시간) 레바논 남부에서 차량을 겨냥한...",
-      "source": "연합뉴스",
-      "region": "국내",
-      "tier": "통신",
-      "domain": "사회·경제",
-      "url": "https://www.yna.co.kr/view/AKR20260706151100079",
-      "published": "2026-07-06T20:25:40+09:00",
-      "keywords": []
-    },
-    {
-      "id": "4556d51e2f18",
-      "title": "[월드컵] 트럼프 전화 한통에 면죄부 주나…들끓는 유럽(종합)",
-      "summary": "(베를린=연합뉴스) 김계연 특파원 = 도널드 트럼프 미국 대통령이 직전 경기에서 퇴장당한 미국 스트라이커 폴라린 발로건(25·AS모나코)의 징계...",
-      "source": "연합뉴스",
-      "region": "국내",
-      "tier": "통신",
-      "domain": "스포츠·문화",
-      "url": "https://www.yna.co.kr/view/AKR20260706141551082",
-      "published": "2026-07-06T20:24:00+09:00",
-      "keywords": [
-        "월드컵",
-        "대통령"
-      ]
-    },
-    {
-      "id": "8d1754f262db",
-      "title": "수적 열세·일방적 응원·고지대 환경 딛고 또 잉글랜드 구한 케인·벨링엄",
-      "summary": "브라질 잡은 노르웨이·멕시코 꺾은 잉글랜드 8강서 만난다악천후에 경기 지연 등 최악 조건멕시코전 1명 퇴장 속 2 대 3 승리벨링엄 2골…케인도 PK골·1도움“홈팀 넘었다” 잉글랜드 주드 벨링엄(10번)이 6일 멕시…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062023005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:23:00+09:00",
-      "keywords": [
-        "환경"
-      ]
-    },
-    {
-      "id": "4734f15434f0",
-      "title": "안동시의회, 이재갑 민주당 의원 의장으로... 경북 첫 민주당 의장",
-      "summary": "경상북도 기초의회에서 사상 처음으로 더불어민주당 소속 의장이 탄생했다. 경북 22개 기초의회에서 민주당 소속 의장이 탄생한 것은 지방선거가 실시된 이후 처음이다. 경북 안동시의회는 6일 제266회 임시회 제1차 본회…",
-      "source": "오마이뉴스",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249246",
-      "published": "2026-07-06T20:21:21+09:00",
-      "keywords": [
-        "민주당"
-      ]
-    },
-    {
-      "id": "ace2cdc5b3cf",
-      "title": "2골 넣고도 그저 무덤덤 ‘포커페이스’ 홀란에 브라질, 36년 만에 16강서 ‘침몰’",
-      "summary": "브라질 잡은 노르웨이·멕시코 꺾은 잉글랜드 8강서 만난다노르웨이, 볼 소유·패스 등 압도월드컵 사상 처음으로 8강 진출홀란, 메시·음바페와 득점 선두“노를 저어라” 노르웨이 골잡이 엘링 홀란(오른쪽)이 6일 미국 뉴…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "스포츠·문화",
-      "url": "https://www.khan.co.kr/article/202607062021005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:21:00+09:00",
-      "keywords": [
-        "월드컵",
-        "미국"
-      ]
-    },
-    {
-      "id": "290cb992b6c1",
-      "title": "'징계 요청서' 조경태 \"뭐가 해당 행위?\"... 폭풍전야 국민의힘",
-      "summary": "조경태 국민의힘 의원(6선, 부산 사하구을)이 6일 자신을 대상으로 한 징계 요청서가 중앙당 윤리위원회(아래 윤리위, 위원장 윤민우)에 접수됐다는 소식에 \"내가 잘못한 게 있는가?\"라며 반발했다. 이날 오전 채널A…",
-      "source": "오마이뉴스",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249242",
-      "published": "2026-07-06T20:19:33+09:00",
-      "keywords": [
-        "국민의힘"
-      ]
-    },
-    {
-      "id": "25ef237cdd69",
-      "title": "‘K- 축구 혁신위’ 출범…“위기의 한국축구 새 판 짠다”",
-      "summary": "유승민·박지성 공동위원장에대표팀 경쟁력 제고 방안 제안축협 독립성 규정에 강제 어려워박지성 K-축구 혁신위원회 공동위원장(왼쪽)이 6일 서울 송파구 올림픽파크텔에서 열린 혁신위 출범식에서 발언을 하고 있다. 사진공동…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "스포츠·문화",
-      "url": "https://www.khan.co.kr/article/202607062018015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:18:01+09:00",
+      "url": "https://www.pressian.com/pages/articles/2026070718193629944&ref=rss",
+      "published": "2026-07-08T03:35:46+09:00",
       "keywords": [
         "축구"
       ]
     },
     {
-      "id": "4c9d0006ddcf",
-      "title": "13연패 끊었더니 9연패 수렁…SSG, 볕 들 날은 언제",
-      "summary": "지난 주말 삼성과 3연전 모두 내줘신세계 인수 뒤 첫 ‘3할대 승률’로시즌 반환점 앞두고 ‘총제적 난국’이숭용 SSG 감독기나긴 연패에서 겨우 탈출한 SSG가 어느새 또다시 깊은 수렁에 빠져들었다.SSG는 지난 주말…",
-      "source": "경향신문",
+      "id": "6f7a959c413a",
+      "title": "강원대-고려대, 'AI·성장엔진 분야 연구협력 협약'",
+      "summary": "강원대학교(총장 정재연)와 고려대학교(총장 김동원)는 7일 고려대 본관 제2회의실에서 ‘상호협력 및 연구협력 업무협약’을 체결하고, AI 기반 성장엔진 산업 육성과 공동연구 활성화를 위한 협력체계 구축에 나섰다. 이…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "IT·과학",
+      "url": "https://www.pressian.com/pages/articles/2026070718325784017&ref=rss",
+      "published": "2026-07-08T03:33:44+09:00",
+      "keywords": [
+        "AI",
+        "산업"
+      ]
+    },
+    {
+      "id": "239732fdffb2",
+      "title": "인제군 미래인제준비위, 민선9기 주요 전략사업 현장점검",
+      "summary": "인제군 민선9기 미래인제준비위원회가 성공적인 민선9기 군정 출범을 위해 주요 전략사업 현장을 방문하며 사업 추진상황을 점검했다. 미래인제준비위원회는 지난 6월 25일부터 7월 2일까지 총 3차례에 걸쳐 아미산 워케이…",
+      "source": "프레시안",
       "region": "국내",
       "tier": "종합",
       "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202607062018005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-07-06T20:18:00+09:00",
+      "url": "https://www.pressian.com/pages/articles/2026070718252546300&ref=rss",
+      "published": "2026-07-08T03:33:33+09:00",
       "keywords": []
     },
     {
-      "id": "1240b96c0b4e",
-      "title": "대구부산고속도 생림2터널 내 SUV 전도…1명 부상",
-      "summary": "(김해=연합뉴스) 박영민 기자 = 6일 오후 6시 26분께 경남 김해시 생림면 대구부산고속도로 부산 방향 생림2터널 안에서 스포츠유틸리티차(SU...",
+      "id": "5dd4d7a67512",
+      "title": "'진보 성향' 민변도 \"검사 보완수사권 존치해야\"…60% 이상이 '존치' 의견",
+      "summary": "검사 보완수사권 폐지를 주 내용으로 하는 형사소송법 개정안 논의가 한창이 가운데, 민주사회를 위한 변호사모임이 회원 3명 중 2명은 검사의 보완수사권 전면 혹은 부분 존치를 바란다는 조사를 발표했다. 민변은 지난달…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.pressian.com/pages/articles/2026070715573773108&ref=rss",
+      "published": "2026-07-08T03:29:10+09:00",
+      "keywords": []
+    },
+    {
+      "id": "e181c1f89eaa",
+      "title": "\"음바페는 식민지 카메룬 놈\" 비하한 의원, 비판 쏟아지자 \"젠더 폭력 사과하라\"?",
+      "summary": "프랑스 축구 국가대표팀의 킬리안 음바페 선수에 대해 원색적인 인종 차별을 쏟아낸 셀레스테 아마리야 파라과이 상원의원이 이번에는 음바페가 여성을 비하하는 폭력을 저질렀다며 법적 조치를 하겠다고 으름장을 놓았다. 음바페…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "스포츠·문화",
+      "url": "https://www.pressian.com/pages/articles/2026070717412042927&ref=rss",
+      "published": "2026-07-08T03:28:49+09:00",
+      "keywords": [
+        "축구"
+      ]
+    },
+    {
+      "id": "bbedd1bdaa87",
+      "title": "동해시, 민선 9기 시정운영 본격화",
+      "summary": "동해시가 민선9기 시정구호인 ‘새로운 동해시, 시민과 함께 여는 미래’를 중심으로 시정 운영체계를 본격 가동한다고 밝혔다. 이정학 시장은 7일 하반기 주요업무계획 보고에 앞서 “민선9기의 방향은 시민이 체감하는 변화…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.pressian.com/pages/articles/2026070718145566341&ref=rss",
+      "published": "2026-07-08T03:21:58+09:00",
+      "keywords": []
+    },
+    {
+      "id": "6a5cbe268caf",
+      "title": "남양주시 고교생, 춘천폴리텍서 미래산업 기술체험·진로탐색",
+      "summary": "정부 산하 국책기술대학인 한국폴리텍Ⅲ대학(학장 지경배) 춘천캠퍼스가 7~9일남양주시 특성화고인 금곡고등학교와 남양주고등학교 재학생들을 대상으로 ‘꿈드림공작소’ 기술체험 프로그램을 운영한다. ‘꿈드림공작소’는 한국폴리…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.pressian.com/pages/articles/2026070717571177523&ref=rss",
+      "published": "2026-07-08T03:19:50+09:00",
+      "keywords": [
+        "산업"
+      ]
+    },
+    {
+      "id": "ea79d0a8da2d",
+      "title": "북부지방산림청, 장마철 대비 산사태 위험지역 안전점검",
+      "summary": "북부지방산림청(청장 송준호)은 장마철 집중호우에 대비해 7일 관내 신설 임도 사업장과 산사태취약지역을 대상으로 현장 안전점검을 실시했다고 밝혔다. 앞서 지난 5월 8일 북부지방산림청은 여름철 집중호우와 풍수해에 대비…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.pressian.com/pages/articles/2026070717491981665&ref=rss",
+      "published": "2026-07-08T03:15:27+09:00",
+      "keywords": []
+    },
+    {
+      "id": "184efa0d11e0",
+      "title": "한전 강원본부, 홍천 주민에 사진 선물·기부금 전달",
+      "summary": "한국전력 강원본부(본부장 이철휴)는 HVDC건설본부와 함께 홍천군 지역 주민들의 건강과 행복을 기원하는 ‘효 드림, 행복동행’ 프로젝트를 성공적으로 마치고 7일 강원특별자치도사회복지협의회에서 기부금 전달식을 개최했다…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.pressian.com/pages/articles/2026070718100872429&ref=rss",
+      "published": "2026-07-08T03:11:51+09:00",
+      "keywords": [
+        "복지"
+      ]
+    },
+    {
+      "id": "7949f841ba74",
+      "title": "제12대 경기도의회 개원… '현장 중심 원칙 있는 협치' 다짐",
+      "summary": "의장 남종섭, 부의장 고은정·김미숙 등 전반기의장단 선출 완료 추미애 \"열악한 재정 상황… 의회와 지혜 모아 전환점 만들 것\" 안민석 \"다산 정약용의 실사구시 정신으로, 경기교육 대전환 이뤄낼 것\" 경기도의회는 7일…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.pressian.com/pages/articles/2026070718055378266&ref=rss",
+      "published": "2026-07-08T03:06:39+09:00",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "id": "e871dbbd4d24",
+      "title": "'캐나다 잠수함 불발'에 한동훈 \"정부·기업 존경하고 응원\"…장동혁은 뭐라 했나?",
+      "summary": "한국이 최대 60조 원 규모의 캐나다 차세대 잠수함 도입 사업 수주 경쟁에서 고배를 마신 데 대해 국민의힘 장동혁 대표와 무소속 한동훈 의원이 7일 상반된 반응을 내놓았다. 장 대표는 이날 오후 페이스북을 통해 \"캐…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "정치·국제",
+      "url": "https://www.pressian.com/pages/articles/2026070716523836237&ref=rss",
+      "published": "2026-07-08T03:01:42+09:00",
+      "keywords": [
+        "국민의힘",
+        "기업"
+      ]
+    },
+    {
+      "id": "59c8dc70cc7e",
+      "title": "무기 팔러 나토 참석? '방산 세일즈'가 대통령 외교 목적일 순 없다",
+      "summary": "이재명 대통령이 NATO 정상회의 참석을 위해 튀르키예로 향했다. 출국에 앞서 대통령은 SNS에 NATO 사무총장이 한국 방위산업 기반을 \"환상적\"이라고 평가했다며 자부심을 드러냈다. 전쟁의 폐허를 딛고 나라를 지키…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "정치·국제",
+      "url": "https://www.pressian.com/pages/articles/2026070710070841424&ref=rss",
+      "published": "2026-07-08T02:56:35+09:00",
+      "keywords": [
+        "대통령",
+        "산업"
+      ]
+    },
+    {
+      "id": "2a2aebdc2082",
+      "title": "[속보] 최저시급 勞1만1450원·經1만460원…최저임금 6차 수정안",
+      "summary": "내년도 최저임금을 협상하고 있는 노동계와 경영계가 각각 시간당 1만1450원과 1만460원을 6차 수정안으로 7일 제시했다.",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.pressian.com/pages/articles/2026070717552339990&ref=rss",
+      "published": "2026-07-08T02:55:23+09:00",
+      "keywords": [
+        "노동"
+      ]
+    },
+    {
+      "id": "de4c370d7ef4",
+      "title": "밀양시의회 전반기 출범...손문규 의장·강창오 부의장",
+      "summary": "경남 밀양시의회가 제10대 전반기 원 구성을 모두 마치고 시민 중심의 본격적인 의정활동에 돌입했다. 밀양시의회는 7일 제273회 임시회 제2차 본회의를 열고 각 상임위원회와 특별위원회 위원을 선임한 데 이어 위원장을…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.pressian.com/pages/articles/2026070717095908451&ref=rss",
+      "published": "2026-07-08T02:48:24+09:00",
+      "keywords": []
+    },
+    {
+      "id": "cca57a772210",
+      "title": "경남도, 2026년 하반기 4급 인사 단행",
+      "summary": "경남도는 2026년 하반기 4급(직무대리 포함) 정기인사를 단행했다고 7일 밝혔다. 심우진 공보관·조도진 행정국 행정과(비서실장) 등 비롯해 26명을 발령했다. 인사 발령은 다음과 같다. ▲심우진 공보관 ▲김영애 기…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.pressian.com/pages/articles/2026070717464941310&ref=rss",
+      "published": "2026-07-08T02:47:31+09:00",
+      "keywords": []
+    },
+    {
+      "id": "2ab28441bcbb",
+      "title": "[속보] 대법, 징역 7년 받은 윤석열 '체포방해' 상고심 선고 생중계",
+      "summary": "대법원이 오는 9일 윤석열 전 대통령의 '체포방해' 상고심 선고를 생중계 하기로 결정했다. 대법원 3부(주심 이숙연 대법관)는 윤 전 대통령의 특수공무집행방해, 직권남용 권리행사방해 등 혐의 사건 상고심 선고를 생중…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "정치·국제",
+      "url": "https://www.pressian.com/pages/articles/2026070717384282576&ref=rss",
+      "published": "2026-07-08T02:38:42+09:00",
+      "keywords": [
+        "대통령",
+        "법원"
+      ]
+    },
+    {
+      "id": "765270a117b6",
+      "title": "추경호 대구시장, '2026 대구경북 중소기업인대회'에 참석해 사기 북돋워",
+      "summary": "추경호 대구시장은 7일 호텔인터불고 대구에서 열린 ‘2026 대구경북 중소기업인대회’에 참석해 “공직사회는 1년 동안 망할 일이 없지만, 중소기업인들은 매일매일 치열하게 사투를 벌인다”며 “공직사회 전체가 철저히 기…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.pressian.com/pages/articles/2026070717315976829&ref=rss",
+      "published": "2026-07-08T02:38:08+09:00",
+      "keywords": [
+        "기업"
+      ]
+    },
+    {
+      "id": "5d7ce4517a0b",
+      "title": "렛츠런파크 영천(영천경마공원) 개장 앞두고 최종 리허설 들어가",
+      "summary": "경북 영천시는 렛츠런파크 영천(영천경마공원)이 9월 정식 개장을 앞두고 최종 리허설에 돌입했다고 7일 밝혔다. 렛츠런파크 영천에서는 오는 18일과 25일 양일간, 하루 3경주씩 총 6경주의 모의경주가 진행된다. 실제…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "주식·증시",
+      "url": "https://www.pressian.com/pages/articles/2026070716490318704&ref=rss",
+      "published": "2026-07-08T02:37:42+09:00",
+      "keywords": [
+        "주가"
+      ]
+    },
+    {
+      "id": "9a5a07f2c4ec",
+      "title": "경북,안동에 문 연 김창수 위스키증류소… K-위스키 산업 육성 본격 시동",
+      "summary": "경북 안동에 국내 싱글몰트 위스키 산업의 새로운 거점이 될 김창수 위스키증류소 안동증류소가 문을 열었다. 지역에서 생산한 농산물을 원료로 활용하는 것은 물론, 생산 과정에서 발생하는 부산물까지 다시 지역 축산농가에…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.pressian.com/pages/articles/2026070716392607787&ref=rss",
+      "published": "2026-07-08T02:36:57+09:00",
+      "keywords": [
+        "산업"
+      ]
+    },
+    {
+      "id": "485494cda0ad",
+      "title": "\"예산 신청도 안했는데 업체가 먼저 찾아 왔다\"…학교 시설사업 부정 '수두룩'",
+      "summary": "◇ A고등학교 - 방송실 현대화 사업(7000만원) 학교장은 현안사업 예산 신청도 이루어지지 않은 상태에서 특정 업체 관계자를 학교로 데려와 담당 교사에게 방송장비 교체와 벽체 철거, 집기 교체 계획 등을 설명하도록…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.pressian.com/pages/articles/2026070715553000500&ref=rss",
+      "published": "2026-07-08T02:32:40+09:00",
+      "keywords": []
+    },
+    {
+      "id": "029ce2222f81",
+      "title": "경주 해수욕장 오는 10일 개장",
+      "summary": "경북 경주시는 여름 휴가철을 맞아 오는 10일부터 내달 17일까지 39일간 오류·나정·봉길·관성해수욕장이 일제히 개장한다고 7일 밝혔다. 다만 전촌해수욕장은 올해 개장하지 않는다. 해수욕장 운영시간은 오전 9시부터…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.pressian.com/pages/articles/2026070716373325281&ref=rss",
+      "published": "2026-07-08T02:31:17+09:00",
+      "keywords": []
+    },
+    {
+      "id": "26389bf7920a",
+      "title": "경기도, '저출생 대응 우수시책' 경진대회서 성남시 '최우수' 선정",
+      "summary": "저출생 문제 해결을 위한 지역의 다양한 아이디어 중 성남시의 생애주기별 맞춤 지원 정책이 가장 높은 평가를 받았다. 경기도는 7일 경기도서관 플래닛 경기홀에서 ‘2026년 경기도 저출생 대응 우수시책 경진대회’를 열…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.pressian.com/pages/articles/2026070717260212583&ref=rss",
+      "published": "2026-07-08T02:26:31+09:00",
+      "keywords": []
+    },
+    {
+      "id": "df94bf64a9e5",
+      "title": "\"상처입은 우리가 먼저 관용을\"…광주제일고, 배재고 선처 호소",
+      "summary": "광주제일고 교장과 총동창회장이 고교야구 대회에서 5·18 폄훼 응원 구호를 외친 배재고 야구부의 '전국대회 6개월 출전 정지'에 대해 선처를 호소했다. 7일 광주제일고측은 전남광주통합특별시 북구 광주학생독립운동기념역…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "스포츠·문화",
+      "url": "https://www.pressian.com/pages/articles/2026070717063640972&ref=rss",
+      "published": "2026-07-08T02:18:58+09:00",
+      "keywords": [
+        "야구"
+      ]
+    },
+    {
+      "id": "6138b79770b8",
+      "title": "안양시, 민관 협력 복지체계 강화…'기본복지지원단' 본격 가동",
+      "summary": "경기 안양시가 복지 현장의 전문성을 높이고 지역사회 나눔 문화를 확산하기 위해 민관이 함께하는 ‘기본복지지원단’을 본격 가동한다. 7일 안양시에 따르면 안양시 지역사회보장협의체는 이날 시청 4층 회의실에서 대표협의체…",
+      "source": "프레시안",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.pressian.com/pages/articles/2026070717183009509&ref=rss",
+      "published": "2026-07-08T02:18:55+09:00",
+      "keywords": [
+        "복지"
+      ]
+    },
+    {
+      "id": "eb63e013887b",
+      "title": "이지서티, 개정 개인정보보호법 맞춤형 AI 접속기록 관리 솔루션 제시",
+      "summary": "개정 개인정보보호법 시행이 다가오면서 공공기관과 기업의 개인정보보호 관리 체계 점검 필요성이 커지고 있다. 오는 9월 11일부터 시행되는 개정법은 개인정보 처리 및 보호에 대한 경영진의 최종 책임을 명확히 하고, 개…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207489",
+      "published": "2026-07-08T02:17:22+09:00",
+      "keywords": [
+        "정보보호",
+        "AI"
+      ]
+    },
+    {
+      "id": "e6e6f07932b1",
+      "title": "KISA-LG유플러스, 음성 스팸 대응 강화 위한 업무협약 체결",
+      "summary": "한국인터넷진흥원(KISA)이 LG유플러스와 음성 스팸 대응 강화를 위한 업무협약을 LG유플러스 마곡 사옥에서 체결했다고 7일 밝혔다.이번 협약은 KISA의 공공 차단 체계와 LG유플러스의 AI 활용 통화 서비스 익시…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207488",
+      "published": "2026-07-08T02:02:56+09:00",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "id": "672716c9fa84",
+      "title": "KISA-과학기술정보통신부, 2026년 블록체인 누리단 발대식 개최",
+      "summary": "한국인터넷진흥원(KISA)이 과학기술정보통신부와 함께 서울 스카이31 컨벤션에서 2026년 블록체인 누리단 발대식을 개최했다고 7일 밝혔다.블록체인 누리단은 국민의 시각에서 새로운 블록체인 서비스를 발굴하고 실증하기…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207487",
+      "published": "2026-07-08T01:52:48+09:00",
+      "keywords": [
+        "과학"
+      ]
+    },
+    {
+      "id": "dd66de808eed",
+      "title": "에버스핀-티냅스, 전략적 제휴 체결...AI 신뢰 보안 시장 진출",
+      "summary": "에버스핀이 AI 안전성 전문기업 티냅스와 AI Trust Security(인공지능 신뢰 보안) 분야의 전략적 협력 계약을 체결했다고 6일 밝혔다.양사는 AI 서비스 환경의 신뢰성을 높이기 위해 AI 레드티밍을 포함한…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207486",
+      "published": "2026-07-07T23:36:23+09:00",
+      "keywords": [
+        "보안",
+        "AI"
+      ]
+    },
+    {
+      "id": "35e6cbd6fbb2",
+      "title": "가비아, 쿠버네티스 전담 지원 체계 구축...클라우드 네이티브 전환 지원",
+      "summary": "가비아가 공공기관과 기업의 클라우드 네이티브 전환을 돕기 위해 쿠버네티스 전담 지원 체계를 구축했다고 7일 밝혔다.최근 공공 부문을 중심으로 컨테이너 기반 운영 방식인 쿠버네티스 도입 수요가 늘고 있으나, 기술 장벽…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207485",
+      "published": "2026-07-07T23:15:29+09:00",
+      "keywords": [
+        "기업"
+      ]
+    },
+    {
+      "id": "999e252ad7d9",
+      "title": "이노그리드, NHN인재아이엔씨와 합병 완료...통합 운영 돌입",
+      "summary": "이노그리드가 NHN인재아이엔씨와의 합병기일을 맞아 본격적인 통합 운영에 들어갔다. 이노그리드는 합병기일 당일인 7월 6일 페럼타워와 본사 일대에서 양사 임직원이 참여하는 통합 행사 ‘One INNOGRID Day’를…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207484",
+      "published": "2026-07-07T23:00:17+09:00",
+      "keywords": []
+    },
+    {
+      "id": "735957384796",
+      "title": "엠클라우드브리지, 마이크로소프트 365 기반 의도분석 AI 솔루션 발표",
+      "summary": "엠클라우드브리지가 마이크로소프트 365 기반의 업무 환경에서 데이터 분석부터 실행까지 전 과정을 자동화하는 의도분석 기반 Ai 365 AI 에이전트를 발표했다. 이 솔루션은 생성형 AI 기술을 활용해 기업 내부 데이…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207483",
+      "published": "2026-07-07T22:42:24+09:00",
+      "keywords": [
+        "AI",
+        "기업"
+      ]
+    },
+    {
+      "id": "a334db965ce5",
+      "title": "데일리시큐, 사이버보안부터 AI 보안까지…‘KCSCON 2026·AIS 2026’ 하반기 최대 보안행사 잇따라 개최",
+      "summary": "데일리시큐가 2026년 하반기 국내 사이버보안과 인공지능 보안 시장을 조망하는 대규모 전문 컨퍼런스 두 건을 연이어 개최하고 국내외 보안기업을 대상으로 참가 신청을 받는다.오는 9월 8일 서울 세종대학교 컨벤션센터…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207482",
+      "published": "2026-07-07T22:32:41+09:00",
+      "keywords": [
+        "보안",
+        "AI"
+      ]
+    },
+    {
+      "id": "7423eb88ead2",
+      "title": "엘앤에프, 탄소·품질 데이터 관리 위한 스마트팩토리 구축",
+      "summary": "이차전지 소재 기업 엘앤에프가 전과정평가인 LCA 시스템과 블록체인 기반 데이터 스페이스 연계 체계를 구축해 AI, 빅데이터, 블록체인을 결합한 스마트팩토리 기반을 마련했다. 이번 구축은 2027년 유럽연합의 디지털…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207481",
+      "published": "2026-07-07T22:11:33+09:00",
+      "keywords": [
+        "AI",
+        "기업"
+      ]
+    },
+    {
+      "id": "420a17e81a0e",
+      "title": "우리은행 고객정보 1만7551건 유출은 해킹 아닌 외주 개발 과정의 관리 부실",
+      "summary": "우리은행의 대체불가토큰(NFT) 관련 서비스 이용자 1만7551명의 개인정보가 외부로 유출된 사실이 확인됐다. 이번 사고는 우리은행 전산망이 해킹당하거나 인터넷뱅킹 시스템이 침해된 사건이 아니라, NFT 플랫폼 개발…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207480",
+      "published": "2026-07-07T21:54:52+09:00",
+      "keywords": [
+        "해킹",
+        "사고"
+      ]
+    },
+    {
+      "id": "7c0d36a172fb",
+      "title": "테이텀 CNAPP, 조달청 디지털서비스몰 등록...공공 보안 시장 진입",
+      "summary": "테테이텀 시큐리티의 클라우드 네이티브 애플리케이션 보호 플랫폼인 '테이텀 CNAPP'이 조달청 나라장터 디지털서비스몰에 정식 등재됐다.테이텀 CNAPP은 멀티클라우드와 컨테이너 환경 전반의 보안 설정 오류, 워크로드…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207478",
+      "published": "2026-07-07T21:48:15+09:00",
+      "keywords": [
+        "보안",
+        "애플"
+      ]
+    },
+    {
+      "id": "16ea0eb5df7f",
+      "title": "어도비 콜드퓨전 치명적 취약점 공개 직후 공격…CVE-2026-48282 긴급 패치 필요",
+      "summary": "어도비(Adobe)의 웹 애플리케이션 개발 플랫폼 콜드퓨전(ColdFusion)에서 발견된 최고 위험도의 취약점이 공개 직후 실제 공격에 악용된 정황이 확인됐다.문제가 된 취약점은 CVE-2026-48282다. 공격…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207479",
+      "published": "2026-07-07T21:46:36+09:00",
+      "keywords": [
+        "취약점",
+        "애플"
+      ]
+    },
+    {
+      "id": "61f864361253",
+      "title": "래브라도랩스, 오픈소스 분석 솔루션 ‘래브라도 SCA’ 나라장터 등록",
+      "summary": "래브라도랩스(대표 김진석·이희조)는 오픈소스 구성 분석 솔루션 ‘래브라도 SCA’를 조달청 나라장터 국가종합전자조달시스템에 등록했다고 7일 밝혔다.이번 조달 등록에 따라 공공기관은 나라장터 조달 절차를 통해 래브라도…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207477",
+      "published": "2026-07-07T21:40:58+09:00",
+      "keywords": []
+    },
+    {
+      "id": "6a840d1c387b",
+      "title": "시중 은행이 선택한 ‘테이텀 CNAPP’, 조달청 등록으로 공공 확산 박차",
+      "summary": "GS 1등급 인증 이어 디지털서비스몰 등재로 입찰 절차 없이 도입CSPM·CWPP·CIEM 기능 결합한 풀스택 클라우드 보안 기술력 입증[보안뉴스 조재호 기자] 테이텀 시큐리티가 7일 자사의 통합 클라우드 보안 솔루…",
+      "source": "보안뉴스",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "http://www.boannews.com/media/view.asp?idx=144548&kind=&sub_kind=",
+      "published": "2026-07-07T19:32:00+09:00",
+      "keywords": [
+        "보안"
+      ]
+    },
+    {
+      "id": "c9e27f480bfa",
+      "title": "李대통령, 외교부에 피자 쐈다…\"중동전 대응 직원 격려\"",
+      "summary": "(서울=연합뉴스) 민선희 기자 = 이재명 대통령이 중동 전쟁 대응에 힘쓴 외교부 직원들을 격려하기 위해 피자를 보냈다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "정치·국제",
+      "url": "https://www.yna.co.kr/view/AKR20260707165800504",
+      "published": "2026-07-07T19:30:58+09:00",
+      "keywords": [
+        "대통령"
+      ]
+    },
+    {
+      "id": "53d7726f4b26",
+      "title": "[부고] 최서윤(CBS 경제부 기자)씨 부친상",
+      "summary": "▲ 최종옥씨 별세, 김경자씨 남편상, 최하윤·최서윤(CBS 경제부 기자)·최재석씨 부친상, 김병관·김동천(금융감독원 선임검사역)씨 장인상 = 7...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260707165900004",
+      "published": "2026-07-07T19:29:52+09:00",
+      "keywords": [
+        "경제"
+      ]
+    },
+    {
+      "id": "0b903cb0316d",
+      "title": "국내 첫 농림위성 발사 성공…디지털 농업·산림관리 시대 연다",
+      "summary": "(서울=연합뉴스) 조승한 기자 = 국내 첫 농림위성인 차세대 중형위성(차중) 4호가 7일 발사에 성공하면서 한국도 위성을 활용한 디지털 농업 관...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "IT·과학",
+      "url": "https://www.yna.co.kr/view/AKR20260707166000017",
+      "published": "2026-07-07T19:28:39+09:00",
+      "keywords": [
+        "위성"
+      ]
+    },
+    {
+      "id": "4bbc9f972c8b",
+      "title": "한반도 지켜볼 '농림위성' 차중 4호 지상국 교신…발사 성공(종합3보)",
+      "summary": "(서울=연합뉴스) 조승한 기자 = 농업·산림 관리, 산림 변화 모니터링용 농림위성으로 개발된 차세대 중형위성(차중) 4호가 7일 우주로 향했다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "IT·과학",
+      "url": "https://www.yna.co.kr/view/AKR20260707138054017",
+      "published": "2026-07-07T19:26:09+09:00",
+      "keywords": [
+        "우주"
+      ]
+    },
+    {
+      "id": "1dc07df69703",
+      "title": "국세청, KT 특별세무조사 돌입…2021∼2025년 회계 자료 대상",
+      "summary": "(서울=연합뉴스) 오지은 이대희 기자 = 국세청이 KT[030200]에 대한 비정기 특별세무조사에 착수한 것으로 알려졌다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260707165600017",
+      "published": "2026-07-07T19:25:26+09:00",
+      "keywords": []
+    },
+    {
+      "id": "d9f9b9519ddd",
+      "title": "한국 해운사, 중국 담합에 피해 봤나…공정위, 현황 파악 착수",
+      "summary": "(세종=연합뉴스) 김수현 기자 = 공정거래위원회가 중국 선박용 컨테이너 제조업체의 담합으로 한국 해운사가 피해를 본 사실이 있는지 들여다보는 것...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "정치·국제",
+      "url": "https://www.yna.co.kr/view/AKR20260707165200002",
+      "published": "2026-07-07T19:24:59+09:00",
+      "keywords": [
+        "중국"
+      ]
+    },
+    {
+      "id": "01c500015ce9",
+      "title": "개혁신당 \"'무섭노' 여론조사…국민 56％ 사투리ㆍ17％ 일베\"",
+      "summary": "(서울=연합뉴스) 이율립 기자 = 개혁신당은 한 아이돌 그룹 멤버의 '무섭노' 발언을 두고 '일베'(일간베스트 저장소)식 표현이 아니냐는 논란이...",
       "source": "연합뉴스",
       "region": "국내",
       "tier": "통신",
       "domain": "스포츠·문화",
-      "url": "https://www.yna.co.kr/view/AKR20260706151000052",
-      "published": "2026-07-06T20:13:50+09:00",
+      "url": "https://www.yna.co.kr/view/AKR20260707162800001",
+      "published": "2026-07-07T19:24:26+09:00",
+      "keywords": [
+        "아이돌"
+      ]
+    },
+    {
+      "id": "85db5ca770ca",
+      "title": "프로야구 두산, 최민석·김민석 아디다스 6월 MVP 선정",
+      "summary": "(서울=연합뉴스) 김동한 기자 = 프로야구 두산 베어스가 '아디다스 6월 최우수선수(MVP)'로 투수 최민석과 야수 김민석을 선정했다고 7일 밝...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "스포츠·문화",
+      "url": "https://www.yna.co.kr/view/AKR20260707165400007",
+      "published": "2026-07-07T19:20:13+09:00",
+      "keywords": [
+        "야구"
+      ]
+    },
+    {
+      "id": "b395e3de9261",
+      "title": "[속보] 차세대 중형위성 4호, 발사 후 해외 지상국과 교신 성공",
+      "summary": "(",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "IT·과학",
+      "url": "https://www.yna.co.kr/view/AKR20260707165300017",
+      "published": "2026-07-07T19:17:09+09:00",
+      "keywords": [
+        "위성"
+      ]
+    },
+    {
+      "id": "f74a6045b191",
+      "title": "삼성SDS 노조, 출범 하루 만에 단체교섭 요구 “성과급 개편”",
+      "summary": "이준희 삼성SDS 사장이 지난 1월 미국 라스베이거스 CES 2026 삼성SDS 프라이빗 부스에서 열린 기자 간담회에서 인사말을 하고 있다. 삼성SDS 제공삼성SDS 노동조합이 출범 하루 만에 전체 임직원의 과반을…",
+      "source": "경향신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "정치·국제",
+      "url": "https://www.khan.co.kr/article/202607071917001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-07-07T19:17:00+09:00",
+      "keywords": [
+        "미국",
+        "노동"
+      ]
+    },
+    {
+      "id": "db51e75737eb",
+      "title": "작별을 아쉬워하며, 책방오늘의 마지막 [정동길 옆 사진관]",
+      "summary": "노벨문학상 수상자인 한강 작가가 운영했던 서울 종로구 ‘책방오늘’ 영업 종료일인 7일 서점에 종료 안내문이 붙어 있다. 한수빈 기자“저 책방 아세요? 한강 작가가 운영하던 곳인데 오늘 문 닫는데요.”점심시간을 마치고…",
+      "source": "경향신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.khan.co.kr/article/202607071911011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-07-07T19:11:01+09:00",
+      "keywords": []
+    },
+    {
+      "id": "8037bf0cb1a1",
+      "title": "경찰, ‘출판기념회 돈봉투 의혹’ 서영교 무혐의 결론",
+      "summary": "서영교 윤석열정권정치검찰조작기소의혹사건진상규명국정조사특별위원회 위원장(왼쪽)이 지난 4월30일 전체회의에서 김형동 국민의힘 간사가 자료배포 관련 항의 중 튀긴 침을 손으로 닦고 있다. 박민규 선임기자경찰이 출판기념회…",
+      "source": "경향신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "정치·국제",
+      "url": "https://www.khan.co.kr/article/202607071911001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-07-07T19:11:00+09:00",
+      "keywords": [
+        "국민의힘",
+        "검찰"
+      ]
+    },
+    {
+      "id": "62cec1938ab8",
+      "title": "시리아 방문 마크롱 숙소 인근서 연쇄 폭발…佛 \"대통령 안전\"(종합)",
+      "summary": "(카이로·파리=연합뉴스) 김상훈 송진원 특파원 = 에마뉘엘 마크롱 프랑스 대통령의 시리아 방문 중 그가 체류하던 호텔 인근에서 연쇄 폭발로 다수...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "정치·국제",
+      "url": "https://www.yna.co.kr/view/AKR20260707150951079",
+      "published": "2026-07-07T19:10:11+09:00",
+      "keywords": [
+        "대통령"
+      ]
+    },
+    {
+      "id": "7adc7bc32efe",
+      "title": "비 21.3㎜ 내린 포항 주택가서 낙석 사고…인명 피해 없어",
+      "summary": "(포항=연합뉴스) 손대성 기자 = 7일 오전 11시 30분께 경북 포항시 남구 구룡포읍 구룡포리 야산에서 바위가 주택가 골목길로 떨어졌다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260707164300053",
+      "published": "2026-07-07T19:06:32+09:00",
+      "keywords": [
+        "사고"
+      ]
+    },
+    {
+      "id": "b8a70ddf875f",
+      "title": "中, 태평양 SLBM 시험발사 전 한국에도 계획 사전통보(종합)",
+      "summary": "(서울=연합뉴스) 김효정 민선희 기자 = 중국이 지난 6일 태평양 공해상 잠수함발사탄도미사일(SLBM) 시험발사에 나서기 전 한국 측에도 계획을...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "정치·국제",
+      "url": "https://www.yna.co.kr/view/AKR20260707146451504",
+      "published": "2026-07-07T19:06:14+09:00",
+      "keywords": [
+        "중국"
+      ]
+    },
+    {
+      "id": "b1047fae123c",
+      "title": "친러 우크라 재벌 노린 폭탄테러 용의자, 숨진 채 발견",
+      "summary": "(파리=연합뉴스) 송진원 특파원 = 모나코 공국에 거주하는 친러 성향 우크라이나 재벌을 노린 폭탄 테러의 주요 용의자가 우크라이나 수도 키이우 ...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260707163200081",
+      "published": "2026-07-07T19:05:53+09:00",
+      "keywords": []
+    },
+    {
+      "id": "ac512c09157c",
+      "title": "나토 사무총장 \"향후 5년간 드론 대응에 61조원 투자\"",
+      "summary": "(이스탄불=연합뉴스) 김동호 특파원 = 마르크 뤼터 북대서양조약기구(NATO·나토) 사무총장은 향후 5년간 동맹국들이 무인항공기(UAV·드론) ...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260707163800108",
+      "published": "2026-07-07T19:05:36+09:00",
+      "keywords": []
+    },
+    {
+      "id": "23f826d95790",
+      "title": "성일종 \"입틀막법\" 비판에... 허위조작정보 규제 논쟁 확산",
+      "summary": "성일종 국민의힘 의원이 7일부터 시행된 개정 정보통신망법을 두고 \"민주당의 입틀막법\"이라고 비판했다. 온라인 허위조작정보 피해 구제를 강화한 법 개정이 표현의 자유 위축 논란으로 번지고 있다. 성 의원은 6일 자신의…",
+      "source": "오마이뉴스",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "정치·국제",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249555",
+      "published": "2026-07-07T19:04:05+09:00",
+      "keywords": [
+        "민주당"
+      ]
+    },
+    {
+      "id": "61c27390c8b5",
+      "title": "검찰, 장윤기 父·경찰 수사팀 유착 의혹 강제수사(종합2보)",
+      "summary": "(전남광주=연합뉴스) 정회성 정다움 기자 = 경찰관 비위 사건의 직접 수사권을 가진 검찰이 '여고생 살해범' 장윤기(23)의 아버지와 수사팀 간...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260705018660054",
+      "published": "2026-07-07T19:03:40+09:00",
+      "keywords": [
+        "검찰"
+      ]
+    },
+    {
+      "id": "e8edc8c3e91f",
+      "title": "엔키화이트햇, 내부침투 자동화 솔루션 ‘OFFen RED’ 출시…“탐지가 아닌 실제 공격 가능성 입증”",
+      "summary": "오펜시브 보안 전문기업 엔키화이트햇(대표 이성권)은 7일 내부침투 자동화 솔루션 ‘OFFen RED’를 출시했다고 밝혔다.OFFen RED는 외부 웹 서비스부터 내부 인프라, 서버, 데이터베이스, 엔드포인트, 계정·…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207476",
+      "published": "2026-07-07T18:57:21+09:00",
+      "keywords": [
+        "보안",
+        "기업"
+      ]
+    },
+    {
+      "id": "03ca5d0f3785",
+      "title": "21세기 인공지능 시대에 등장한 '충효예 기획관'… 박수현 충남도 조직안 뜯어보니",
+      "summary": "민선 9기 박수현호 충남도정의 밑그림을 보여주는 조직개편안이 윤곽을 드러냈다. 인공지능(AI)과 이른바 '기본사회' 가치를 도정 전면에 배치하고 소통 기구를 다각화하는 등 대대적인 기능 중심 재편이 눈에 띈다. 하지…",
+      "source": "오마이뉴스",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "IT·과학",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249542",
+      "published": "2026-07-07T18:54:46+09:00",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "id": "5c377e9c7f89",
+      "title": "삼성SDS 노조 5천600여명 과반 돌파…교섭 주도권 우위(종합)",
+      "summary": "(서울=연합뉴스) 권하영 기자 = 삼성SDS 노동조합이 출범 하루 만에 전체 임직원의 과반을 조합원으로 확보했다. 성과급 제도 개편을 둘러싼 사...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260707100851017",
+      "published": "2026-07-07T18:53:42+09:00",
+      "keywords": [
+        "노동"
+      ]
+    },
+    {
+      "id": "4113c33c31f6",
+      "title": "여주시, '여주쌀' 품질관리 총력... 적기 방제·시비 당부",
+      "summary": "경기 여주시가 대한민국 대표 브랜드 쌀인 '대왕님표 여주쌀'의 안정적인 생산과 최고 품질 유지를 위해 벼 생육 관리와 병해충 방제에 총력을 기울인다. 7일 여주시농업기술센터에 따르면 대표 품종인 '진상벼'는 5월 1…",
+      "source": "오마이뉴스",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249552",
+      "published": "2026-07-07T18:53:18+09:00",
+      "keywords": []
+    },
+    {
+      "id": "abaec7987232",
+      "title": "장윤기 사건에 ‘검찰 보완수사권 폐지’ 비판 급부상…“앞으로 이런 사건 은폐된다”",
+      "summary": "전남광주시에서 여고생을 살해한 혐의를 받는 장윤기가 지난 5월 경찰에서 검찰로 송치되고 있다. 연합뉴스검찰의 보완수사로 경찰의 장윤기 사건 수사 무마 의혹이 드러나자 더불어민주당이 추진하는 검찰 보완수사권 폐지에 대…",
+      "source": "경향신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "정치·국제",
+      "url": "https://www.khan.co.kr/article/202607071851001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-07-07T18:51:00+09:00",
+      "keywords": [
+        "민주당",
+        "검찰"
+      ]
+    },
+    {
+      "id": "c12c93fe5c0a",
+      "title": "의장단 독식 갈등에 멈춘 대구 기초의회... 국힘 독점 논란",
+      "summary": "대구 제10대 지방의회가 전반기 의장단 및 상임위원장 선출을 위한 원 구성에 돌입한 가운데 일부 기초의회에서 다수당인 국민의힘이 일방적인 독점으로 파행을 겪자 시민단체가 의석 비율에 맞는 원 구성을 촉구하고 나섰다.…",
+      "source": "오마이뉴스",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "정치·국제",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249548",
+      "published": "2026-07-07T18:50:54+09:00",
+      "keywords": [
+        "국민의힘"
+      ]
+    },
+    {
+      "id": "8c00ab41909c",
+      "title": "고흥서 SUV가 갓길에 정차된 승합차 추돌…11명 경상",
+      "summary": "(고흥=연합뉴스) 정다움 기자 = 7일 오후 5시 6분께 전남광주통합특별시 고흥군 과역면 국도 15호선 도로에서 주행 중이던 스포츠유틸리티(SU...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "스포츠·문화",
+      "url": "https://www.yna.co.kr/view/AKR20260707162200054",
+      "published": "2026-07-07T18:50:39+09:00",
       "keywords": [
         "스포츠"
       ]
     },
     {
-      "id": "c350a55df194",
-      "title": "광주일고, 5·18 조롱 사과한 배재고 징계 선처 요청할 듯",
-      "summary": "광주제일고등학교가 경기 도중 \"스타벅스 가야지\" \"탱크데이\" 구호로 5·18민주화운동 비하 논란을 일으켜 대한야구소프트볼협회(KBSA)로부터 6개월 출전정지 징계 처분받은 서울 배재고등학교에 대한 선처를 바라는 입장…",
+      "id": "674529e3b47a",
+      "title": "리눅스 KVM 16년 된 취약점 공개…가상머신 하나로 서버 전체 멈출 수 있다",
+      "summary": "리눅스 가상화 기술인 KVM(Kernel-based Virtual Machine)에서 심각한 보안 취약점이 공개됐다. 이 취약점은 ‘자누스케이프(Januscape)’로 불리며, CVE-2026-53359로 등록됐다.…",
+      "source": "데일리시큐",
+      "region": "국내",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207475",
+      "published": "2026-07-07T18:47:49+09:00",
+      "keywords": [
+        "보안"
+      ]
+    },
+    {
+      "id": "7e4ef379a31b",
+      "title": "한반도 지켜볼 '농림위성' 차중 4호 정상 분리…궤도 투입(종합2보)",
+      "summary": "(서울=연합뉴스) 조승한 기자 = 농업·산림 관리, 산림 변화 모니터링용 농림위성으로 개발된 차세대 중형위성(차중) 4호가 7일 우주로 향했다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "IT·과학",
+      "url": "https://www.yna.co.kr/view/AKR20260707138053017",
+      "published": "2026-07-07T18:46:47+09:00",
+      "keywords": [
+        "우주"
+      ]
+    },
+    {
+      "id": "33e712b6a386",
+      "title": "인천 서해에 풍랑주의보",
+      "summary": "(인천=연합뉴스) 기상청은 7일 오후 9시를 기해 서해 중부 바깥 먼바다·서해 중부 안쪽 먼바다에 풍랑주의보를 발효한다고 밝혔다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260707162300527",
+      "published": "2026-07-07T18:46:43+09:00",
+      "keywords": []
+    },
+    {
+      "id": "b6256f7a6e40",
+      "title": "[속보] 차세대 중형위성 4호 발사체서 정상 분리…궤도 투입",
+      "summary": "(",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "IT·과학",
+      "url": "https://www.yna.co.kr/view/AKR20260707163600017",
+      "published": "2026-07-07T18:43:28+09:00",
+      "keywords": [
+        "위성"
+      ]
+    },
+    {
+      "id": "71b8951987fa",
+      "title": "中 곳곳 폭우·산사태로 최소 20명 사망…시진핑 \"구조 총력\"(종합)",
+      "summary": "(베이징=연합뉴스) 한종구 특파원 = 중국 중부와 서북부에서 폭우와 강풍, 산사태가 잇따르면서 최소 20명이 숨지고 21명이 실종됐다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "정치·국제",
+      "url": "https://www.yna.co.kr/view/AKR20260707097051083",
+      "published": "2026-07-07T18:43:18+09:00",
+      "keywords": [
+        "중국"
+      ]
+    },
+    {
+      "id": "ff74ba7e1fd7",
+      "title": "[단독] 사회주택 사태, 국토부-HUG \"건물 매입해 해결할 것\"",
+      "summary": "사회주택 녹색친구들의 보증금 미반환 사태와 관련, 정부가 건물을 직접 사들이는 방안을 검토중인 것으로 확인됐다. 또 국토교통부는 해당 피해 입주민 등을 만나 대책 마련이 늦어진 것에 대해 공식 사과했다. 이 자리에서…",
+      "source": "오마이뉴스",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249248",
+      "published": "2026-07-07T18:42:56+09:00",
+      "keywords": []
+    },
+    {
+      "id": "09fdd7970d3f",
+      "title": "전남 서해 먼바다 등 4곳 풍랑주의보…광양에 폭염주의보 유지",
+      "summary": "(광주=연합뉴스) 기상청은 7일 오후 9시를 기해 서해남부남쪽바깥먼바다·서해남부북쪽바깥먼바다에 풍랑주의보를 발효한다고 밝혔다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260707162400527",
+      "published": "2026-07-07T18:42:30+09:00",
+      "keywords": []
+    },
+    {
+      "id": "ab0755e8f65c",
+      "title": "Microsoft to enable Windows settings backup by default for orgs",
+      "summary": "Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Micr…",
+      "source": "BleepingComputer",
+      "region": "해외",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
+      "published": "2026-07-07T18:41:19+09:00",
+      "keywords": []
+    },
+    {
+      "id": "0b5cd957d0c5",
+      "title": "[인사] 기후에너지환경부",
+      "summary": "◇ 과장급 신규 보임",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260707163100530",
+      "published": "2026-07-07T18:40:09+09:00",
+      "keywords": [
+        "환경"
+      ]
+    },
+    {
+      "id": "ece01149f173",
+      "title": "\"욕설·폭언 안돼\"... 용인시, AI 악성 민원 대응 시스템 도입",
+      "summary": "용인특례시는 이달부터 특이(악성)민원 전화 대응 시스템을 도입, 운영하고 있다고 7일 밝혔다. 민원인 응대 과정에서 발생할 수 있는 민원인의 폭언, 반복 민원 등 악성 민원으로부터 민원 처리 공무원을 보호하기 위해서…",
+      "source": "오마이뉴스",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "보안",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249549",
+      "published": "2026-07-07T18:40:07+09:00",
+      "keywords": [
+        "악성",
+        "AI"
+      ]
+    },
+    {
+      "id": "6d3d5801c052",
+      "title": "[단독] 758명은 그대로, 취소는 박진경뿐…野최은석, 보훈부 ‘선별 취소’ 정조준",
+      "summary": "국가보훈부가 최근 5년간 보훈심사위원회 심의를 거치지 않고 국가유공자로 등록한 무공수훈자 758명 중 등록을 취소한 사례는 고 박진경 대령이 유일한 것으로 7일 파악됐다. 국민의힘은 박 대령만 등록을 취소한 것은 형…",
+      "source": "서울신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "정치·국제",
+      "url": "https://www.seoul.co.kr/news/newsView.php?id=20260707500256",
+      "published": "2026-07-07T18:37:28+09:00",
+      "keywords": [
+        "국민의힘"
+      ]
+    },
+    {
+      "id": "dabfd516ffd5",
+      "title": "아이들이 쓴 글 채점해주는 AI, 왜 꺼름칙한가 했더니",
+      "summary": "\"AI 및 디지털 교육 환경이 전면 확대되는 상황에서 초등교사의 본질적인 역할은 어떻게 변화해야 한다고 생각합니까?\" 이것은 올해 교대에 진학한 딸이 정시 2차 면접 때 받은 질문 중 하나였다. 'AI 및 디지털 교…",
+      "source": "오마이뉴스",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "IT·과학",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248891",
+      "published": "2026-07-07T18:35:02+09:00",
+      "keywords": [
+        "AI",
+        "교육"
+      ]
+    },
+    {
+      "id": "92bf36dff390",
+      "title": "한국가스공사 사장에 홍의락 전 의원 내정…23일 임시주총",
+      "summary": "(서울=연합뉴스) 장보인 기자 = 한국가스공사 사장에 홍의락(71) 전 더불어민주당 의원이 내정됐다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "정치·국제",
+      "url": "https://www.yna.co.kr/view/AKR20260707162500003",
+      "published": "2026-07-07T18:32:07+09:00",
+      "keywords": [
+        "민주당"
+      ]
+    },
+    {
+      "id": "93cf846f4f92",
+      "title": "배재고 학생들은 왜 그랬을까...90년 전 독일의 '웃음'이 떠올랐다",
+      "summary": "지난 6월 29일, 서울 목동구장에서 열린 청룡기 고교야구대회. 배재고 선수들이 더그아웃에서 상대 광주제일고를 향해 \"가야지, 가야지, 스타벅스 가야지\"를 외치며 몸을 흔들었다. 곧이어 \"탱크데이\"라는 구호가 터져…",
       "source": "오마이뉴스",
       "region": "국내",
       "tier": "종합",
       "domain": "스포츠·문화",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249226",
-      "published": "2026-07-06T20:12:34+09:00",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249489",
+      "published": "2026-07-07T18:29:40+09:00",
       "keywords": [
         "야구"
+      ]
+    },
+    {
+      "id": "348f16e89760",
+      "title": "주부 중심으로 일어난 운동, '400만년' 된 일본 최대 호수를 살렸다",
+      "summary": "일본 시가(滋賀)현에 위치한 비와호(琵琶湖)는 일본 최대의 담수호이자, 약 400만 년의 역사를 지닌 세계적인 고대호(古代湖)다. 면적이 약 670㎢에 달해 호수 가장자리에 서면 끝이 보이지 않는 수평선 때문에 처음…",
+      "source": "오마이뉴스",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "정치·국제",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249100",
+      "published": "2026-07-07T18:28:37+09:00",
+      "keywords": [
+        "일본"
       ]
     }
   ]
