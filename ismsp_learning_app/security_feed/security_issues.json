@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T08:16:24+09:00",
+  "updated_at": "2026-08-05T08:03:12+09:00",
   "count": 80,
   "domains": [
     "정치·국제",
@@ -11,1115 +11,1061 @@
   ],
   "issues": [
     {
-      "id": "797ef7ad27d5",
-      "title": "차석호 함안군수 \"가뭄 대응 행정력 총동원힐 갓\"",
-      "summary": "차석호 경남 함안군수가 지속되는 폭염과 가뭄 극복을 위해 선제 대응에 나섰다. 함안군은 3일 충의공원 당산유적에서 조속한 가뭄 해소와 풍년을 기원하는 기우제를 봉행했다고 밝혔다. 이날 기우제는 오랜 가뭄으로 어려움을…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.pressian.com/pages/articles/2026080314021868721&ref=rss",
-      "published": "2026-08-04T16:44:39+09:00",
-      "keywords": []
-    },
-    {
-      "id": "b1e0a38bb8d6",
-      "title": "밀양시, 2026 밀양 수퍼 페스티벌 예정대로 진행",
-      "summary": "경남 밀양시가 지역경제와 소상공인 피해를 고려해 '2026 밀양 수퍼 페스티벌'을 예정대로 진행하기로 했다. 다만 밀양댐 용수는 사용하지 않고 자체 생산 용수를 활용하는 등 친환경·절수 대책을 적용해 물 사용을 최소…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.pressian.com/pages/articles/2026080314263492792&ref=rss",
-      "published": "2026-08-04T16:41:39+09:00",
-      "keywords": [
-        "경제"
-      ]
-    },
-    {
-      "id": "4dd69c0627dd",
-      "title": "창녕군, AI 대민서비스·행정업무 전방위 확대",
-      "summary": "경남 창녕군이 인공지능을 활용한 대민서비스와 내부 행정 혁신을 확대하며 디지털 행정 구현에 속도를 내고 있다. 창녕군은 지난해부터 추진해 온 인공지능(AI) 기반 행정 혁신을 대민서비스와 내부 행정 전반으로 확대하고…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "IT·과학",
-      "url": "https://www.pressian.com/pages/articles/2026080314415617335&ref=rss",
-      "published": "2026-08-04T16:39:24+09:00",
-      "keywords": [
-        "AI"
-      ]
-    },
-    {
-      "id": "51983b7a748b",
-      "title": "이원택 전북지사·윤준병 의원, 김용범 靑 정책실장 만났다…현안 '발전적 모멘텀' 될까?",
-      "summary": "이원택 전북도지사와 윤준병 의원(정읍고창)이 3일 김용범 청와대 정책실장을 방문해 '삼전닉스 반도체 협력도시 전북' 구체화와 새만금 기본계획(MP) 조속 확정 등을 건의한 것으로 확인됐다. 이들 현안이 향후 어떤 물…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "IT·과학",
-      "url": "https://www.pressian.com/pages/articles/2026080407184060643&ref=rss",
-      "published": "2026-08-04T16:33:09+09:00",
-      "keywords": [
-        "반도체"
-      ]
-    },
-    {
-      "id": "afe29bf36ac9",
-      "title": "교권보호 '로펌 전환' 논란 확산…최성민 전 전북교육청 수석변호사 \"교권보호 시스템 해체\" 우려",
-      "summary": "전북특별자치도교육청의 교권보호 법률지원 체계를 둘러싼 논쟁이 이어지고 있는 가운데, 전 전북교육청 수석변호사인 최성민 변호사가 교육감직 인수위원회 정성식 위원의 '임기제 변호사 비효율론'을 정면으로 반박하고 나섰다.…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.pressian.com/pages/articles/2026080406150970419&ref=rss",
-      "published": "2026-08-04T16:19:21+09:00",
-      "keywords": [
-        "교육"
-      ]
-    },
-    {
-      "id": "5c0acc1ea4e1",
-      "title": "오픈AI, 차세대 AI ‘아스트라’ 공개…10년 넘은 수학 난제 10건 해결",
-      "summary": "오픈AI가 차세대 인공지능 모델 ’아스트라(Astra)’의 연구 성과를 공개했다. 아직 출시되지 않은 내부 연구용 모델인 아스트라는 수학과 이론 컴퓨터과학 분야에서 10년 이상 해결되지 않았던 난제 10건에 대해 새…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207907",
-      "published": "2026-08-04T16:16:29+09:00",
-      "keywords": [
-        "AI"
-      ]
-    },
-    {
-      "id": "8b48c599b69b",
-      "title": "강종화 전북체육종목단체 실무자협의회장 취임…\"50만 체육인이 전북 변화 이끌자\"",
-      "summary": "강종화 전북체육종목단체 실무자협의회장이 취임하며 체육인들의 연대와 실천을 바탕으로 전북체육의 경쟁력을 높이고 지역사회에 새로운 활력을 불어넣겠다는 포부를 밝혔다. 체육행사를 지역경제와 연계하고 체육인 스스로 변화의…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "주식·증시",
-      "url": "https://www.pressian.com/pages/articles/2026080322310816668&ref=rss",
-      "published": "2026-08-04T16:13:35+09:00",
-      "keywords": [
-        "종목",
-        "경제"
-      ]
-    },
-    {
-      "id": "8efa98ed96cc",
-      "title": "[새만금에 1000조(兆) 담기] ⑤ 배후도시 익산에 '반도체 소부장 특화단지' 조성…\"전남광주와 시너지 효과도\"",
-      "summary": "지난 7월 10일 오후 전북자치도 익산시청 회의실에 동우화인켐과 미원상사, 롯데에너지머티리얼즈 등 기업 간부 20여명이 자리를 함께 했다. 이들은 익산공단에 있는 핵심 소재와 부품과 장비 등 이른바 '소·부·장 기업…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "IT·과학",
-      "url": "https://www.pressian.com/pages/articles/2026080406364070548&ref=rss",
-      "published": "2026-08-04T16:12:29+09:00",
-      "keywords": [
-        "반도체",
-        "기업"
-      ]
-    },
-    {
-      "id": "b13dc33432a8",
-      "title": "유승민 \"경찰공화국 만드는 게 '노무현 정신'인가\"",
-      "summary": "국민의힘 유승민 전 의원이 지난달 31일 더불어민주당 주도로 국회 본회의를 통과한 '검찰 보완수사권 폐지법'에 대해 \"이 나라를 중국 공안과 똑같은 경찰공화국으로 만드는 것이 노무현 정신이냐\"고 비판하고 나섰다. 유…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.pressian.com/pages/articles/2026080316274680164&ref=rss",
-      "published": "2026-08-04T15:41:19+09:00",
-      "keywords": [
-        "국회",
-        "검찰"
-      ]
-    },
-    {
-      "id": "3d29b653ff0e",
-      "title": "돌려차기 피해자, 대통령에 \"피해자 편 되어달라…보완수사권 폐지 거부권 행사\" 요청",
-      "summary": "부산 돌려차기 사건 피해자가 이재명 대통령을 향해 보완수사권 폐지 거부권 행사를 요청했다. 3일 피해자 A씨는 X(옛 트위터)에 올린 글에서 \"보완수사권 폐지, 검찰청 폐지 때문에 X를 깔게 됐다. 여기는 (이 대통…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.pressian.com/pages/articles/2026080314331454940&ref=rss",
-      "published": "2026-08-04T15:40:50+09:00",
-      "keywords": [
-        "대통령",
-        "검찰"
-      ]
-    },
-    {
-      "id": "866df1135293",
-      "title": "폭염 장기화에 농민 건강관리 초비상…\"쉼터에서 자주 쉬고 수분 수시로 보충해야\"",
-      "summary": "폭염 중대경보가 전국적으로 확산하며 농민들의 건강관리에 초비상이 걸렸다. 전북자치도 혁신도시에 있는 농촌진흥청은 농민들에게 무더위 쉼터나 그늘막에서 자주 휴식을 취하고 수시로 수분을 보충해야 한다고 강조하고 있다.…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.pressian.com/pages/articles/2026080405205692712&ref=rss",
-      "published": "2026-08-04T15:40:20+09:00",
-      "keywords": []
-    },
-    {
-      "id": "c1e23102bc35",
-      "title": "\"장동혁 방미 비용, 10일간 2억597만원\"",
-      "summary": "국민의힘 장동혁 대표가 지난 4월 미국 방문 당시 당비 2억597만 원을 사용한 것으로 알려졌다. 3일자 <조선일보>는 국민의힘이 중앙선거관리위원회에 제출한 정당 회계보고서를 인용해 이같이 보도했다. 신문에 따르면,…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.pressian.com/pages/articles/2026080308532753916&ref=rss",
-      "published": "2026-08-04T14:00:48+09:00",
-      "keywords": [
-        "국민의힘"
-      ]
-    },
-    {
-      "id": "87a366983758",
-      "title": "李대통령 \"주택공급, 속도가 중요…가용 물량 최대한 확보하라\"",
-      "summary": "이재명 대통령은 3일 기존 주택 공급 대책을 전면 재점검해 가용한 공급 물량을 최대한 서둘러 마련하라고 지시했다. 남미 순방을 마치고 이날 귀국한 이 대통령은 청와대에서 비공개로 부동산 및 주식시장 점검회의를 갖고…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "주식·증시",
-      "url": "https://www.pressian.com/pages/articles/2026080323504182923&ref=rss",
-      "published": "2026-08-04T13:15:50+09:00",
-      "keywords": [
-        "주식",
-        "대통령"
-      ]
-    },
-    {
-      "id": "cfb9157e24df",
-      "title": "리버뱅크, 랜섬웨어 공격으로 데이터 탈취…“공격자가 삭제했다고 확인”",
-      "summary": "미국 금융회사 리버 파이낸셜 코퍼레이션의 자회사 리버뱅크 앤드 트러스트(River Bank & Trust)가 지난 6월 발생한 랜섬웨어 공격으로 내부 데이터를 탈취당했으며, 공격자로부터 해당 데이터를 삭제했다는 확인…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207906",
-      "published": "2026-08-04T12:45:38+09:00",
-      "keywords": [
-        "랜섬",
-        "미국"
-      ]
-    },
-    {
-      "id": "32b4c2ac915e",
-      "title": "크롬 패스키 노린 신종 공격 공개…악성코드로 지문 인증 우회",
-      "summary": "팔로알토네트웍스 유닛42가 구글 크롬의 구글 패스워드 매니저를 겨냥한 새로운 패스키(Passkey) 공격 기법 3종을 공개했다.연구진은 악성코드가 이미 실행 중인 윈도우 PC에서 사용자의 지문이나 PIN 입력 없이…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207905",
-      "published": "2026-08-04T12:17:02+09:00",
-      "keywords": [
-        "악성코드",
-        "구글"
-      ]
-    },
-    {
-      "id": "655ff2b9ec29",
-      "title": "영국 경찰 법률 데이터베이스 해킹…경찰·사법 관계자 10만 명 이상 정보 유출",
-      "summary": "영국 경찰이 30년 넘게 활용해 온 경찰 국가 법률 데이터베이스(PNLD, Police National Legal Database)가 사이버 공격을 받아 경찰관과 사법기관 관계자 등 10만 명 이상의 연락처 정보가…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207904",
-      "published": "2026-08-04T09:55:12+09:00",
-      "keywords": [
-        "해킹",
-        "경찰"
-      ]
-    },
-    {
-      "id": "aa2365faa285",
-      "title": "“S-Oil, 사상 최대 실적인데 주가 왜 이래”…반등 신호에 증권가 눈높이 ‘쑥’",
-      "summary": "하나증권은 4일 S-Oil에 대해 올해 사상 최대 실적 달성이 가능할 것으로 예상된다며 목표주가를 기존 20만원에서 22만원으로 상향 조정했다. S-Oil의 올해 2분기 영업이익은..",
-      "source": "매일경제",
-      "region": "국내",
-      "tier": "증권",
-      "domain": "주식·증시",
-      "url": "https://www.mk.co.kr/news/stock/12115911",
-      "published": "2026-08-04T08:12:26+09:00",
-      "keywords": [
-        "주가"
-      ]
-    },
-    {
-      "id": "90696e466acd",
-      "title": "[속보] 7월 물가 2.8%↑…3개월 만에 3% 아래로",
-      "summary": "연합뉴스중동 사태 영향으로 두 달 연속 3%를 넘겼던 소비자물가 상승률이 2%대로 복귀했다.국가데이터처가 4일 발표한 7월 소비자물가동향에 따르면 지난달 소비자물가지수는 119.77로 지난해 같은 기간과 비교해 2.…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202608040812001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T08:12:00+09:00",
-      "keywords": [
-        "물가"
-      ]
-    },
-    {
-      "id": "611f42977e83",
-      "title": "[손병관의 뉴스프레소] 32억 이상 '똘똘한 한 채' 보유세 크게 올린다",
-      "summary": "1. 32억 이상 '똘똘한 한 채' 보유세 크게 올린다 부동산 자산을 '투기'가 아닌 '거주' 대상으로 전환하는 데 방점을 찍은 세제개편안이 나왔다. 재정경제부는 3일 발표한 세제개편안에서 시가 32억 2000만원부…",
-      "source": "오마이뉴스",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256285",
-      "published": "2026-08-04T08:07:09+09:00",
-      "keywords": [
-        "경제"
-      ]
-    },
-    {
-      "id": "a85ce6f5a1f0",
-      "title": "[속보]7월 소비자물가 상승률 2.8%…3개월 만에 2%대로",
-      "summary": "서울시내 한 대형마트 식재료 코너. 연합뉴스7월 소비자물가 상승률이 2.8%를 기록하며 3개월 만에 다시 2%대로 내려왔다.국가데이터처가 4일 발표한 ‘2026년 7월 소비자물가동향’을 보면 지난달 소비자물가지수는…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202608040800001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T08:00:00+09:00",
-      "keywords": [
-        "물가"
-      ]
-    },
-    {
-      "id": "783e82d6aaab",
-      "title": "이흥구 대법관 퇴임 앞두고 오늘 후보추천위···후임자 윤곽 주목",
-      "summary": "서울 서초구 대법원. 정효진 기자오는 9월 퇴임을 앞둔 이흥구 대법관의 후임 후보가 4일 추려질 것으로 보인다. 지난 3월 노태악 전 대법관 후임이 5개월째 장기간 공석인 상황에서 조희대 대법원장이 두 대법관 후임을…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202608040759001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T07:59:00+09:00",
-      "keywords": [
-        "법원"
-      ]
-    },
-    {
-      "id": "6d7f422cf1f3",
-      "title": "‘왕위 계승 2위’ 공주도 입대···덴마크, 확대된 징병제 시작",
-      "summary": "의무복무 첫날을 맞이한 청년들이 3일(현지시간) 덴마크 옥스보엘 병영에 서있다. AP연합뉴스러시아의 위협과 도널드 트럼프 미국 대통령의 그린란드 병합 압박에 대응하기 위해 확대된 덴마크의 징병제에 따라 덴마크 징집병…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202608040755001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T07:55:00+09:00",
-      "keywords": [
-        "대통령"
-      ]
-    },
-    {
-      "id": "7c279b0bb65c",
-      "title": "투썸플레이스, 3개월 연속 스타벅스 결제액 앞서",
-      "summary": "AI 데이터 업체 아이지에이웍스 모바일인덱스 자료7월 투썸플레이스 결제액, 스타벅스보다 70억 많아스타벅스 코리아가 직원들의 역사 인식과 사회적 감수성 공감 교육을 이유로 오후3시 영업종료를 밝힌 지난 6월22일 서…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "IT·과학",
-      "url": "https://www.khan.co.kr/article/202608040753001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T07:53:00+09:00",
-      "keywords": [
-        "AI",
-        "교육"
-      ]
-    },
-    {
-      "id": "fe28da9a8e92",
-      "title": "최대 38도 무더위 절정···오후부터 소나기 소식",
-      "summary": "전국 대부분 지역에 폭염 특보가 내려진 지난 3일 서울 영등포구 서울달에서 열화상 적외선 카메라로 바라본 여의도 모습이 붉게 물들어 있다. 열화상 카메라는 온도가 높을수록 붉게, 낮을수록 푸르게 표시한다. 한수빈 기…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202608040741001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T07:41:00+09:00",
-      "keywords": []
-    },
-    {
-      "id": "8feb3a66edda",
-      "title": "수사권 완전 박탈 자초하고도 반성문 안 쓰는 검찰",
-      "summary": "보완수사권 폐지를 골자로 한 형사소송법 개정안 국회 통과로 검찰청 해체와 수사권 폐지가 확정된 가운데, 검찰이 자신들의 과오에 대해 사과와 반성부터 해야 한다는 지적이 제기됩니다. 72년 동안 유지돼온 검사의 수사권…",
-      "source": "오마이뉴스",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256105",
-      "published": "2026-08-04T07:38:53+09:00",
-      "keywords": [
-        "국회",
-        "검찰"
-      ]
-    },
-    {
-      "id": "576812fd6939",
-      "title": "이재용, 올해 상반기 개인 배당액 728억…배당 시행 기업 47.7%↑",
-      "summary": "리더스인덱스 상장사 2873곳 배당 현황 분석개인 배당액 1위 이재용…671억 정몽구 2위지난해 상법 개정 이후 분기·반기 배당 증가이재용 삼성전자 회장과 젠슨 황 엔비디아 최고경영자가 지난달 24일(현지시간) 미국…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "주식·증시",
-      "url": "https://www.khan.co.kr/article/202608040730001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T07:30:00+09:00",
-      "keywords": [
-        "상장",
-        "삼성전자"
-      ]
-    },
-    {
-      "id": "385cf13ee3f2",
-      "title": "트럼프 “이란, 참수 전 마지막 기회”···이란 “미국과 협상 계획 없다”",
-      "summary": "도널드 트럼프 미국 대통령이 3일(현지시간) 미국 워싱턴 백악관에서 ‘군인 배우자 위원회’를 설립하는 행정명령에 서명하고 있다. UPI연합뉴스도널드 트럼프 미국 대통령이 3일(현지시간) 이란과의 대화가 진행 중이고…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "스포츠·문화",
-      "url": "https://www.khan.co.kr/article/202608040728001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T07:28:00+09:00",
-      "keywords": [
-        "배우",
-        "대통령"
-      ]
-    },
-    {
-      "id": "c6119367c674",
-      "title": "미국의 인정은 필요 없다... 숫자보다 더 놀라운 이들의 변화",
-      "summary": "\"음악이 지역이나 언어로 나뉘기보다는, 그 자체로 들려지고 사랑받기를 바란다.\" 지난 7월 29일 방탄소년단(BTS) 일곱 명이 각자의 인스타그램에 올린 글의 일부다. 그래미 음악상에 작품을 출품하지 않겠다며 쓴 글…",
-      "source": "오마이뉴스",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255986",
-      "published": "2026-08-04T07:15:57+09:00",
-      "keywords": [
-        "미국"
-      ]
-    },
-    {
-      "id": "067e088737eb",
-      "title": "갑자기 사라진 멀쩡한 동네 가로수, 이유를 찾아봤더니",
-      "summary": "언제나 그 자리에 있을 것만 같았던 우리 동네 가로수가 어느 날 갑자기 그루터기만 남긴 채 사라진 모습을 본 적 있으실 겁니다. 그때마다 '대체 왜 베어진 걸까, 언제 누가 결정했을까?' 의문이 들지만 정작 이유를…",
-      "source": "오마이뉴스",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255091",
-      "published": "2026-08-04T07:13:06+09:00",
-      "keywords": []
-    },
-    {
-      "id": "4ec794a1e94b",
-      "title": "강화도에서 키우는 '기이한 과일', 이게 다 토마토입니다",
-      "summary": "조선의 이수광은 토마토에 대해 이렇게 적었다. 남만시(南蠻柿)는 풀감이다. 봄에 나서 가을에 열매를 맺고 맛은 감과 비슷하다. 본래 남만에서 났는데, 근래에 한 사신이 중국에서 종자를 얻어 왔다. 이 또한 기이한 과…",
-      "source": "오마이뉴스",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255489",
-      "published": "2026-08-04T07:11:47+09:00",
-      "keywords": [
-        "중국"
-      ]
-    },
-    {
-      "id": "8cb96896a3fc",
-      "title": "“실탄도, 의욕도 더는 없습니다”…개미 거래대금 반년만에 증발",
-      "summary": "거래비중 7월 31%대로 급감 시장전체 거래대금도 줄어 외국인 증시 영향력만 커져개미들의 투자심리가 위축되며 코스피에서 개인의 영향력이 빠르게 줄고 있다. 올해 초만 해도 외국인 ..",
-      "source": "매일경제",
-      "region": "국내",
-      "tier": "증권",
-      "domain": "주식·증시",
-      "url": "https://www.mk.co.kr/news/stock/12115881",
-      "published": "2026-08-04T06:46:40+09:00",
-      "keywords": [
-        "증시"
-      ]
-    },
-    {
-      "id": "8a6a1f12e574",
-      "title": "귀국날 7시간30분 ‘마라톤 회의’…이 대통령 “공급 절벽 극복에 속도”",
-      "summary": "미국과 남미 3개국 방문 일정을 마친 이재명 대통령과 김혜경 여사가 3일 경기 성남시 서울공항에 도착해 공군 1호기에서 영접객들에게 인사하고 있다. 청와대사진기자단이재명 대통령이 3일 7박11일간 순방을 마치고 귀국…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202608040644001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T06:44:00+09:00",
-      "keywords": [
-        "대통령"
-      ]
-    },
-    {
-      "id": "f02a4a4a9b87",
-      "title": "32억 이상·다주택 '핀셋 증세' 그친 세제개편안…시민사회 \"기대 못 미쳐\"",
-      "summary": "정부가 시가 32억 원 이상의 초고가 1주택 소유자와 다주택자의 종합부동산세 부담을 늘리되, 거주용 1주택의 종부세 비과세 기준은 현행 12억 원에서 14억 원으로 상향하는 내용을 담은 부동산 세제개편안을 발표했다.…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.pressian.com/pages/articles/2026080320060629578&ref=rss",
-      "published": "2026-08-04T06:40:10+09:00",
-      "keywords": [
-        "부동산"
-      ]
-    },
-    {
-      "id": "01f651dbcfd1",
-      "title": "한울본부, 울진 부구천 산책로 조성 지원…주민 안전·편의 기대",
-      "summary": "한울원자력본부가 주민 지원 사업의 하나로 북면 부구리 517-1번지 일원에 데크를 포함한 부구천 산책로를 조성한다고 3일 밝혔다. 인근 주민들에게 안전하고 쾌적한 보행 환경을 제공하기 위해 추진되는 이번 사업이 완료…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.pressian.com/pages/articles/2026080320582965809&ref=rss",
-      "published": "2026-08-04T06:31:08+09:00",
-      "keywords": [
-        "환경"
-      ]
-    },
-    {
-      "id": "c51a4c44b09a",
-      "title": "울진군의회, 제293회 임시회 개회",
-      "summary": "경북 울진군의회는 3일 제293회 임시회를 개회하고 오는 14일 까지 10일 간의 의사 일정에 들어갔다. 이날 본회의에 앞서 진행된 5분 자유 발언에서는 김정희 의원이 농어촌버스 요금 무료화 정책 개선을, 김복남 의…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.pressian.com/pages/articles/2026080320461655653&ref=rss",
-      "published": "2026-08-04T06:29:46+09:00",
-      "keywords": []
-    },
-    {
-      "id": "a6d822c975e0",
-      "title": "이민자 떠난 스페인 세우타에 몰린 극우…이민자 '강경 대응' 유럽 새 표준되나",
-      "summary": "스페인의 북아프리카 자치령 세우타를 향한 대규모 이주 사태가 일단락됐지만 이를 계기로 한 극우 반이민 선동과 유럽연합(EU) 내 후폭풍은 계속되고 있다. 이번 사태에 우파를 넘어 중도 정부까지 강경한 목소리를 내며…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.pressian.com/pages/articles/2026080319031247863&ref=rss",
-      "published": "2026-08-04T06:25:16+09:00",
-      "keywords": []
-    },
-    {
-      "id": "9b138b85a937",
-      "title": "[정보보안 연재소설-로그아웃되지 않는 밤] 제14화 '현장 모르는 소리'",
+      "id": "57d140630179",
+      "title": "[정보보안 연재소설-로그아웃되지 않는 밤] 제15화 '개발환경 개떡같다는 말'",
       "summary": "데일리시큐는 7월부터 장삼봉 작가(필명)의 정보보안 소설《로그아웃되지 않는 밤》을 매주 4편씩 연재한다. 화려한 디지털 서비스 뒤에서 보이지 않는 위협과 맞서는 보안 담당자들의 현실과 고뇌, 성장을 생생하게 담았다.…",
       "source": "데일리시큐",
       "region": "국내",
       "tier": "보안",
       "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207903",
-      "published": "2026-08-04T06:23:34+09:00",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207920",
+      "published": "2026-08-05T14:27:39+09:00",
       "keywords": [
-        "보안"
+        "보안",
+        "환경"
       ]
     },
     {
-      "id": "808d19985300",
-      "title": "트럼프, 이란 전쟁으로 떼돈 번 엑손모빌·셰브론에 “가격 낮춰라” 압박",
-      "summary": "“유가 오르면 미국 큰돈 번다” 호언장담하더니고유가 장기화로 중간선거 발목 우려되자 석유기업 정조준 맹비난 나서AP연합뉴스도널드 트럼프 미국 대통령이 이란과의 전쟁으로 국제 유가가 급등하면서 막대한 이익을 낸 석유…",
+      "id": "b39592bfb85d",
+      "title": "“미군 사드 20% 남아···‘위험할 정도로 낮은 수준’ 경고”",
+      "summary": "사드 (THAAD·고고도미사일방어체계) 발사대가 2019년 2월 미국 텍사스 포트 블리스에서 미 공군 수송기 C-17 글로브마스터III에 탑재할 준비를 하고 있다. 미 공군 제공/ AP연합뉴스미군의 사드(THAAD·…",
       "source": "경향신문",
       "region": "국내",
       "tier": "종합",
       "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202608040622001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T06:22:00+09:00",
+      "url": "https://www.khan.co.kr/article/202608050755001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T07:55:00+09:00",
       "keywords": [
-        "대통령",
-        "기업"
+        "미국"
       ]
     },
     {
-      "id": "5814494ea314",
-      "title": "[단독]“훈련 못 따라온다”···검도부 코치, 중학생 폭행해 ‘아동 학대’ 혐의 입건",
-      "summary": "경찰 마크. 김창길 기자중학교 검도부 교사가 교육 목적이라며 학생을 30분 동안 죽도로 때린 사건이 발생해 경찰에 수사에 나섰다. 학생은 눈 주위 등 얼굴에 심한 타박상을 입어 치료를 받고 있다.3일 경향신문 취재를…",
-      "source": "경향신문",
+      "id": "0809846068af",
+      "title": "노동부·기후부 장관에 유감 있다",
+      "summary": "정부가 3대 메가프로젝트 추진을 위해 노동·환경 분야에서 잇달아 규제 완화 조짐을 보이면서 김영훈 고용노동부 장관과 김성환 기후에너지환경부 장관의 역할에 의문이 제기됩니다. 노동부는 '메가특구'에 주 52시간 근로제…",
+      "source": "오마이뉴스",
       "region": "국내",
       "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202608040600101/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T06:00:10+09:00",
+      "domain": "정치·국제",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256373",
+      "published": "2026-08-05T07:52:06+09:00",
       "keywords": [
-        "경찰"
+        "장관",
+        "고용"
       ]
     },
     {
-      "id": "4bec37b26721",
-      "title": "[2026 세제개편안]“빵 안 굽는 베이커리 카페 NO” 30년 운영해야 가업상속공제 인정",
-      "summary": "타르트. 연합뉴스서울 근교 한 베이커리 카페는 대지면적이 약 5000평에 달하며, 이 중 대부분은 차량 약 200대를 수용할 수 있는 주차장으로 사용되고 있다. 해당 토지의 시장가는 약 300억원으로, 이를 그대로…",
-      "source": "경향신문",
+      "id": "f039c24f92c9",
+      "title": "부산시, 폭염 단계별 가로수·녹지 관리…수목 고사 예방",
+      "summary": "(부산=연합뉴스) 김선호 기자 = 부산시는 계속된 폭염에 수목 고사 피해를 예방하기 위해 가로수 및 녹지대 관리계획을 시행 중이라고 5일 밝혔다...",
+      "source": "연합뉴스",
       "region": "국내",
-      "tier": "종합",
+      "tier": "통신",
       "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202608040600091/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T06:00:09+09:00",
+      "url": "https://www.yna.co.kr/view/AKR20260805017600051",
+      "published": "2026-08-05T07:52:05+09:00",
       "keywords": []
     },
     {
-      "id": "d2f0a4dc0e0b",
-      "title": "[단독]검찰이 잡은 산업스파이, 지난해 47명…검찰청 폐지 이후는?",
-      "summary": "서울 서초구 대검찰청. 한수빈 기자검찰이 인지수사를 통해 기소하는 ‘산업스파이’ 수가 매년 증가 추세인 것으로 나타났다. 검찰청이 폐지되는 10월 2일부터는 중대범죄수사청(중수청)이 수사를 전담하는데, 기존의 전문성…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202608040600081/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T06:00:08+09:00",
-      "keywords": [
-        "산업"
-      ]
-    },
-    {
-      "id": "9c8616b9545b",
-      "title": "추경호, ‘박근혜 보은용 조례’ 포기···여론 뭇매에 공약 철회",
-      "summary": "추경호 대구시장이 6·3 지방선거 후보 시절이던 지난 4월28일 대구 수성구 국민의힘 대구시당에서 경향신문과 인터뷰하고 있다. 국민의힘 대구시당 제공추경호 대구시장이 후보 시절 추진 의지를 보인 ‘전직 대통령 활동…",
+      "id": "d6975bbe80c0",
+      "title": "알리·테무 어린이 용품 유해물질…물안경 지퍼백서 기준치 325배 검출",
+      "summary": "프탈레이트계 가소제가 기준치 325배 검출된 물안경 지퍼백. 서울시 제공중국계 온라인 플랫폼에서 판매 중인 어린이용 물놀이용품에서 기준치를 크게 초과한 유해물질이 검출됐다.서울시는 알리익스프레스·테무·쉬인 등 중국계…",
       "source": "경향신문",
       "region": "국내",
       "tier": "종합",
       "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202608040600071/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T06:00:07+09:00",
+      "url": "https://www.khan.co.kr/article/202608050752001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T07:52:00+09:00",
       "keywords": [
-        "대통령"
+        "중국"
       ]
     },
     {
-      "id": "1c084fd63b08",
-      "title": "사표냈지만 병원 못 떠났다···전북대병원 신생아중환자실 김진규 교수 돌아온 이유",
-      "summary": "전북대병원 소아청소년과 신생아중환자실 김진규 교수가 지난달 29일 병원 앞에서 인터뷰하고 있다. 김정근 선임기자의사 한 명이 공개적으로 던진 사직서의 파장은 컸다. 전북대병원 소아청소년과(소청과) 신생아중환자실 김진…",
-      "source": "경향신문",
+      "id": "45f2be45c349",
+      "title": "쿠팡Inc, 개인정보 유출 과징금에 역대최대 8천350억원 영업손실(종합2보)",
+      "summary": "(서울=연합뉴스) 조민정 정수연 기자 = 쿠팡Inc가 개인정보 유출 과징금 여파로 2021년 상장 이후 최대 규모의 영업손실을 냈다.",
+      "source": "연합뉴스",
       "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202608040600061/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T06:00:06+09:00",
-      "keywords": []
-    },
-    {
-      "id": "ae8b02600551",
-      "title": "사람들이 자꾸 쓰러집니다… “의원님, 탄소 조기감축 약속해주세요” 국회에 쏟아진 호소",
-      "summary": "“너무 더워요. 초등학교 4학년 때 친구가 쓰러져 실려 가는 모습을 봤습니다.”- 18세 청소년“양산 없이는 5분 이상 걷기 힘들어요. 사람도 야생동물도 지하수도 걱정입니다.”- 제주도민“용접기사로 일하고 있는 청년…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202608040600051/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T06:00:05+09:00",
+      "tier": "통신",
+      "domain": "보안",
+      "url": "https://www.yna.co.kr/view/AKR20260805005153030",
+      "published": "2026-08-05T07:51:46+09:00",
       "keywords": [
-        "국회"
+        "개인정보 유출",
+        "상장"
       ]
     },
     {
-      "id": "95462e0276bf",
-      "title": "[2026 세제개편안]회사 발령, 아이 학교 때문에 실거주 못하면 세금 더 내나요?",
-      "summary": "일러스트 ｜생성형 AI ‘CHAT GPT’정부가 ‘장기보유’에서 ‘실거주’ 중심으로 부동산 세제를 개편하면서, 취학·전근·질병 등 불가피한 사정으로 거주하지 못하더라도 최장 3년까지 ‘거주기간’으로 인정하기로 했다.…",
-      "source": "경향신문",
+      "id": "674c9607e214",
+      "title": "AMD, 어닝 서프라이즈… 급등 후 시간외거래서 되돌림",
+      "summary": "(서울=연합뉴스) 정주호 기자 = 미국 반도체 기업 AMD가 시장 예상치를 웃도는 분기 매출 전망을 내놨지만 정규장 급등한 주가는 시간외 거래에...",
+      "source": "연합뉴스",
       "region": "국내",
-      "tier": "종합",
-      "domain": "IT·과학",
-      "url": "https://www.khan.co.kr/article/202608040600041/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-04T06:00:04+09:00",
-      "keywords": [
-        "AI",
-        "부동산"
-      ]
-    },
-    {
-      "id": "23772639746b",
-      "title": "중동 긴장 완화에 안도 랠리…다우 사상 최고·나스닥 2%↑·유가 5% 급락 [월가월부]",
-      "summary": "뉴욕증시가 중동 지정학적 긴장 완화 기대에 일제히 상승했다. 국제유가는 호르무즈 해협 봉쇄 우려가 완화되면서 약 5% 급락했고, 국채금리도 하락하며 투자심리가 개선됐다. 3일(현지..",
-      "source": "매일경제",
-      "region": "국내",
-      "tier": "증권",
+      "tier": "통신",
       "domain": "주식·증시",
-      "url": "https://www.mk.co.kr/news/stock/12115819",
-      "published": "2026-08-04T05:54:00+09:00",
+      "url": "https://www.yna.co.kr/view/AKR20260805011900009",
+      "published": "2026-08-05T07:43:53+09:00",
       "keywords": [
-        "증시",
-        "국제"
+        "주가",
+        "반도체"
       ]
     },
     {
-      "id": "f6731a8d24a9",
-      "title": "이란, 트럼프가 띄운 \"3일 협상\" 일축…\"미국과 진행되는 협상 없어\"",
-      "summary": "도널드 트럼프 미국 대통령이 이란에 대한 대규모 공습을 중단하면서 이란과 호르무즈 및 핵 문제를 위한 협의가 시작될 것이라고 밝혔지만, 이란 당국은 미국과 어떠한 협상도 진행하지 않고 있다고 밝혔다. 그러면서 오만…",
-      "source": "프레시안",
+      "id": "d2ded436e2ef",
+      "title": "이번엔 '연설 전 투표' 논쟁, \"연설 후 투표\" \"규칙 변경 안돼\"",
+      "summary": "더불어민주당 8.17 전당대회 최고위원 후보들이 선호투표제에 이어 이번엔 '선 투표 후 연설'을 두고 공방을 벌이고 있다. 일부 최고위원 후보는 당원들이 정견 발표를 못 들은 채 투표하는 건 문제라고 지적하는 반면,…",
+      "source": "오마이뉴스",
       "region": "국내",
       "tier": "종합",
       "domain": "정치·국제",
-      "url": "https://www.pressian.com/pages/articles/2026080318213265369&ref=rss",
-      "published": "2026-08-04T05:02:21+09:00",
-      "keywords": [
-        "대통령"
-      ]
-    },
-    {
-      "id": "2b6c8320f7a5",
-      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
-      "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by v…",
-      "source": "BleepingComputer",
-      "region": "해외",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
-      "published": "2026-08-04T05:01:22+09:00",
-      "keywords": []
-    },
-    {
-      "id": "2856f8cc28e2",
-      "title": "울산 삼산동 페인트공장 화재 1명 사망…김상욱 시장 \"주택가 위험물 시설 전수조사\"",
-      "summary": "울산 남구 삼산동의 한 페인트 관련 시설에서 불이 나 1명이 숨진 가운데 김상욱 울산시장이 긴급대책회의를 열고 주택가 인근 위험물 저장시설에 대한 전수조사를 지시했다. 3일 울산시는 김 시장이 삼산동 페인트 관련 시…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.pressian.com/pages/articles/2026080318054174172&ref=rss",
-      "published": "2026-08-04T04:35:59+09:00",
-      "keywords": []
-    },
-    {
-      "id": "fc395f7e1109",
-      "title": "강원대 캠퍼스혁신파크 내 '특성화 융합연구원' 구축",
-      "summary": "강원대학교(총장 정재연)가 8월 입주를 앞둔 캠퍼스 혁신파크 ‘산학연혁신허브를 활용해 지역 전략산업의 기술 혁신을 이끌 ’특성화 융합연구원‘을 구축하고, 연구원 내 기업 공동연구소를 설치해 기업 주도의 산학연 협력…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.pressian.com/pages/articles/2026080319223663489&ref=rss",
-      "published": "2026-08-04T04:25:47+09:00",
-      "keywords": [
-        "기업"
-      ]
-    },
-    {
-      "id": "8deae1192476",
-      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-      "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and ste…",
-      "source": "BleepingComputer",
-      "region": "해외",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-      "published": "2026-08-04T04:25:10+09:00",
-      "keywords": [
-        "IT"
-      ]
-    },
-    {
-      "id": "f419523f464a",
-      "title": "'2026 인제 별빛야시장' 21일 개장…9월 19일까지",
-      "summary": "인제군이 여름철 지역 경제에 활력을 불어넣고 주민과 관광객들에게 다채로운 야간 볼거리·먹거리를 제공하기 위해 21일부터 ‘2026 인제 별빛야시장’을 정식 개장하고 본격적인 운영에 돌입한다. 이번 별빛야시장은 지난…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.pressian.com/pages/articles/2026080319151591908&ref=rss",
-      "published": "2026-08-04T04:24:58+09:00",
-      "keywords": [
-        "경제"
-      ]
-    },
-    {
-      "id": "367eab94de71",
-      "title": "강릉시 14~16일까지 '2026 강릉국가유산야행' 개최",
-      "summary": "강원특별자치도 강릉시는 오는 14일부터 16일까지 강릉대도호부관아와 서부시장, 명주동 일원에서 2026 강릉국가유산야행을 개최한다. 강릉국가유산야행은 2016년 첫 개최 이후 지역을 대표하는 야간 문화행사로 자리매김…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.pressian.com/pages/articles/2026080317043319854&ref=rss",
-      "published": "2026-08-04T04:24:52+09:00",
-      "keywords": []
-    },
-    {
-      "id": "56cd9cf42877",
-      "title": "용인특례시의회, 올해 8개 의원연구단체 운영",
-      "summary": "용인특례시의회는 3일 의원연구단체 운영 심의위원회 회의를 열고, 올해 의원연구단체 등록 및 활동계획을 승인했다. 의원연구단체는 의원들이 관심 분야에 대한 전문적인 연구와 정책 개발 활동을 통해 의정 역량을 강화하고,…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.pressian.com/pages/articles/2026080319095913779&ref=rss",
-      "published": "2026-08-04T04:10:14+09:00",
-      "keywords": []
-    },
-    {
-      "id": "e7180f9fe4a4",
-      "title": "대구오페라하우스, '글로벌 영아티스트 캐스팅 오디션' 아리아 부문 참가자 공개 모집",
-      "summary": "(재)대구문화예술진흥원 대구오페라하우스는 제23회 대구국제오페라축제의 특별 프로그램인 ‘글로벌 영아티스트 캐스팅 오디션(Global Young Artist Casting Audition)’ 아리아 부문 참가자를 8월…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "IT·과학",
-      "url": "https://www.pressian.com/pages/articles/2026080319053289044&ref=rss",
-      "published": "2026-08-04T04:08:03+09:00",
-      "keywords": [
-        "IT",
-        "국제"
-      ]
-    },
-    {
-      "id": "42273f6372bb",
-      "title": "양양군, '2026년 딸기 스마트팜 기초과정' 본격 시동",
-      "summary": "강원특별자치도 양양군은 양양군농업기술센터가 예비 농업인들의 재배 역량 강화를 위해 오는 7일부터 12월 18일까지 '2026년 딸기 스마트팜 기초과정' 교육을 운영한다고 3일 밝혔다. 이번 과정은 총 11회에 걸쳐…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.pressian.com/pages/articles/2026080317184911791&ref=rss",
-      "published": "2026-08-04T04:07:26+09:00",
-      "keywords": [
-        "교육"
-      ]
-    },
-    {
-      "id": "641b6b10f962",
-      "title": "김민석 \"DJ와 이재명 잇는 다리 될 것\"…광주 필승대회에 3000명 운집",
-      "summary": "더불어민주당 당대표 선거에 출마한 김민석 후보가 민주당 텃밭 광주를 찾아 \"김대중과 이재명을 잇는 다리가 되겠다\"고 선언하며, 이재명 대통령의 '800조 서남권 반도체 메가 프로젝트'를 자신의 정치적 명운을 걸고 성…",
-      "source": "프레시안",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "IT·과학",
-      "url": "https://www.pressian.com/pages/articles/2026080318340431022&ref=rss",
-      "published": "2026-08-04T04:00:15+09:00",
-      "keywords": [
-        "반도체",
-        "대통령"
-      ]
-    },
-    {
-      "id": "bfdd8dd5b03e",
-      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
-      "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer too…",
-      "source": "The Hacker News",
-      "region": "해외",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
-      "published": "2026-08-04T03:43:53+09:00",
-      "keywords": [
-        "IT"
-      ]
-    },
-    {
-      "id": "6fe1fc69b9e2",
-      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
-      "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affectin…",
-      "source": "BleepingComputer",
-      "region": "해외",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-      "published": "2026-08-04T02:00:56+09:00",
-      "keywords": [
-        "CVE",
-        "IT"
-      ]
-    },
-    {
-      "id": "0e432ce8d1dd",
-      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a f…",
-      "source": "The Hacker News",
-      "region": "해외",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
-      "published": "2026-08-04T01:24:47+09:00",
-      "keywords": [
-        "IT"
-      ]
-    },
-    {
-      "id": "41eb1309865f",
-      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws…",
-      "source": "The Hacker News",
-      "region": "해외",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-      "published": "2026-08-04T01:15:13+09:00",
-      "keywords": [
-        "IT"
-      ]
-    },
-    {
-      "id": "ae521919a5b6",
-      "title": "훈련 전날 문자 통보한 美, 상부 보고 안 한 韓… 국방부 ‘빈총 논란’ 1군단장 직무배제",
-      "summary": "한미 연합훈련 도중 벌어진 미군 무인기 오인 소동은 한미 군당국 실무자 간 소통 오류에서 비롯된 것으로 3일 파악됐다. 미군 실무자가 훈련 전날 문자메시지로 비행 계획을 알렸고, 육군 1군단 소속 실무자는 이 계획을…",
-      "source": "서울신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "사회·경제",
-      "url": "https://www.seoul.co.kr/news/newsView.php?id=20260804010006",
-      "published": "2026-08-04T00:40:19+09:00",
-      "keywords": []
-    },
-    {
-      "id": "36e8f78752bd",
-      "title": "오세훈·유승민 “보수정치 신뢰 회복… 국힘, 유능한 정당으로 거듭나야”",
-      "summary": "오세훈 서울시장과 유승민 전 국민의힘 의원이 3일 만나 ‘통합과 혁신을 통한 보수정치 신뢰 회복’에 지속적으로 협력하기로 했다. 지난 6·3 지방선거 최대 격전지인 서울시장 선거에서 힘을 모았던 두 사람은 “국민의힘…",
-      "source": "서울신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.seoul.co.kr/news/newsView.php?id=20260804008004",
-      "published": "2026-08-04T00:23:38+09:00",
-      "keywords": [
-        "국민의힘"
-      ]
-    },
-    {
-      "id": "b45502b9aeca",
-      "title": "김용이냐 이성윤이냐 ‘5위 대전’… 친명도 친청도 ‘수석 딜레마’",
-      "summary": "친청, 최민희 수석·이 당선 사활이 밀자니 표 분산 땐 수석 뺏겨친명, 최 수석 막고 김 당선 올인2위 박선원 집중하자니 김 위태첫 TV토론서 ‘일베 문화’ 공방전더불어민주당 8·17 전당대회 1주차 경선이 끝난 가…",
-      "source": "서울신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.seoul.co.kr/news/newsView.php?id=20260804008003",
-      "published": "2026-08-04T00:23:02+09:00",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256509",
+      "published": "2026-08-05T07:42:58+09:00",
       "keywords": [
         "민주당"
       ]
     },
     {
-      "id": "be1b8f62ebfa",
-      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
-      "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 poli…",
-      "source": "BleepingComputer",
-      "region": "해외",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
-      "published": "2026-08-04T00:04:39+09:00",
+      "id": "53e3dcc37e9c",
+      "title": "제주 해안 전역에 열대야…서귀포 최저 29도",
+      "summary": "(제주=연합뉴스) 박지호 기자 = 제주 해안지역에서 밤사이 최저기온이 25도를 넘는 열대야 현상이 나타났다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260805016300056",
+      "published": "2026-08-05T07:42:24+09:00",
       "keywords": []
     },
     {
-      "id": "71726c4b0fd5",
-      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
-      "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved int…",
-      "source": "BleepingComputer",
-      "region": "해외",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
-      "published": "2026-08-03T23:45:55+09:00",
+      "id": "4492c949c422",
+      "title": "[시간들] '女수영복' 입은 남성이 논란 되는 나라",
+      "summary": "(서울=연합뉴스) 김재현 선임기자 = 최근 서울 한강 야외 수영장에서 분홍색 여성용 원피스 수영복을 입은 남성의 뒷모습을 찍은 사진이 온라인을 ...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260804145500546",
+      "published": "2026-08-05T07:42:00+09:00",
       "keywords": []
     },
     {
-      "id": "3e747ac1fdf8",
-      "title": "망치로 계산기 ‘쾅쾅’···무인점포 절도 행각 10대 2명 검거, 1명은 촉법소년",
-      "summary": "경찰 마크. 경향신문 자료사진전남광주 광양시에서 무인점포를 돌며 절도 행각을 벌인 10대 2명이 경찰에 붙잡혔다.광양경찰서는 특수절도미수 등의 혐의로 10대 A군을 입건해 조사하고 있다고 3일 밝혔다. 범행에 가담한…",
+      "id": "e06bbee4faff",
+      "title": "'오디세이' 개봉일 예매량 56만장…'스파이더맨4'와 본격 경쟁",
+      "summary": "(서울=연합뉴스) 박원희 기자 = 크리스토퍼 놀런 감독의 신작 영화 '오디세이'가 개봉일인 5일 예매량 50만장을 훌쩍 넘기며 흥행에 시동을 걸...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "스포츠·문화",
+      "url": "https://www.yna.co.kr/view/AKR20260805013200005",
+      "published": "2026-08-05T07:41:51+09:00",
+      "keywords": [
+        "영화"
+      ]
+    },
+    {
+      "id": "5d5bfbf17a34",
+      "title": "서울 성동구서 외국인 여성에 흉기 휘두른 40대 남성 구속···“도망 염려”",
+      "summary": "법원 이미지. 경향신문 자료사진서울 성동구에서 외국인 여성에게 흉기를 휘두르고 달아난 40대 남성이 구속됐다.서울동부지법 서범준 영장전담 부장판사는 지난 4일 살인미수 혐의를 받는 40대 남성 A씨에 대해 구속 전…",
       "source": "경향신문",
       "region": "국내",
       "tier": "종합",
       "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202608032315001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-03T23:15:00+09:00",
+      "url": "https://www.khan.co.kr/article/202608050739001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T07:39:00+09:00",
       "keywords": [
-        "경찰"
+        "법원"
       ]
     },
     {
-      "id": "ffeb9a344bc7",
-      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
-      "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an i…",
-      "source": "The Hacker News",
-      "region": "해외",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
-      "published": "2026-08-03T23:03:11+09:00",
-      "keywords": [
-        "AI"
-      ]
-    },
-    {
-      "id": "0c7e78f1091b",
-      "title": "위베어소프트, CertKorea와 협약… CertBear 글로벌 SSL/TLS 인증서 자동 발급 지원",
-      "summary": "API 관리 및 보안 전문기업 위베어소프트(대표 장영휘)는 SSL/TLS 인증서 자동화 관리 솔루션 ‘CertBear’의 인증서 발급 및 갱신 기능을 강화하기 위해 CertKorea와 협약을 체결했다고 밝혔다.이번…",
-      "source": "데일리시큐",
+      "id": "3d5e76c768e0",
+      "title": "한국 감독 후보였던 르나르, 코트디부아르 대표팀 사령탑 복귀",
+      "summary": "(서울=연합뉴스) 배진남 기자 = 최근 수년간 한국 축구대표팀 사령탑 후보로 꾸준하게 거론됐던 에르베 르나르(57·프랑스)가 10여년 만에 다시...",
+      "source": "연합뉴스",
       "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207902",
-      "published": "2026-08-03T22:38:53+09:00",
+      "tier": "통신",
+      "domain": "스포츠·문화",
+      "url": "https://www.yna.co.kr/view/AKR20260805016400007",
+      "published": "2026-08-05T07:38:49+09:00",
       "keywords": [
-        "보안",
-        "기업"
+        "축구"
       ]
     },
     {
-      "id": "05d8546f20cf",
-      "title": "리미니스트리트, AI 에이전트 거버넌스 관리 서비스 ‘리미니 거버넌스 포 AI’ 출시",
-      "summary": "리미니스트리트가 기업의 AI 에이전트 운영을 통합 관리하는 관리형 서비스 '리미니 거버넌스 포 AI(Rimini Govern™ for AI)’를 출시했다.이 서비스는 AI 에이전트의 활동, 워크플로우, 보안, 규정…",
-      "source": "데일리시큐",
+      "id": "e53019fc3909",
+      "title": "대전 서구 아파트서 불…1명 연기 흡입",
+      "summary": "(대전=연합뉴스) 이재림 기자 = 5일 오전 2시 59분께 대전 서구 한 아파트 5층에서 불이 났다.",
+      "source": "연합뉴스",
       "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207901",
-      "published": "2026-08-03T22:22:02+09:00",
-      "keywords": [
-        "보안",
-        "AI"
-      ]
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260805015600063",
+      "published": "2026-08-05T07:38:46+09:00",
+      "keywords": []
     },
     {
-      "id": "6d3ab79f5d3e",
-      "title": "아웅산 수치, 가택 연금 중 첫 외부 면담 사진 공개···‘생존 확인’",
-      "summary": "3일(현지시각) 미얀마 대통령실 언론·정보국은 아웅산 수치 전 국가고문이 수도 네피도에서 국제적십자위원회 미얀마 상주 대표인 아노 드 백과 면담했다며 사진을 공개했다. AFP 연합뉴스미얀마의 민주화 지도자 아웅산 수…",
+      "id": "a598ee218616",
+      "title": "네타냐후 “하마스 완전 무장해제가 먼저”···가자 철군 거부",
+      "summary": "지난해 12월29일(현지시간) 미국 플로리다주 팜비치에 있는 도널드 트럼프 미국 대통령 소유의 마라라고 클럽에서 베냐민 네타냐후 이스라엘 총리와 트럼프 대통령이 회담하고 있다. 로이터연합뉴스베냐민 네타냐후 이스라엘…",
       "source": "경향신문",
       "region": "국내",
       "tier": "종합",
       "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202608032215001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-03T22:15:00+09:00",
+      "url": "https://www.khan.co.kr/article/202608050736001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T07:36:00+09:00",
       "keywords": [
         "대통령"
       ]
     },
     {
-      "id": "55f6aa5b365a",
-      "title": "잠실리센츠 실거주는 213만원…비거주 땐 747만원 ‘3배 이상’",
-      "summary": "서울 ‘랜드마크 아파트 84㎡’ 종부세 계산해보니한강벨트 ‘마래푸’는 16만원 줄고서초구 ‘아리팍’은 1300만원 올라강남 대형 평수 아파트 증가폭 커2년 뒤 한남더힐 3억500만원 예상서울 송파구 잠실리센츠 실거주…",
-      "source": "경향신문",
+      "id": "c04e8f4e5b6e",
+      "title": "방문진 새 이사장에 강형철 교수…MBC, 이달 사장후보 접수",
+      "summary": "(서울=연합뉴스) 장진리 기자 = MBC 대주주인 방송문화진흥위원회(방문진)의 새 이사장으로 강형철 이사가 호선됐다.",
+      "source": "연합뉴스",
       "region": "국내",
-      "tier": "종합",
+      "tier": "통신",
       "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202608032214005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-03T22:14:00+09:00",
+      "url": "https://www.yna.co.kr/view/AKR20260805013300005",
+      "published": "2026-08-05T07:34:27+09:00",
       "keywords": []
     },
     {
-      "id": "f7b7c88dd660",
-      "title": "케어클라우드, AWS 환경 해킹…34만5천 명 의료·금융정보 유출",
-      "summary": "미국 의료 IT 기업 케어클라우드(CareCloud)가 해킹 공격으로 약 34만5천 명의 의료·금융 정보를 탈취당한 사실을 공식 확인했다. 공격자는 회사의 아마존웹서비스(AWS) 환경에 침입해 전자의무기록(EHR)…",
-      "source": "데일리시큐",
+      "id": "832d46d3b2b5",
+      "title": "[신간] '범죄의 여왕'은 왜 실종됐나…'애거사 크리스티 미스터리'",
+      "summary": "(서울=연합뉴스) 김기훈 기자 = ▲ 애거사 크리스티 미스터리 = 마리 베네딕트 지음. 백지민 옮김.",
+      "source": "연합뉴스",
       "region": "국내",
-      "tier": "보안",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260804142000005",
+      "published": "2026-08-05T07:31:00+09:00",
+      "keywords": []
+    },
+    {
+      "id": "8e3b3ab643c5",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "summary": "■ 쿠팡Inc, 개인정보 유출 과징금에 역대최대 8천350억원 영업손실",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
       "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207900",
-      "published": "2026-08-03T22:07:15+09:00",
+      "url": "https://www.yna.co.kr/view/AKR20260805012400011",
+      "published": "2026-08-05T07:30:00+09:00",
       "keywords": [
-        "해킹",
-        "IT"
+        "개인정보 유출"
       ]
     },
     {
-      "id": "7e27eb855b98",
-      "title": "다후아테크놀로지, 국제표준 ‘IEC 62443-4-1’ 인증 획득…제품 개발 보안체계 입증",
-      "summary": "영상 중심 AIoT 솔루션 기업 다후아테크놀로지(Dahua Technology)가 제품 개발 보안 체계에 대해 국제 사이버 보안 표준인 ‘IEC 62443-4-1’ 인증을 획득했다고 밝혔다.IEC 62443는 국제자…",
-      "source": "데일리시큐",
+      "id": "63bd28c53435",
+      "title": "[손병관의 뉴스프레소] 7개월 만에 '수도권 5만호 추가공급안' 나온다",
+      "summary": "1. 7개월 만에 '수도권 5만호 추가공급안' 나온다 정부가 이르면 다음주 수도권에 5만호 이상의 신규 주택을 추가 공급하는 내용의 부동산 대책을 발표할 것으로 전해졌다. 지난 1·29 대책에서 밝힌 6만호에 이번…",
+      "source": "오마이뉴스",
       "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207899",
-      "published": "2026-08-03T21:56:32+09:00",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256582",
+      "published": "2026-08-05T07:30:00+09:00",
       "keywords": [
-        "보안",
+        "부동산"
+      ]
+    },
+    {
+      "id": "312e69182651",
+      "title": "스페이스X 첫 성적, 매출 92% 증가…머스크 \"2030년 매출 1조달러\"(종합2보)",
+      "summary": "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 일론 머스크가 이끄는 항공우주·인공지능(AI) 기업 스페이스X가 상장 후 첫 실적발표에서 시장의 기대...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "주식·증시",
+      "url": "https://www.yna.co.kr/view/AKR20260805005452075",
+      "published": "2026-08-05T07:26:17+09:00",
+      "keywords": [
+        "상장",
         "AI"
       ]
     },
     {
-      "id": "bcae401c170b",
-      "title": "AX, 어디서부터 시작할까…초록소프트, 산업 현장 겨냥한AI 전환 솔루션 3종 제시",
-      "summary": "AI 전문기업 초록소프트(대표 김명락)가 국내 산업현장의 AX 전환을 고민하는 중소기업을 겨냥해 3대 AX 솔루션을 앞세운 시장 공략에 본격 나섰다. 자금과 전문 인력 부족으로 AX 도입에 어려움을 겪는 중소기업을…",
-      "source": "데일리시큐",
-      "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207898",
-      "published": "2026-08-03T21:50:49+09:00",
-      "keywords": [
-        "AI",
-        "기업"
-      ]
-    },
-    {
-      "id": "d3f308f4d700",
-      "title": "[속보]‘300억 사기 혐의’ 연예기획사 대표 차가원 구속…“증거인멸 염려”",
-      "summary": "연예기획사 원헌드레드레이블 차가원 대표가 3일 구속 전 피의자 심문(영장실질심사)을 위해 서울 서초구 서울중앙지법에 출석하고 있다. 연합뉴스300억원대 사기 혐의를 받는 연예기획사 원헌드레드레이블 차가원 대표가 3일…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "스포츠·문화",
-      "url": "https://www.khan.co.kr/article/202608032149001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-03T21:49:00+09:00",
-      "keywords": [
-        "연예"
-      ]
-    },
-    {
-      "id": "758f202ed78f",
-      "title": "정성호 “형소법 빛의 속도 개정, 부작용 땐 빨리 고쳐야”",
-      "summary": "정 장관, ‘피해자 보호 미흡’ 언급대통령에 거부권 건의 “안 한다”‘검찰청 검사’ 마지막 임관식 검찰청 산하 마지막 검사 임관식이 3일 경기 과천시 정부과천청사에서 열려 정성호 법무부 장관이 신임 검사들과 악수를…",
-      "source": "경향신문",
-      "region": "국내",
-      "tier": "종합",
-      "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202608032143005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-03T21:43:00+09:00",
-      "keywords": [
-        "대통령",
-        "검찰"
-      ]
-    },
-    {
-      "id": "002c4a7141ee",
-      "title": "극한 폭염에 가뭄까지…영남 ‘물 비상’",
-      "summary": "포항은 우물 파고, 청도는 단수 준비“마을에 물이 없어 난리입니다. 30년도 넘은 건데 이거라도 고쳐봐야죠.”경북 포항 북구 기계면 화대리에서 지난 2일 만난 김규복 이장(74)이 녹슨 농업용수 관정(지하수를 끌어올…",
+      "id": "385c5fb110dc",
+      "title": "낮 최고 온도 38도 무더위 계속…서울 전남 등 오후 소나기",
+      "summary": "지난 3일 서울 영등포구 여의대로에서 시민들이 이동하고 있다. 한수빈 기자수요일인 5일은 전국에 무더위와 열대야가 이어지겠다. 이날 낮 최고 기온은 30~38도로 예보됐다.이날 오전 5시 현재 기온은 서울 29.4도…",
       "source": "경향신문",
       "region": "국내",
       "tier": "종합",
       "domain": "사회·경제",
-      "url": "https://www.khan.co.kr/article/202608032142005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-03T21:42:00+09:00",
+      "url": "https://www.khan.co.kr/article/202608050724001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T07:24:00+09:00",
       "keywords": []
     },
     {
-      "id": "ee79ace8fcfd",
-      "title": "미·일 ‘엔화 약세 방어’ 공식 인정…베선트 “추가 개입 주저 않을 것”",
-      "summary": "2011년 동일본 대지진 이후 처음트럼프 “세계 경제에도 좋은 일”미국과 일본 정부가 엔화 약세를 저지하기 위해 시장에 공동 개입했다고 공식 인정하면서 필요시엔 추가 대응에 나서겠다고 밝혔다. 미·일의 공동 외환 개…",
+      "id": "bc6475b05fde",
+      "title": "쿠팡Inc, 2분기 영업손실 8350억원···2021년 상장 이후 최대",
+      "summary": "쿠팡 사옥에 걸린 쿠팡 기업로고. 경향신문 자료사진쿠팡의 모회사 쿠팡Inc가 2021년 상장 이후 최대 규모의 영업손실을 냈다. 개인정보 유출 사태 이후 적자로 전환된 데 이어 과징금 여파로 영업손실 규모가 커졌다.…",
+      "source": "경향신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "보안",
+      "url": "https://www.khan.co.kr/article/202608050720001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T07:20:00+09:00",
+      "keywords": [
+        "개인정보 유출",
+        "상장"
+      ]
+    },
+    {
+      "id": "5ad28e56f6da",
+      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+      "summary": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that…",
+      "source": "BleepingComputer",
+      "region": "해외",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+      "published": "2026-08-05T07:18:20+09:00",
+      "keywords": [
+        "IT"
+      ]
+    },
+    {
+      "id": "f937d7c22c8a",
+      "title": "부산 수영구 아파트 화재…주민 3명 병원 이송",
+      "summary": "(부산=연합뉴스) 이영재 기자 = 5일 새벽 부산의 한 아파트에서 불이 나 일부 주민이 대피하는 등 소동이 빚어졌다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260805013500051",
+      "published": "2026-08-05T07:17:04+09:00",
+      "keywords": []
+    },
+    {
+      "id": "6adfffbce491",
+      "title": "혼자 16명 돌보던 중 치매 노인 추락사…요양보호사 '무죄'",
+      "summary": "(인천=연합뉴스) 최은지 기자 = 2023년 1월 30일 요양보호사 A(71)씨는 인천시 강화군 한 요양원에서 홀로 노인 16명을 돌보고 있었다...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260804121600065",
+      "published": "2026-08-05T07:17:01+09:00",
+      "keywords": []
+    },
+    {
+      "id": "5011bf1f4fbc",
+      "title": "美·브라질, '외교관 비토' 티격태격…이면에 트럼프-룰라 반목",
+      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 미국과 브라질이 자국에 파견된 상대국 대표에 '비토'를 놓으면서 외교 갈등을 이어가고 있다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "정치·국제",
+      "url": "https://www.yna.co.kr/view/AKR20260805009600071",
+      "published": "2026-08-05T07:16:06+09:00",
+      "keywords": [
+        "외교"
+      ]
+    },
+    {
+      "id": "5edadd51f9f2",
+      "title": "31번의 구조 신호, '앙심' 두 글자로 요약한 재판부",
+      "summary": "1심 재판부는 김희원(가명, 여)씨의 범행 동기를 단 두 문장으로 요약했다. \"피고인은 평소 피해자의 반복된 폭력에 앙심을 품고 있었다. 피해자가 잠이 든 틈을 이용해 살해하기로 마음먹었다.\" 반면 2심은 같은 범행…",
+      "source": "오마이뉴스",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255499",
+      "published": "2026-08-05T07:15:23+09:00",
+      "keywords": [
+        "재판"
+      ]
+    },
+    {
+      "id": "e894f8268a5a",
+      "title": "\"그냥 애만 던져요\"... 국가가 민간 시스템을 지운 자리",
+      "summary": "가정위탁제도가 법으로 자리 잡은 건 2003년이다. 가정위탁지원센터가 생기면서다. 그전까지 보호가 필요한 아이들은 거의 시설로 갔다. 하지만 그보다 훨씬 오래전부터 시설로 가지 않은 아이들이 있었다. 수십 년 전부터…",
+      "source": "오마이뉴스",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256092",
+      "published": "2026-08-05T07:12:32+09:00",
+      "keywords": []
+    },
+    {
+      "id": "9b20e9c517a6",
+      "title": "'돌려차기 사건' 농담한 서범수·진종오... \"전적으로 잘못\"",
+      "summary": "국민의힘 국회의원들이 4일 '부산 돌려차기 사건' 피해자 김진주씨 초청 간담회를 앞두고 부적절한 농담을 주고받았다가 공식 사과했다. 김씨가 간담회장에 도착하기 전 사적으로 주고받은 말이지만, 성폭력 사건 피해 사실을…",
+      "source": "오마이뉴스",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "정치·국제",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256524",
+      "published": "2026-08-05T07:10:28+09:00",
+      "keywords": [
+        "국회"
+      ]
+    },
+    {
+      "id": "a189a666a081",
+      "title": "\"미군, 사드 미사일 80% 소진…'위험할 정도로 부족' 경고\"",
+      "summary": "(워싱턴=연합뉴스) 백나리 특파원 = 미군의 사드(THAAD·고고도미사일방어체계) 요격 미사일 재고가 5분의 1 정도밖에 남지 않은 것으로 전해...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260805007200071",
+      "published": "2026-08-05T07:07:26+09:00",
+      "keywords": []
+    },
+    {
+      "id": "f7a5cf80f345",
+      "title": "[르포] 낮엔 텅비고 해지면 러닝·테니스 북적…폭염이 바꾼 운동시간표",
+      "summary": "(대구=연합뉴스) 김선형 기자 = \"여름 운동은 밤에 하는 겁니다.\"",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260804127800053",
+      "published": "2026-08-05T07:01:01+09:00",
+      "keywords": []
+    },
+    {
+      "id": "f28fca1ca198",
+      "title": "[우리품의 아프리카인](46) '100개국이 쓴다' AI노트 개발한 우간다 청년",
+      "summary": "(서울=연합뉴스) 박세진 기자 = \"유튜브 강의 영상 하나 올려보겠습니다.\"",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "IT·과학",
+      "url": "https://www.yna.co.kr/view/AKR20260730159500898",
+      "published": "2026-08-05T07:00:04+09:00",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "id": "0475f9d2f972",
+      "title": "대전 미분양 아파트 최대 속 둔산 연일 신고가…'양극화' 뚜렷",
+      "summary": "(대전=연합뉴스) 박주영 기자 = 대전지역 미분양 아파트가 2천가구를 넘어서며 올해 최고치를 기록했다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260804140400063",
+      "published": "2026-08-05T07:00:04+09:00",
+      "keywords": []
+    },
+    {
+      "id": "be0392ebc29f",
+      "title": "[서울폭염] ③ 58도 아스팔트에 내리는 단비…12t 살수차 직접 타보니",
+      "summary": "(서울=연합뉴스) 윤민혁 기자 = 사상 처음으로 서울 전역에 폭염중대경보가 발효된 4일 오후 종로구 세종대로의 아스팔트 온도는 58도에 달했다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260804136300004",
+      "published": "2026-08-05T07:00:03+09:00",
+      "keywords": []
+    },
+    {
+      "id": "835f9335cdd7",
+      "title": "[오늘의 국회일정](5일·수)",
+      "summary": "▲ 국회의장",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "정치·국제",
+      "url": "https://www.yna.co.kr/view/AKR20260804157600001",
+      "published": "2026-08-05T07:00:03+09:00",
+      "keywords": [
+        "국회"
+      ]
+    },
+    {
+      "id": "c8e329b6584e",
+      "title": "개인-팀 성적 엇박자에도 포기 안 하는 김재환…\"내일이 있다\"",
+      "summary": "(인천=연합뉴스) 김경윤 기자 = 2026시즌을 앞두고 SSG 랜더스로 이적한 거포 김재환은 시즌 초반 극심한 슬럼프를 겪었다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260804170400007",
+      "published": "2026-08-05T07:00:02+09:00",
+      "keywords": []
+    },
+    {
+      "id": "4cf5605933cf",
+      "title": "'尹계엄' 반란수괴 적용 불가 근거는…\"1980년 5·17 내란 판례\"",
+      "summary": "(서울=연합뉴스) 박재현 기자 = 권창영 2차 종합특별검사팀이 12·3 비상계엄과 관련해 군형법상 반란죄를 적용하는 방안에 대해 조은석 내란특검...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260804165800004",
+      "published": "2026-08-05T07:00:00+09:00",
+      "keywords": []
+    },
+    {
+      "id": "85cadc67840d",
+      "title": "[점선면]“못 버틴다” 사표 낸 신생아중환자실 의사, 돌아왔지만…",
+      "summary": "소아청소년과·산부인과 기피 현상아이들 아파도 치료할 의사가 없다비수도권은 더 심각…정부 대책은?전북대병원 소아청소년과 신생아중환자실 김진규 교수가 지난달 29일 병원 앞에서 인터뷰를 하고 있다. 김정근 선임기자지난…",
+      "source": "경향신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.khan.co.kr/article/202608050700001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T07:00:00+09:00",
+      "keywords": []
+    },
+    {
+      "id": "136acda841ed",
+      "title": "'월드컵 돌풍' 카보베르데 감독, 모로코 프로팀 베르칸 지휘봉",
+      "summary": "(서울=연합뉴스) 배진남 기자 = 사상 처음 월드컵 본선 무대에 오른 카보베르데를 32강까지 이끈 부비스타(카보베르데) 감독이 모로코 프로축구팀...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "스포츠·문화",
+      "url": "https://www.yna.co.kr/view/AKR20260805010900007",
+      "published": "2026-08-05T06:56:56+09:00",
+      "keywords": [
+        "축구"
+      ]
+    },
+    {
+      "id": "7e993f234a96",
+      "title": "삼성, 'HBM5 8배 성능' 차세대 3D메모리 공개…\"AI칩 장벽 넘는다\"(종합)",
+      "summary": "(샌타클래라=연합뉴스) 권영전 특파원 = 삼성전자가 인공지능(AI) 반도체의 성능과 전력 효율 한계를 뛰어넘기 위해 AI 칩 상단에 메모리를 수...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "IT·과학",
+      "url": "https://www.yna.co.kr/view/AKR20260805004351091",
+      "published": "2026-08-05T06:48:32+09:00",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "id": "484ed2fbccb5",
+      "title": "PGA 투어 2028년 챔피언십 시리즈 윤곽…10개 대회 확정",
+      "summary": "(서울=연합뉴스) 최태용 기자 = 미국프로골프(PGA) 투어가 2028년부터 시작하는 챔피언십 시리즈의 윤곽이 드러났다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "스포츠·문화",
+      "url": "https://www.yna.co.kr/view/AKR20260805010700007",
+      "published": "2026-08-05T06:47:48+09:00",
+      "keywords": [
+        "골프",
+        "미국"
+      ]
+    },
+    {
+      "id": "ce168402b944",
+      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+      "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle at…",
+      "source": "BleepingComputer",
+      "region": "해외",
+      "tier": "보안",
+      "domain": "보안",
+      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+      "published": "2026-08-05T06:45:36+09:00",
+      "keywords": []
+    },
+    {
+      "id": "e9d73da9efed",
+      "title": "강원 내륙 낮 최고 37도…무더위 지속",
+      "summary": "(춘천=연합뉴스) 강태현 기자 = 수요일인 5일 강원지역은 대체로 맑겠으나 아침까지 가끔 구름이 많겠다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260805010300062",
+      "published": "2026-08-05T06:44:09+09:00",
+      "keywords": []
+    },
+    {
+      "id": "00d51db54db8",
+      "title": "[북한날씨] 평안·함경도 곳에 따라 소나기…\"무더위 고온 경보\"",
+      "summary": "(서울=연합뉴스) 이은정 기자 = 북한은 5일 전 지역에서 가끔 구름이 많겠다고 기상청이 예보했다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "정치·국제",
+      "url": "https://www.yna.co.kr/view/AKR20260805010000504",
+      "published": "2026-08-05T06:42:21+09:00",
+      "keywords": [
+        "북한",
+        "날씨"
+      ]
+    },
+    {
+      "id": "e6bbf464d668",
+      "title": "北김여정 \"日, 전쟁국가로 변신…군사적 선택안 추가설정할 것\"",
+      "summary": "(서울=연합뉴스) 이은정 기자 = 김정은 북한 국무위원장의 동생인 김여정 노동당 총무부장은 일본의 장거리 순항미사일 시험발사 등에 반발하며 선제...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "정치·국제",
+      "url": "https://www.yna.co.kr/view/AKR20260805009300504",
+      "published": "2026-08-05T06:41:29+09:00",
+      "keywords": [
+        "북한",
+        "노동"
+      ]
+    },
+    {
+      "id": "e2b371948278",
+      "title": "구미 냉동창고 화재 8시간 만에 완진…2억상당 재산 피해",
+      "summary": "(구미=연합뉴스) 최수호 기자 = 4일 오후 8시 57분께 경북 구미 고아읍 한 식품업체 냉동창고에서 불이나 약 8시간 만에 진화됐다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260805009900053",
+      "published": "2026-08-05T06:40:29+09:00",
+      "keywords": []
+    },
+    {
+      "id": "b0ae80fca026",
+      "title": "열대야 속 고양 460세대 아파트 정전…2시간 만에 복구",
+      "summary": "(고양=연합뉴스) 심민규 기자 = 열대야를 동반한 폭염 속 경기 고양시의 한 아파트 단지에서 정전이 발생해 주민들이 불편을 겪었다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260805009800060",
+      "published": "2026-08-05T06:37:00+09:00",
+      "keywords": []
+    },
+    {
+      "id": "1fb15a0bac70",
+      "title": "신약 해외 허가 많을수록 국내 승인 늦었다",
+      "summary": "(서울=연합뉴스) 박상현 기자 = 국내에서 신규 의약품 허가에 소요되는 기간이 해당 의약품을 허가한 해외 국가가 적을수록 빨랐다는 연구 결과가 ...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260804126500017",
+      "published": "2026-08-05T06:33:01+09:00",
+      "keywords": []
+    },
+    {
+      "id": "d1075512e898",
+      "title": "\"열어보니 마음 뭉클\"…무신사, 日 강진 지역 주문 상자에 위로",
+      "summary": "(서울=연합뉴스) 구정모 기자 = 일본 구마모토현 강진 이후 피해 복구가 이어지는 가운데 규슈 지역으로 배송되는 일부 온라인 주문 상품에 타월과...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "정치·국제",
+      "url": "https://www.yna.co.kr/view/AKR20260804140300030",
+      "published": "2026-08-05T06:31:01+09:00",
+      "keywords": [
+        "일본"
+      ]
+    },
+    {
+      "id": "ee401768d223",
+      "title": "[율곡로] 폭염의 사회학",
+      "summary": "(서울=연합뉴스) 이승우 선임기자 = 1995년 시카고 폭염(1995 Chicago heat wave)은 현대 재난사에서 폭염 피해와 관련해 자...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260804153100546",
+      "published": "2026-08-05T06:31:00+09:00",
+      "keywords": []
+    },
+    {
+      "id": "36dd076754c2",
+      "title": "대구·경북서 찜통더위·열대야 지속…낮 최고 36도 전망",
+      "summary": "(대구=연합뉴스) 최수호 기자 = 5일 대부분 지역에 폭염특보가 내려진 대구·경북에서는 최고 체감온도가 33도 안팎으로 오르는 무더운 날씨가 이...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260805009100053",
+      "published": "2026-08-05T06:29:20+09:00",
+      "keywords": [
+        "날씨"
+      ]
+    },
+    {
+      "id": "20cc47df77ae",
+      "title": "美 S&P500지수 2달만에 최고치 경신…유가 80달러 밑으로(종합)",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 호르무즈 해협 통항을 둘러싼 미국과 이란의 협상이 진전을 이뤘다는 소식에 4일(현지시간) 국제 유가가 급락하...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "주식·증시",
+      "url": "https://www.yna.co.kr/view/AKR20260805005051072",
+      "published": "2026-08-05T06:27:41+09:00",
+      "keywords": [
+        "S&P",
+        "미국"
+      ]
+    },
+    {
+      "id": "762d61376c53",
+      "title": "충북 대체로 맑음…낮 최고 36도",
+      "summary": "(청주=연합뉴스) 천경환 기자 = 5일 충북은 대체로 맑겠다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260805008900064",
+      "published": "2026-08-05T06:25:21+09:00",
+      "keywords": []
+    },
+    {
+      "id": "6c29d7fca311",
+      "title": "스페이스X 첫 성적표, 분기매출 92% 증가…AI지출에 주가↓(종합)",
+      "summary": "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 일론 머스크가 이끄는 항공우주·인공지능(AI) 기업 스페이스X의 올해 2분기 매출액이 78억달러(약 ...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "주식·증시",
+      "url": "https://www.yna.co.kr/view/AKR20260805005451075",
+      "published": "2026-08-05T06:22:57+09:00",
+      "keywords": [
+        "주가",
+        "AI"
+      ]
+    },
+    {
+      "id": "89c6ba1763a0",
+      "title": "◇내일의 경기(6일)",
+      "summary": "◆6일(목)",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260803137152007",
+      "published": "2026-08-05T06:15:14+09:00",
+      "keywords": []
+    },
+    {
+      "id": "436a4f94a040",
+      "title": "◇오늘의 경기(5일)",
+      "summary": "◆5일(화)",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260803137151007",
+      "published": "2026-08-05T06:15:11+09:00",
+      "keywords": []
+    },
+    {
+      "id": "94ac087198ce",
+      "title": "맛집 냉면·막국수 집에서 맛본다…폭염에 외식보다 간편식 증가",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 기록적인 폭염이 이어지면서 외출 대신 집에서 식사를 해결하는 소비자가 늘자 냉면과 막국수 등 여름철 면요리 가...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260804119000030",
+      "published": "2026-08-05T06:15:00+09:00",
+      "keywords": []
+    },
+    {
+      "id": "0b8854525f42",
+      "title": "쿠팡Inc, 개인정보 유출 과징금에 역대최대 8천350억원 영업손실(종합)",
+      "summary": "(서울=연합뉴스) 조민정 정수연 기자 = 쿠팡Inc가 개인정보 유출 과징금 여파로 2021년 상장 이후 최대 규모의 영업손실을 냈다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "보안",
+      "url": "https://www.yna.co.kr/view/AKR20260805005152030",
+      "published": "2026-08-05T06:13:08+09:00",
+      "keywords": [
+        "개인정보 유출",
+        "상장"
+      ]
+    },
+    {
+      "id": "30e061a16dd3",
+      "title": "전북 불볕더위 속 오후에 소나기…열대야 지속",
+      "summary": "(전주=연합뉴스) 최영수 기자 = 4일 전북은 대체로 맑고 불볕더위가 이어지겠다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260805008000055",
+      "published": "2026-08-05T06:11:10+09:00",
+      "keywords": []
+    },
+    {
+      "id": "ba6d3fe8cb79",
+      "title": "\"청년층 복지증세 수용도 낮아…이기심 아닌 정부 불신 탓\"",
+      "summary": "(서울=연합뉴스) 서한기 기자 = 초고령화와 소득 양극화로 미래 복지 재정 부담이 늘어나는 상황에서 청년세대의 복지 증세 수용도가 중장년 세대보...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260804109500530",
+      "published": "2026-08-05T06:11:01+09:00",
+      "keywords": [
+        "복지"
+      ]
+    },
+    {
+      "id": "dc96452fe596",
+      "title": "부·울·경 폭염·열대야 기승…낮 기온 33∼35도",
+      "summary": "(창원=연합뉴스) 정종호 기자 = 수요일인 5일 부산·울산·경남은 대체로 맑겠으나 무더위와 열대야가 이어질 것으로 예상돼 각별한 주의가 필요하다...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260805006900052",
+      "published": "2026-08-05T06:10:22+09:00",
+      "keywords": []
+    },
+    {
+      "id": "7decf8cad970",
+      "title": "[속보] 김여정, 日 국방력 강화에 \"군사적 선택안 추가 설정하게 될 것\"",
+      "summary": "(",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260805007900504",
+      "published": "2026-08-05T06:09:47+09:00",
+      "keywords": []
+    },
+    {
+      "id": "2e00d7221d6c",
+      "title": "대전·세종·충남 불볕더위…오후에 곳에 따라 소나기",
+      "summary": "(대전=연합뉴스) 이재림 기자 = 수요일인 5일 대전·세종·충남 지역에서도 더위가 기승을 부릴 전망이다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260805007800063",
+      "published": "2026-08-05T06:09:38+09:00",
+      "keywords": []
+    },
+    {
+      "id": "5fe998e0275d",
+      "title": "쿠팡Inc \"국세청, 3천억원 과세예고…화재 손실 3천500억 추산\"",
+      "summary": "(서울=연합뉴스) 조민정 기자 = 쿠팡의 모회사 쿠팡Inc는 지난 6월 국세청으로부터 약 3천억원(2억800만달러)의 과세 예고 통지를 받았다고...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260805007100030",
+      "published": "2026-08-05T06:09:24+09:00",
+      "keywords": []
+    },
+    {
+      "id": "3aad22fd90bd",
+      "title": "[코스피·코스닥 전 거래일(4일) 주요공시]",
+      "summary": "▲ 진원생명과학[011000], 150억원 유상증자…리볼트투자조합에 제3자배정",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "주식·증시",
+      "url": "https://www.yna.co.kr/view/AKR20260804156300008",
+      "published": "2026-08-05T06:05:00+09:00",
+      "keywords": [
+        "코스피",
+        "과학"
+      ]
+    },
+    {
+      "id": "9d00fdc9c06b",
+      "title": "제주, 가끔 구름 많고 산지에 약한 비",
+      "summary": "(제주=연합뉴스) 박지호 기자 = 5일 제주는 가끔 구름이 많고, 무더위 속에 산지를 중심으로 가끔 약한 비가 내리는 곳이 있겠다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260805006800056",
+      "published": "2026-08-05T06:01:22+09:00",
+      "keywords": []
+    },
+    {
+      "id": "02e5844b793c",
+      "title": "폭염에 주목받는 농어업재해보험…정부, 15일부터 할증 부담 완화",
+      "summary": "(서울=연합뉴스) 홍국기 기자 = 기후변화로 폭염과 고수온 등이 일상화하면서 농어가의 생계 유지와 경영 안정을 위한 대안으로 농어업재해보험이 주...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260804153000030",
+      "published": "2026-08-05T06:01:01+09:00",
+      "keywords": []
+    },
+    {
+      "id": "8f773b87f7cf",
+      "title": "\"온열질환 산재 절반, 소규모 사업장 집중…맞춤 대책 필요\"",
+      "summary": "(서울=연합뉴스) 조다운 기자 = 여름철 온열질환으로 인한 산업재해의 절반 이상이 근로자 50인 미만의 소규모 사업장에서 집중적으로 발생하는 것...",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260804138400001",
+      "published": "2026-08-05T06:01:01+09:00",
+      "keywords": [
+        "산업"
+      ]
+    },
+    {
+      "id": "2ec6204724f2",
+      "title": "평범했던 워킹맘, K-고구마 간식 ‘원조맘’이 되다",
+      "summary": "임주영 그로위드 대표 인터뷰어린이 고구마 간식 누적 판매 1700만개‘리얼이구마’와 ‘빼빼구마’를 만든 그로위드의 임주영 대표는 ‘원조’라는 단어를 자랑처럼 쓰지 않는다. 그 뒤에 숨겨진 ‘책임’의 무게를 알기 때문…",
+      "source": "경향신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.khan.co.kr/article/202608050600201/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T06:00:20+09:00",
+      "keywords": []
+    },
+    {
+      "id": "e00264466b87",
+      "title": "[의원님은 수주왕][단독]초선 때 산 땅 되팔고…그린벨트서 농사 짓다 ‘셀프 해제’ 나서고",
+      "summary": "홍성두 창녕군의원 ‘본인 땅 군에 팔아 4억 차익’심민섭 장성군의원 ‘그린벨트 개간 뒤 해제 요구’창녕군이 도시재생 뉴딜사업의 일환으로 지난 3월 창녕읍 교하리에 건립 완료한 ‘교하 복합거점’의 모습. 이 건물이 신…",
+      "source": "경향신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.khan.co.kr/article/202608050600191/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T06:00:19+09:00",
+      "keywords": []
+    },
+    {
+      "id": "521a5a5818e1",
+      "title": "[의원님은 수주왕][단독]경북 의성 ‘수주왕 의원님들’ 경찰 수사 받는다",
+      "summary": "경북경찰청, 의성군에 수의계약 자료 요청현 의성군의장 6촌 회사 수의계약도 추가 확인영양군에선 군의원 배우자 보조금 논란지난 6월 오호열 경북 의성군의원이 대표이사로 있었던 두 업체의 소재지를 찾아가보니, 1개 업체…",
+      "source": "경향신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "스포츠·문화",
+      "url": "https://www.khan.co.kr/article/202608050600181/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T06:00:18+09:00",
+      "keywords": [
+        "배우",
+        "경찰"
+      ]
+    },
+    {
+      "id": "e9818e508173",
+      "title": "[단독]특검 간 충돌 벌어진 ‘박성재 수사’…김건희특검도 지난해 “이중기소 우려” 전달",
+      "summary": "내란 중요임무 종사자 등 계엄 가담 의혹을 받는 박성재 전 법무부 장관이 지난 4월27일 오전 서울 서초구 서울중앙지방법원에서 열린 공판에 출석하고 있다. 사진공동취재단박성재 전 법무부 장관의 ‘김건희 여사 수사 무…",
       "source": "경향신문",
       "region": "국내",
       "tier": "종합",
       "domain": "정치·국제",
-      "url": "https://www.khan.co.kr/article/202608032141005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "published": "2026-08-03T21:41:00+09:00",
+      "url": "https://www.khan.co.kr/article/202608050600171/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T06:00:17+09:00",
       "keywords": [
-        "미국",
+        "장관",
+        "법원"
+      ]
+    },
+    {
+      "id": "54cb1543319d",
+      "title": "[단독]경찰 압수수색받은 10대 남학생 사망···유족 “강압수사 탓” 손배소송 제기",
+      "summary": "송파경찰서 수사팀 관계자들이 지난해 7월 고 A군에 대한 압수수색 영장을 집행하고 있다. 당시 자택에 설치된 홈캠 영상 캡처 사진. A군 유족 측 제공.여학생과 신체 사진 등을 주고받은 혐의로 고소된 10대 남학생이…",
+      "source": "경향신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.khan.co.kr/article/202608050600161/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T06:00:16+09:00",
+      "keywords": [
+        "경찰"
+      ]
+    },
+    {
+      "id": "7b9f9383eaa7",
+      "title": "달라지는 종부세, 구윤철·이억원·김용범은 얼마나 낼까",
+      "summary": "구윤철 부총리 겸 재정경제부 장관이 29일 국회에서 열린 재정경제기획위원회 전체회의에서 위원들의 질의에 답하고 있다. 연합뉴스정부가 지난 3일 발표한 세제개편안에 따라 부동산 대응을 주도하고 서울에 집을 보유한 고위…",
+      "source": "경향신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "정치·국제",
+      "url": "https://www.khan.co.kr/article/202608050600151/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T06:00:15+09:00",
+      "keywords": [
+        "국회",
         "경제"
       ]
     },
     {
-      "id": "43add7f26dcb",
-      "title": "금융보안원, 금융권 침투테스트 수행 가이드라인 발간…실제 공격 시나리오 기반 보안 점검 지원",
-      "summary": "금융보안원이 금융회사의 실제 공격 대응 역량을 강화하기 위해 '금융분야 침투테스트(모의해킹) 수행 가이드라인'을 발간했다.이번 가이드라인은 실제 공격자와 동일한 기법을 활용해 금융회사의 IT 인프라 침투 가능성을 검…",
-      "source": "데일리시큐",
+      "id": "43013e5c2977",
+      "title": "“번듯한 시설은 눈치 보여”···‘기후 약자’는 오늘도 ‘살기 위해’ 지하로 갑니다",
+      "summary": "노인들 지하철 타고 발길 닿는 지하상가로상인들 “오전 11시에 몰려와 오후 5시에 나가”“백화점 등 ‘번듯한’ 곳은 미안해서 못 가”노숙인들도 폭염에 지하로 쉴 곳 옮겨대구 도시철도 2호선 반월당역 지하도상가에서 4…",
+      "source": "경향신문",
       "region": "국내",
-      "tier": "보안",
-      "domain": "보안",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207897",
-      "published": "2026-08-03T21:38:18+09:00",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.khan.co.kr/article/202608050600141/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T06:00:14+09:00",
+      "keywords": []
+    },
+    {
+      "id": "7fe6d7841a14",
+      "title": "BTS가 쏘아올린 그래미 ‘인종차별’ 논란…누구를 위한 ‘다양성’인가",
+      "summary": "그래미 ‘아시아 팝’ 부문 신설몇 년째 본상 후보 오른 BTS“지역·언어로 구분되지 않길”출품 거부하며 보이콧 선언 북미·백인 위주 선정 논란 지속위켄드·드레이크도 보이콧 선언“유러피안 팝 뮤직은 안 만들어”외신들도…",
+      "source": "경향신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.khan.co.kr/article/202608050600131/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T06:00:13+09:00",
+      "keywords": []
+    },
+    {
+      "id": "7f887cebd2aa",
+      "title": "[단독]이태원 참사 ‘중대본 회의록’ 총체적 관리 부실…행안부, 경위 파악 착수",
+      "summary": "2022년 11월13일 한덕수 당시 국무총리가 정부서울청사 상황실에서 열린 이태원 참사 중앙재난안전대책본부 회의에서 모두발언을 하고 있다. 이준헌 기자윤석열 정부 당시 행정안전부가 2022년 10월29일 이태원 참사…",
+      "source": "경향신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "정치·국제",
+      "url": "https://www.khan.co.kr/article/202608050600121/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T06:00:12+09:00",
       "keywords": [
-        "해킹",
-        "IT"
+        "총리"
+      ]
+    },
+    {
+      "id": "689c53b74a34",
+      "title": "“청와대와 교감 필요해” 뇌물수수 전 경찰간부 특보로 내정한 충북도",
+      "summary": "경찰 신분으로 금품향응 받은 박병국 전 이사충북도, 2급 대외협력특별보좌관으로 내정도 “법적 결격사유 없어 도에 필요한 인물”시민단체·정치권 반발 “공직윤리 저버려도 되나”충북도청 전경. 충북도 제공.충북도가 과거…",
+      "source": "경향신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "사회·경제",
+      "url": "https://www.khan.co.kr/article/202608050600111/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T06:00:11+09:00",
+      "keywords": [
+        "경찰"
+      ]
+    },
+    {
+      "id": "617db142989d",
+      "title": "울산 물놀이 시설 55곳 안전관리 강화…안전요원 106명 배치",
+      "summary": "(울산=연합뉴스) 김용태 기자 = 울산시는 계곡, 하천, 해수욕장, 해변 등 주요 물놀이 시설에 대한 안전관리를 강화하고 있다고 5일 밝혔다.",
+      "source": "연합뉴스",
+      "region": "국내",
+      "tier": "통신",
+      "domain": "사회·경제",
+      "url": "https://www.yna.co.kr/view/AKR20260804164900057",
+      "published": "2026-08-05T06:00:10+09:00",
+      "keywords": []
+    },
+    {
+      "id": "6af6e0bc5480",
+      "title": "또또또 ‘승리’에도···존폐 기로에 선 서대문 여자 농구단",
+      "summary": "서대문여자농구단, 전국종별농구대회서 우승구 예산없이 후원과 서울시 지원으로 운영전임 구청장 시절 창단 강행···계속 갈등구청장 교체로 향후 계속 운영 가능성 불투명서대문구청 여자 농구단이 지난 2일 전남광주 영광스포…",
+      "source": "경향신문",
+      "region": "국내",
+      "tier": "종합",
+      "domain": "스포츠·문화",
+      "url": "https://www.khan.co.kr/article/202608050600101/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-08-05T06:00:10+09:00",
+      "keywords": [
+        "농구"
       ]
     }
   ]
